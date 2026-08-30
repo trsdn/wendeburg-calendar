@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wendeburg Calendar//trsdn.github.io//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wendeburg Veranstaltungen
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Gottesdienst unter der Eiche
+DTSTART;TZID=Europe/Berlin:20260809T110000
+DTSTAMP:20260830T191440Z
+UID:069acc69-4131-4bda-915c-12eefcf54a24@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191440Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volksfest in Zweidorf
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260830T191440Z
+UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Zweidorf
+ORGANIZER;CN="Traditionsgemeinschaft Zweidorf e. V.":mailto:noreply@trsdn.
+ github.io
+STATUS:CONFIRMED
+URL:https://www.zweidorf-online.de/Veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende
+DTSTART;TZID=Europe/Berlin:20260817T150000
+DTSTAMP:20260830T191440Z
+UID:029b2278-314f-4536-91ae-2a14654e63ee@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Blutspender retten Leben.
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Forum Peine
+ORGANIZER;CN=DRK:mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Blutspende-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst
+DTSTART;TZID=Europe/Berlin:20260823T110000
+DTSTAMP:20260830T191440Z
+UID:80674069-293c-4f2f-b00d-82a3c654e674@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Kirche Wendeburg
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/191081/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podiumsdiskussion
+DTSTART;TZID=Europe/Berlin:20260825T183000
+DTSTAMP:20260830T191440Z
+UID:69c27c5c-932d-44af-a7b3-1c25ad1697e5@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Diskussion zur Kommunalwahl.
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Forum Peine
+ORGANIZER;CN=PAZ:mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Podium-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorffest Vöhrum
+DTSTART;TZID=Europe/Berlin:20260905T140000
+DTEND;TZID=Europe/Berlin:20260905T220000
+DTSTAMP:20260830T191440Z
+UID:b8c47a89-7ab8-4311-9218-ee48b2f9f8dc@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein Fest für das ganze Dorf.
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Dorfplatz Vöhrum\, Dorfstraße 1\, 31228 Peine
+ORGANIZER;CN="Ortsrat Vöhrum":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/events/dorffest/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirchenübernachtung für Kinder
+DTSTART;TZID=Europe/Berlin:20260912T170000
+DTSTAMP:20260830T191440Z
+UID:89aaad74-d54c-4e30-86f6-eef6371cd9e8@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Eine Nacht in der Kirche.
+LAST-MODIFIED:20260830T191440Z
+ORGANIZER;CN="Ev. Jugend der Propstei Vechelde":mailto:noreply@trsdn.githu
+ b.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/181288/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abendlesung
+DTSTART;TZID=Europe/Berlin:20261002T193000
+DTSTAMP:20260830T191440Z
+UID:c2e66589-6375-4231-bffb-78b994186230@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Stadtbücherei Peine
+ORGANIZER;CN="Stadtbücherei Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/events/abendlesung/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drachenfest
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260830T191440Z
+UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Termin für 2026: 18.10.2026
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Zweidorf
+ORGANIZER;CN="Traditionsgemeinschaft Zweidorf e. V.":mailto:noreply@trsdn.
+ github.io
+STATUS:CONFIRMED
+URL:https://www.zweidorf-online.de/Veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsstadt Peine
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260830T191440Z
+UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Festliche Veranstaltungen in der Innenstadt.
+LAST-MODIFIED:20260830T191440Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/erleben/events/weihnachtsstadt-peine/
+END:VEVENT
+END:VCALENDAR

@@ -23,6 +23,7 @@ calendar.ics
 !state/
 !state/wendeburg.sqlite3
 !state/wendeburg.sqlite3-journal
+!docs/calendar.ics
 
 # Local configuration / secrets (root-level only - test fixtures ship their own config.toml)
 .env
