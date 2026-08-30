@@ -6,12 +6,139 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wendeburg Veranstaltungen
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Gottesdienst unter der Eiche
-DTSTART;TZID=Europe/Berlin:20260809T110000
-DTSTAMP:20260830T191440Z
-UID:069acc69-4131-4bda-915c-12eefcf54a24@trsdn.github.io
+SUMMARY:Mobility Spring
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+DTSTAMP:20260830T191718Z
+UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
+SEQUENCE:1
+DESCRIPTION:Das Zukunftsthema Mobilität bestimmt für zwei Tage die Stadt
+  Peine: E-Mobilität\, Oldtimer\, Motorräder\, Fahrräder oder Wohnmobile
+ ... – Peine Marketing lädt zur Mobilitätsmeile mit buntem Familienprog
+ ramm in die Peiner Innenstadt ein. Autohäuser präsentieren auf dem Markt
+ platz die neuesten Modelle\, Walk Acts und Aktionen …
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/erleben/events/mobility-spring/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Pforte Landkreis Peine - Landhausgarten Hantelmann
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DTSTAMP:20260830T191700Z
+UID:21bace1a-943f-47c5-aa5d-28553988b61e@trsdn.github.io
 SEQUENCE:0
-LAST-MODIFIED:20260830T191440Z
+DESCRIPTION:4500 m² Landhausgarten mit unterschiedlichen Gartenräumen\, 
+ z.B. Senk-\, Gräser-\, Beeren-\, Topfgarten\, Wasser u. v. m. Hier bekomm
+ t man viele Anregungen zur Gartengestaltung. Kaffee und Kuchen können fü
+ r soziale Zwecke genossen werden. Ab 10 Personen sind Sondertermine mögli
+ ch. An allen Terminen wird um 13:30 Uhr eine Führung angeboten. 25. und 2
+ 6. April 2026 "Der Garten erwacht" 20. und 21. Juni 2026 "Rosenzeit" 22. u
+ nd 23. August 2026 "Der Spätsommer blüht"
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Landhausgarten Hantelmann\, Wikbildstraße 6\, 31246 Ilsede\, Mü
+ nstedt
+ORGANIZER;CN="Landhausgarten Hantelmann":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
+ ne-landhausgarten-hantelmann-101184354/?tx_toujoudestinationoneintegration
+ _item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STADTRADELN im Peiner Land
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20260830T191718Z
+UID:08183f18-4b7b-4b8c-8ca1-fe89956e6642@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Alle Schulen\, Vereine\, Unternehmen sowie Bürgerinnen und B
+ ürger aber auch die Kommunalpolitiker selbst\, die in einer der sieben Te
+ ilnehmerkommunen des Landkreises Peine wohnen oder arbeiten\, werden auch 
+ in diesem Jahr wieder dazu aufgefordert\, an 21 aufeinanderfolgenden Tagen
+  für mehr Radförderung\, Klimaschutz und Lebensqualität um die Wette zu
+  radeln und für ihr Team Radfahrkilometer zu sammeln.
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.stadtradeln.de/landkreis-peine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Highland Gathering
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260830T191718Z
+UID:e154324d-8642-4815-ab69-af0a6d55e38d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Schotten sind los! Dieses Event sollten Sie sich nicht ent
+ gehen lassen! Bei dem größten Treffen dieser Art auf dem europäischen F
+ estland\, gibt es neben schottischen Waren und Leckereien auch die traditi
+ onellen Highland Games\, mit Baumstammwerfen\, Tauziehen und Stein-Weitwur
+ f.
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/erleben/events/highland-gathering/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peiner Freischießen
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260708
+DTSTAMP:20260830T191718Z
+UID:511666d1-aa9d-4f2f-ad71-06b753c1e726@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Das ist Peine: Eine Woche lang können Sie erleben\, wie die K
+ orporationen ihre Stadt auf den Kopf stellen. Ein Besuch in dieser besonde
+ ren Jahreszeit lohnt sich! Immer am ersten Juliwochenende findet das jähr
+ liche Peiner Freischießen statt.
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/erleben/events/freischiessen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peiner Weinfest
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260830T191718Z
+UID:dcef703b-ead6-477c-9182-41e870b1a434@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der Historische Marktplatz in Peine wird wieder in ein gemütl
+ iches Weindorf verwandelt. Eine besondere Freundschaft zwischen Peine und 
+ Asselheim/Grünstadt\, die seit 2003 besteht\, verleiht dem Fest eine beso
+ ndere Note. Daher reisen die Winzer aus Asselheim/Grünstadt jedes Jahr ü
+ ber 400 Kilometer\, um gemeinsam mit den Peinern zu feiern – eine Tradit
+ ion\, die Gemütlichkeit und Genuss vereint und das Weinfest zu einem einz
+ igartigen Erlebnis macht.
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/erleben/events/weindorf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst unter der Eiche mit Theaterkreis
+DTSTART;TZID=Europe/Berlin:20260809T110000
+DTSTAMP:20260830T191732Z
+UID:069acc69-4131-4bda-915c-12eefcf54a24@trsdn.github.io
+SEQUENCE:1
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommertheater
+DTSTART;TZID=Europe/Berlin:20260811T190000
+DTSTAMP:20260830T191732Z
+UID:7fcec943-e8ec-40b8-bdc6-499d3b1c5d68@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
 LOCATION:St. Georg\, Bortfeld
 ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
 STATUS:CONFIRMED
@@ -21,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Volksfest in Zweidorf
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260830T191440Z
+DTSTAMP:20260830T191728Z
 UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
@@ -31,6 +158,30 @@ ORGANIZER;CN="Traditionsgemeinschaft Zweidorf e. V.":mailto:noreply@trsdn.
  github.io
 STATUS:CONFIRMED
 URL:https://www.zweidorf-online.de/Veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst zur Einschulung
+DTSTART;TZID=Europe/Berlin:20260815T084500
+DTSTAMP:20260830T191732Z
+UID:a2842f28-202e-411c-9e84-d22d8186fffd@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friedensgebet
+DTSTART;TZID=Europe/Berlin:20260816T190000
+DTSTAMP:20260830T191732Z
+UID:3ac659a2-7e8f-425f-9ad1-a77671906346@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
@@ -47,31 +198,297 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=Blutspende-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gottesdienst
-DTSTART;TZID=Europe/Berlin:20260823T110000
-DTSTAMP:20260830T191440Z
-UID:80674069-293c-4f2f-b00d-82a3c654e674@trsdn.github.io
+SUMMARY:Autorenlesung: Gefangen im Warschauer Aufstand 1944
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260830T191700Z
+UID:e36c8111-2ad0-4141-8fdf-907594a5224f@trsdn.github.io
 SEQUENCE:0
-LAST-MODIFIED:20260830T191440Z
-LOCATION:Kirche Wendeburg
-ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+DESCRIPTION:Am 1. August vor 82 Jahren begann der Warschauer Aufstand als 
+ letzter verzweifelter Versuch der polnischen Heimatarmee\, ihre Hauptstadt
+  von der deutschen Besatzung zu befreien. Der Peiner Autor Harald Walter l
+ iest aus seinem spannenden Familienroman "52 deutsche Jahre"\, in dem der 
+ Protagonist Otto Waischwillat in den Wirren des Krieges in tödliche Gefah
+ r gerät. Zwischen Menschlichkeit und Gräueltaten\, Pflicht und Gewissen 
+ wird er immer wieder vor Entscheidungen gestellt\, die nicht nur seinen Ch
+ arakter\, sondern auch sein Schicksal bestimmen. Am Donnerstag\, den 27. A
+ ugust 2026 um 18 Uhr Eintritt frei Ort: Rittergut Oberg\, Oststr. 30\, 312
+ 46 Ilsede-Oberg Es werden für eine kleine Gebühr erfrischende Getränke 
+ gereicht. Anmeldung erwünscht\, Kartenvorbestellung unter verwaltung@ritt
+ ergut-oberg.de oder info@haraldwalter.de
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Rittergut Oberg\, Oststr. 30\, 31246 Ilsede
+ORGANIZER;CN="Harald Walter":mailto:noreply@trsdn.github.io
 STATUS:CONFIRMED
-URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
- enste/191081/detail
+URL:https://www.peine.de/de/veranstaltungen/termine/Autorenlesung-Gefangen
+ -im-Warschauer-Aufstand-1944.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Podiumsdiskussion
-DTSTART;TZID=Europe/Berlin:20260825T183000
-DTSTAMP:20260830T191440Z
-UID:69c27c5c-932d-44af-a7b3-1c25ad1697e5@trsdn.github.io
+SUMMARY:STADTRADELN - Preisverleihung & Aktionstag ES GEHT UMS KLIMA
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260830T191700Z
+UID:58ba91c4-b6b4-4b64-9076-3c785010cea6@trsdn.github.io
 SEQUENCE:0
-DESCRIPTION:Diskussion zur Kommunalwahl.
-LAST-MODIFIED:20260830T191440Z
+DESCRIPTION:STADTRADELN-Preisverleihung & „Es geht ums Klima“ 2026 Dre
+ i Wochen lang wurde im Peiner Land kräftig in die Pedale getreten: Am Sam
+ stag\, 29. August\, laden wir\, die wito gmbh und die Klimaschutzagentur L
+ andkreis Peine herzlich zur STADTRADELN-Preisverleihung in Kombination mit
+  der Veranstaltung ES GEHT UMS KLIMA an den Eixer See ein. Neben der Ehrun
+ g der erfolgreichsten Teams und Teilnehmenden des STADTRADELN\, gefördert
+  vom Regionalverband Braunschweig (RGB)\, erwartet euch ein abwechslungsre
+ iches Programm für die ganze Familie. Programm im Überblick: 12 – 14 U
+ hr Begrüßung sowie die STADTRADELN-Preisverleihung für Kinder\, Jugendl
+ iche\, Teams und Einzelradelnde. 13 Uhr Vorstellung des Klima-Talers im La
+ ndkreis Peine 14 Uhr Kuchenpause und Zeit für Gespräche 14:15 Uhr „Spo
+ tlight Klima: Cool bleiben! – Mit Gärten das Klima meistern“ mit span
+ nenden Tipps und Gästen 14:30 Uhr Yoga am See mit Mercan ab 14:45 Uhr Liv
+ e-Musik mit der Partyband FeierAbend und gemütlicher Ausklang am Eixer Se
+ e. Egal\, ob ihr selbst beim STADTRADELN mitgeradelt seid oder einfach ein
+ en schönen Nachmittag am Eixer See verbringen möchtet – alle Interessi
+ erte sind herzlich willkommen! Samstag\, 29. August 2026\, 12:00 bis ca. 1
+ 6:00 Uhr Eixer See\, Sundernweg 41\, Peine Der Eintritt ist frei.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Eixer See\, Sundernweg\, 31228 Peine
+ORGANIZER;CN="wito GmbH":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/stadtradeln-preisverleihung
+ -aktionstag-es-geht-ums-klima-101328685/?tx_toujoudestinationoneintegratio
+ n_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kartoffelpufferfest in Bortfeld
+DTSTART;TZID=Europe/Berlin:20260830T110000
+DTEND;TZID=Europe/Berlin:20260830T160000
+DTSTAMP:20260830T191559Z
+UID:0a129a25-09bf-468a-b297-acfef6cdc843@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Am 30.08.26 findet das traditionelle Pufferfest in Bortfeld ne
+ ben der Seniorentagesstätte Opferhöfe/hinter der Sporthalle statt. Frisc
+ h gebackene Puffer\, Kartoffel mit Quark\, selbstgebackene Kuchen und dive
+ rse Getränke sorgen für das leibliche Wohl. Die Kandidierenden für Orts
+ rat\, Gemeinderat und Gemeindebürgermeister stellen sich Ihren Fragen.
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Seniorentagesstätte Bortfeld\, Opferhöfe\, 38176 Bortfeld
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/kartoffelpuffer
+ fest-in-bortfeld-900001390-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260831T100000
+DTSTAMP:20260830T191716Z
+UID:69c27c5c-932d-44af-a7b3-1c25ad1697e5@trsdn.github.io
+SEQUENCE:1
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
 LOCATION:Forum Peine
-ORGANIZER;CN=PAZ:mailto:noreply@trsdn.github.io
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
 STATUS:CONFIRMED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
- php?vDetail=Podium-2026
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260901T100000
+DTSTAMP:20260830T191716Z
+UID:1a72b5c6-9f22-41e2-b294-606c85fe9e88@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40 Jahre Kraftpost-Denkmal
+DTSTART;TZID=Europe/Berlin:20260901T180000
+DTSTAMP:20260830T191559Z
+UID:c6715427-b0f1-47af-9150-df444b05c11f@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Schulstraße Ecke Braunschweiger Straße
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/40-jahre-kraftp
+ ost-denkmal-900001344-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260902T100000
+DTSTAMP:20260830T191716Z
+UID:be4cf2f5-91fe-4b05-96e9-6a01338ae091@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elterncafé
+DTSTART;TZID=Europe/Berlin:20260902T143000
+DTEND;TZID=Europe/Berlin:20260902T160000
+DTSTAMP:20260830T191559Z
+UID:510d6733-bf08-4804-8638-aa9a42a1b476@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Evanglisch- Lutherischer Kindergarten\, Braunschweiger Straße 10
+ \, 38716 Wendeburg
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/elterncaf--9000
+ 01384-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie weiter mit unseren kommunalen Finanzen?
+DTSTART;TZID=Europe/Berlin:20260902T180000
+DTSTAMP:20260830T191716Z
+UID:8fb44efd-528b-466b-9936-2c3a2a3c2908@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Vortragsveranstaltung mit dem Finanzexperten Gerald Heere Nied
+ ersächsischer Finanzminister Gerald Heere zu Gast in Peine – Kommunale 
+ Finanzen im Fokus
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Bündnis 90/Die Grünen":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-02-Buendnis-90
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stefanie Seeländer „Ein Lied für jede Lebenslage“
+DTSTART;TZID=Europe/Berlin:20260902T193000
+DTEND;TZID=Europe/Berlin:20260902T220000
+DTSTAMP:20260830T191559Z
+UID:22edfcdc-b87b-4aaf-9c6d-7a7460757511@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Zugfahren ist was Wunderbares! Kaum hat frau einen Platz ergat
+ tert\, plärren ihr Handylautsprecher vielstimmig Krankengeschichten\, Lie
+ besleid und Geschäftsbilanzen entgegen. Kein Stoff für ein Lied? Doch! U
+ nd was für eins!
+LAST-MODIFIED:20260830T191559Z
+LOCATION:teatr dach
+STATUS:CONFIRMED
+URL:https://www.teatr-dach.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260903T100000
+DTSTAMP:20260830T191716Z
+UID:28e4037c-c7c4-4f3f-931a-01e9a9799848@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moderne Heiztechnik - Informationsveranstaltung anlässlich der 
+ „Wochen der Wärme” 2026
+DTSTART;TZID=Europe/Berlin:20260903T170000
+DTSTAMP:20260830T191559Z
+UID:eb520639-67c5-4c10-9ea2-37d3231d0565@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Wie lässt sich das eigene Zuhause auch in Zukunft zuverlässi
+ g\, nachhaltig und möglichst kostengünstig mit Wärme versorgen? Welche 
+ Möglichkeiten gibt es\, den Energieverbrauch zu senken und die eigenen vi
+ er Wände energetisch zukunftsfähig aufzustellen? Mit diesen und weiteren
+  Fragen beschäftigt sich Energieberater Olaf Brokate in seinem Vortrag 
+ „Moderne Heiztechnik – Was ist das Beste für mein Zuhause“.\n\nIm R
+ ahmen der „Wochen der Wärme 2026“ laden die Gemeinde Wendeburg\, der 
+ Gebäudeenergieberater Ingenieure Handwerk e.V. (GIH) und die Klimaschutza
+ gentur Landkreis Peine herzlich zum öffentlichen Vortrag am 03. September
+  um 17 Uhr ins Bürgerhaus Wendeburg ein. Im Anschluss an den Vortrag best
+ eht Gelegenheit\, individuelle und weiterführende Fragen zu stellen und m
+ it dem Referenten ins Gespräch zu kommen.\n\nKommen Sie gerne vorbei\, wi
+ r freuen uns auf Sie!
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Bürgerhaus Wendeburg\, Schulstraße 8\, 38176 Wendeburg
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volksfest in Sophiental vom 04.-06.09.2026
+DTSTART;TZID=Europe/Berlin:20260904T000000
+DTSTAMP:20260830T191559Z
+UID:4d1bf883-fe87-40f3-b796-7b34993dbbf4@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Gasthaus "Zur Linde"\, Holzmark 1\, 38176 Wendeburg
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/volksfest-in-so
+ phiental-vom-04-06-09-2026-900001382-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260904T100000
+DTSTAMP:20260830T191716Z
+UID:97d9ea79-a17b-4fbf-acb2-c68dbc237efa@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260905T100000
+DTSTAMP:20260830T191716Z
+UID:859aa24e-23eb-4c45-bb67-e369d6111126@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoppelfeldrennen Wendeburg
+DTSTART;TZID=Europe/Berlin:20260905T110000
+DTEND;TZID=Europe/Berlin:20260906T180000
+DTSTAMP:20260830T191559Z
+UID:42cb834a-f6cb-437d-ba81-c747e3106250@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Sportplatz Wendeburg\, Meierholz\,
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/stoppelfeldrenn
+ en-wendeburg-900001331-26610.ical
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dorffest Vöhrum
@@ -88,18 +505,805 @@ STATUS:CONFIRMED
 URL:https://www.peine-erleben.de/events/dorffest/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kirchenübernachtung für Kinder
-DTSTART;TZID=Europe/Berlin:20260912T170000
-DTSTAMP:20260830T191440Z
-UID:89aaad74-d54c-4e30-86f6-eef6371cd9e8@trsdn.github.io
+SUMMARY:Das Modehaus Schridde präsentiert: Dinner for two!
+DTSTART;TZID=Europe/Berlin:20260905T193000
+DTSTAMP:20260830T191716Z
+UID:b5823d0d-7929-4b6f-9077-e8ad34bb0e17@trsdn.github.io
 SEQUENCE:0
-DESCRIPTION:Eine Nacht in der Kirche.
-LAST-MODIFIED:20260830T191440Z
+DESCRIPTION:Travestie trifft Musical & Operette 60 Jahre Dunja - Special E
+ dition mit Fingerfood & Moderation Consuela Grande & Helge Thomas 50\,40
+ €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-05-Dinnerfortwo-Wittenberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtparkkonzert mit den Dungelbecker Pisserdohlen und dem Akkorde
+ onorchester Wendeburg/Vechelde
+DTSTART;TZID=Europe/Berlin:20260906T110000
+DTSTAMP:20260830T191716Z
+UID:27211997-bb25-4e55-bd23-3cd33897eb61@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein Repertoire aus Klassikern\, plattdeutschen Liedern und sel
+ bst komponierten Stücken. frei
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadtpark Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-06-Stprk-DungelbeckerPisserdohlen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Pforte Landkreis Peine - Dorfkinder- Garten e.V. \, Mehrum
+DTSTART;TZID=Europe/Berlin:20260906T140000
+DTEND;TZID=Europe/Berlin:20260906T170000
+DTSTAMP:20260830T191700Z
+UID:a349381b-f0ca-4b44-975d-aa6055679325@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein ungenutztes Grundstück der Gemeinde wurde vor über 10 Ja
+ hren wiederbelebt\, um im Ort an der Durchgangsstraße eine grüne Oase zu
+  schaffen. Es entwickelte sich die Idee\, mit Kindern und Erwachsenen des 
+ Ortes einen Platz entstehen zu lassen\, der erste Kontakte zu Natur und ei
+ genen Gartenbeeten ermöglicht. Ein kreativer und unkonventioneller Raum\,
+  der viele Möglichkeiten bietet. Neben einer Kräuterspirale und Wasserst
+ ellen gibt es u.a. auch Sitzmöglichkeiten\, eine Feuerstelle\, Hochbeete 
+ und eine interessante Pflanzenvielfalt.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Dorfkinder- Garten e.V. \, Mehrum\, Hauptstraße 13\, 31249 Hohen
+ hameln
+ORGANIZER;CN="Dorfkinder- Garten e.V. , Mehrum":mailto:noreply@trsdn.githu
+ b.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
+ ne-dorfkinder-garten-ev-mehrum-101182858/?tx_toujoudestinationoneintegrati
+ on_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abendgottesdienst
+DTSTART;TZID=Europe/Berlin:20260906T170000
+DTSTAMP:20260830T191731Z
+UID:80674069-293c-4f2f-b00d-82a3c654e674@trsdn.github.io
+SEQUENCE:1
+LAST-MODIFIED:20260830T191731Z
+LOCATION:Kirche Harvessse
+ORGANIZER;CN="Kirchengemeinde Harvesse in Wendeburg":mailto:noreply@trsdn.
+ github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/194363/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abendgottesdienst
+DTSTART;TZID=Europe/Berlin:20260906T180000
+DTSTAMP:20260830T191731Z
+UID:923dd092-29ec-424b-852e-d60ba29f2754@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+LOCATION:Kirche Wendeburg
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/194359/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260907T100000
+DTSTAMP:20260830T191716Z
+UID:22f44e5c-38a2-4fba-8df3-76b825dfdba6@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260908T100000
+DTSTAMP:20260830T191716Z
+UID:cf6acc57-3f27-408b-8d3a-cb7e9348bd56@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:51. Sitzung des Verwaltungsausschusses
+DTSTART;TZID=Europe/Berlin:20260908T170000
+DTSTAMP:20260830T191559Z
+UID:b6975b2e-85e8-4991-aed0-a472b8693c7b@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Am Anger 5\, 38716 Wendeburg\, Sitzungssaal der Gemeinde Wendebur
+ g
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/51-sitzung-des-
+ verwaltungsausschusses-900001079-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260909T100000
+DTSTAMP:20260830T191716Z
+UID:3fb1650a-0334-43e6-bd06-abd02af3f56b@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:26. Sitzung des Ortsrates Wendeburg
+DTSTART;TZID=Europe/Berlin:20260909T190000
+DTSTAMP:20260830T191559Z
+UID:b6c15c49-ff0d-4599-bc31-0154d52f52db@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Zur Tagesordnung
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Am Anger 5\, 38716 Wendeburg\, Sitzungssaal der Gemeinde Wendebur
+ g
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/26-sitzung-des-
+ ortsrates-wendeburg-900001026-26610.ical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260910T100000
+DTSTAMP:20260830T191716Z
+UID:0be832e4-2567-46ba-a0ae-f7157753347e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsversammlung Theaterkreis Bortfeld e.V.
+DTSTART;TZID=Europe/Berlin:20260910T193000
+DTEND;TZID=Europe/Berlin:20260910T203000
+DTSTAMP:20260830T191559Z
+UID:7a678f22-92fc-47f6-85eb-58e4eaca3a34@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Monatliche Versammlung für alle Mitglieder und Interessenten 
+ des Theaterkreis Bortfeld e.V.
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Spielhous\, Lange Str. (Grundschule)\, 38176
+STATUS:CONFIRMED
+URL:https://www.theaterkreis-bortfeld.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260911T100000
+DTSTAMP:20260830T191716Z
+UID:f2f9ff9c-d235-4630-a2b2-518914c28e1e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260912T100000
+DTSTAMP:20260830T191716Z
+UID:de2a81db-1fcb-4b97-8f8a-202f6b35eb0e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirchenübernachtung für Kinder von 6 bis 12 Jahren
+DTSTART;TZID=Europe/Berlin:20260912T170000
+DTSTAMP:20260830T191731Z
+UID:89aaad74-d54c-4e30-86f6-eef6371cd9e8@trsdn.github.io
+SEQUENCE:1
+DESCRIPTION:Eine Nacht in der Kirche? Na klar! Bei unserer Kirchenübernac
+ htung machen wir es uns gemeinsam zwischen dicken Mauern und warmem Kerzen
+ licht gemütlich und entdecken die [...]
+LAST-MODIFIED:20260830T191731Z
 ORGANIZER;CN="Ev. Jugend der Propstei Vechelde":mailto:noreply@trsdn.githu
  b.io
 STATUS:CONFIRMED
 URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
  ne-gemeinden/181288/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begrüßung der neuen Konfirmanden aus Bortfeld u. Wedtlenstedt
+DTSTART;TZID=Europe/Berlin:20260913T093000
+DTSTAMP:20260830T191732Z
+UID:6be1e48d-d10d-4f14-a3e6-828231f687e1@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst
+DTSTART;TZID=Europe/Berlin:20260913T110000
+DTSTAMP:20260830T191731Z
+UID:ef6b912d-918b-4ec0-8c1e-5846318a86c0@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+LOCATION:Kirche Wendeburg
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/194360/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert Chor TonArt und Taktlos
+DTSTART;TZID=Europe/Berlin:20260913T170000
+DTSTAMP:20260830T191731Z
+UID:c0ef1329-eb3e-49d6-9f31-63477d1cd5af@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/194054/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260914T100000
+DTSTAMP:20260830T191716Z
+UID:afb0db43-0e2b-4570-8edc-253915b3f386@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260915T100000
+DTSTAMP:20260830T191716Z
+UID:21d69c5a-61e1-4ad4-bc88-02d0acfd8e23@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was leistet unsere Landwirtschaft
+DTSTART;TZID=Europe/Berlin:20260915T190000
+DTEND;TZID=Europe/Berlin:20260915T213000
+DTSTAMP:20260830T191559Z
+UID:2ccf8f6c-bf59-4fa0-a602-ae623099f31d@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Bürgerhaus Wendeburg\, Schulstraße 8\, 38176 Wendeburg
+STATUS:CONFIRMED
+URL:http://www.kreislandfrauen-braunschweig.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klangrazzia
+DTSTART;TZID=Europe/Berlin:20260915T200000
+DTSTAMP:20260830T191716Z
+UID:2ab288e5-51ed-4f2b-be82-c4b708404121@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Eine musikalische Kriminal-Komödie Konzertdirektion Landgraf 
+ Mit Hans-Werner Meyer\, Chin Meyer und der A-Cappella-Gruppe „Meier und 
+ die Geier“ (bestehend aus: Valentin Gregor\, Christian Taube\, Marco Fah
+ land-Jadue\, Hans-Werner Meyer) ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-15-Klangrazzia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260916T100000
+DTSTAMP:20260830T191716Z
+UID:01482c0a-bed5-47bc-9096-2ef926ab4434@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260917T100000
+DTSTAMP:20260830T191716Z
+UID:7022b946-c52d-48df-ad63-31efc370f324@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
+ ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
+DTSTART;TZID=Europe/Berlin:20260918T100000
+DTSTAMP:20260830T191716Z
+UID:13b8b166-6979-4635-bccb-e02a87526675@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
+ tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
+ ür die Demokratie setzen.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
+ io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-08-25-Ausstellung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neue Heimat Westen
+DTSTART;TZID=Europe/Berlin:20260918T180000
+DTSTAMP:20260830T191716Z
+UID:91646de7-e32e-4604-a401-78482d2e78e3@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Geschichte(n) der Flüchtlingskinder Lesung von Katharina 
+ Schiller frei mit Anmeldung
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-18-Lesung-KSchiller
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Pforte Landkreis Peine - Anne Christine Reetz „Werkstatt 
+ für Metall und Mehr“
+DTSTART;TZID=Europe/Berlin:20260919T110000
+DTEND;TZID=Europe/Berlin:20260919T180000
+DTSTAMP:20260830T191700Z
+UID:c6c45603-cd04-4762-a77a-1a0456ffaf32@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
+ dlich intensiv bearbeitete Bereiche ein. Es gibt Stauden- und Kräuterbeet
+ e\, eine Wildblumenwiese\, einen Gemüsegarten\, einen Obstgarten mit Hüh
+ nern und Gänsen und eine Wiese mit Teich und Weidenbeeten. Unter dem gro
+ ßen Walnussbaum und im Wintergarten kann man wunderbar sitzen. Außerdem 
+ wird der Garten als Ausstellungsfläche für eigene Skulpturen und Kunstob
+ jekte genutzt. Dieses Jahr finden zum ersten Mal gleichzeitig die „Offen
+ en Ateliers“ statt.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Anne Christine Reetz „Werkstatt für Metall und Mehr“\, Im Ob
+ erdorf 7\, 31234 Edemissen
+ORGANIZER;CN="Anne Christine Reetz „Werkstatt für Metall und Mehr“":m
+ ailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
+ ne-anne-christine-reetz-werkstatt-fuer-metall-und-mehr-101189906/?tx_toujo
+ udestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a73
+ 0d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verein Wald Erleben - Offene Pforte Landkreis Peine
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260830T191700Z
+UID:0cfd21a4-3cae-4861-906a-61267539c1da@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Am 20. September 2026 lädt der Verein Wald Erleben im Peiner 
+ Land zu einem ganz besonderen Erlebnis ins Meerdorfer Holz ein. Beim Waldk
+ onzert mischen sich die Klänge der Musik mit Blätterrauschen und Vogelge
+ zwitscher und hüllen das Meerdorfer Holz in ein ganz besonderes „Klangk
+ leid“. Inmitten der Natur könnt ihr der Musik lauschen\, die Atmosphär
+ e genießen und bei einem Imbiss und Getränken eine schöne Zeit am Taden
+ senhaus verbringen. Gut zu wissen: Vom Parkplatz an der Wipshäuser Straß
+ e führt ein etwa 20-minütiger Fußweg durch den Wald bis zum Tadensenhau
+ s. Plant diesen kleinen Spaziergang bei eurer Anreise mit ein. Sonntag\, 2
+ 0. September 2026\, 11 - 13 Uhr Meerdorfer Holz / Tadensenhaus Weitere Inf
+ ormationen findet ihr auf wald-erlebnis-pfad.de
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Grünes Klassenzimmer\, Wipshäuser Straße\, 38176 Wendeburg
+ORGANIZER;CN="Verein Wald Erleben":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/verein-wald-erleben-offene-
+ pforte-landkreis-peine-101339478/?tx_toujoudestinationoneintegration_item%
+ 5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apfelfest Lengede
+DTSTART;TZID=Europe/Berlin:20260920T100000
+DTEND;TZID=Europe/Berlin:20260920T180000
+DTSTAMP:20260830T191700Z
+UID:0e269d5b-3ca5-4e46-ad57-aaaf621c3645@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Das Apfelfest der Gemeinde Lengede findet am 20. September 202
+ 6 von 10:00 bis 18:00 Uhr statt. Ort: Auf der Streuobstwiese gegenüber de
+ m Seilbahnberg in Lengede (Zuwegung meist zwischen Vallstedter Weg 120 und
+  120 A). Zeit: 10:00 Uhr bis 18:00 Uhr. Angebot: Ein buntes Programm mit B
+ eteiligung vieler örtlicher Vereine und Verbände. Weitere aktuelle Ankü
+ ndigungen und Infos finden Sie direkt auf der Gemeinde Lengede Webseite.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Streuobstwiese gegenüber dem Seilbahnberg\, Vallstedter Weg 120
+ \, 38268 Lengede
+ORGANIZER;CN="Gemeinde Lengede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/apfelfest-lengede-101340002
+ /?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b
+ 64a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendezeller Erntedank Frühshoppen
+DTSTART;TZID=Europe/Berlin:20260920T103000
+DTEND;TZID=Europe/Berlin:20260920T150000
+DTSTAMP:20260830T191559Z
+UID:ced67532-13c0-4bad-8c6b-064a20f388c3@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Wendezelle
+STATUS:CONFIRMED
+URL:https://www.traditionsgemeinschaft-wendezelle.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst
+DTSTART;TZID=Europe/Berlin:20260920T110000
+DTSTAMP:20260830T191731Z
+UID:adb0a0be-e0aa-4bc6-8321-72a576181a33@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+LOCATION:Kirche Wendeburg
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/194361/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Pforte Landkreis Peine - Anne Christine Reetz „Werkstatt 
+ für Metall und Mehr“
+DTSTART;TZID=Europe/Berlin:20260920T110000
+DTEND;TZID=Europe/Berlin:20260920T180000
+DTSTAMP:20260830T191700Z
+UID:6bf3efda-1bb1-49b3-89e0-afc559cde3f5@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
+ dlich intensiv bearbeitete Bereiche ein. Es gibt Stauden- und Kräuterbeet
+ e\, eine Wildblumenwiese\, einen Gemüsegarten\, einen Obstgarten mit Hüh
+ nern und Gänsen und eine Wiese mit Teich und Weidenbeeten. Unter dem gro
+ ßen Walnussbaum und im Wintergarten kann man wunderbar sitzen. Außerdem 
+ wird der Garten als Ausstellungsfläche für eigene Skulpturen und Kunstob
+ jekte genutzt. Dieses Jahr finden zum ersten Mal gleichzeitig die „Offen
+ en Ateliers“ statt.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Anne Christine Reetz „Werkstatt für Metall und Mehr“\, Im Ob
+ erdorf 7\, 31234 Edemissen
+ORGANIZER;CN="Anne Christine Reetz „Werkstatt für Metall und Mehr“":m
+ ailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
+ ne-anne-christine-reetz-werkstatt-fuer-metall-und-mehr-101189906/?tx_toujo
+ udestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a73
+ 0d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friedensgebet
+DTSTART;TZID=Europe/Berlin:20260920T190000
+DTSTAMP:20260830T191732Z
+UID:e883f27c-20b2-42cd-8eab-eb1fad386cab@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende
+DTSTART;TZID=Europe/Berlin:20260921T150000
+DTSTAMP:20260830T191716Z
+UID:e696fb8c-8997-4dec-8a6f-005a9918f5a3@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Blutspender retten Leben! Bist du dabei?
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="DRK Blutspendedienste NSTOP gGmbH der Landesvebände des DRK
+ ":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Blutspende-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KinderKirche Kunterbunt
+DTSTART;TZID=Europe/Berlin:20260925T153000
+DTSTAMP:20260830T191732Z
+UID:b910a3ac-0a30-46c1-9fed-c48c4073f5bc@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirche Kunterbunt - Familienkirche
+DTSTART;TZID=Europe/Berlin:20260925T153000
+DTSTAMP:20260830T191731Z
+UID:f1b7ed9c-40ea-4449-ad15-ebdca68c6954@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/194056/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hans Gerzlich
+DTSTART;TZID=Europe/Berlin:20260925T200000
+DTSTAMP:20260830T191716Z
+UID:7864480b-3671-4a7d-9748-37b5176aae20@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ich hatte mich jünger in Erinnerung. Ein Best Ager in der Bl
+ üte des Verfalls! 29\,- €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-25-Hans-Gerzlich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflanzenbörse
+DTSTART;TZID=Europe/Berlin:20260926T140000
+DTEND;TZID=Europe/Berlin:20260926T170000
+DTSTAMP:20260830T191559Z
+UID:0ebca566-3633-45ab-80da-88ed441534a9@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Hof Familie Reiche\, Ostlandstr. 16\, Ostlandstr. 16\, 38176 Wend
+ eburg
+STATUS:CONFIRMED
+URL:http://www.kreislandfrauen-braunschweig.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oktoberfest 2026 in Bortfeld
+DTSTART;TZID=Europe/Berlin:20260926T180000
+DTSTAMP:20260830T191559Z
+UID:66a9de66-804e-4290-805c-6de2f2f38a97@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Gaststätte Wilder Keiler\, Bortfelder Straße 27\,\n38176 Wendeb
+ urg
+STATUS:CONFIRMED
+URL:https://www.volksfestgemeinschaftbortfeld.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erntedankgottesdienst\, Kirche
+DTSTART;TZID=Europe/Berlin:20260927T093000
+DTSTAMP:20260830T191732Z
+UID:4c3121ec-402a-4454-9423-a45966a5bdc3@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191732Z
+LOCATION:St. Georg\, Bortfeld
+ORGANIZER;CN="Kirchengemeinde Bortfeld":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst
+DTSTART;TZID=Europe/Berlin:20260927T110000
+DTSTAMP:20260830T191731Z
+UID:e5cdfc0a-0a59-46ab-aa7c-d2b0e427c0a1@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260830T191731Z
+LOCATION:Kirche Wendeburg
+ORGANIZER;CN="Kirchengemeinde Wendeburg":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
+ enste/194362/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
+ s“
+DTSTART;TZID=Europe/Berlin:20260928T193000
+DTSTAMP:20260830T191731Z
+UID:355864c4-f7bc-49f5-8634-a8b59d41360f@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
+  stürzen plötzlich über uns herein wie ein Gewitter. Krisen lösen Ver
+ änderungen aus. Das erschreckt [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Pfarramt Pfarrverband Petrus in Wendeburg":mailto:noreply@tr
+ sdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/193986/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen AG nachhaltiges Wendeburg
+DTSTART;TZID=Europe/Berlin:20260929T190000
+DTEND;TZID=Europe/Berlin:20260929T210000
+DTSTAMP:20260830T191559Z
+UID:03ce307f-9d22-4f5b-b36a-096fe9b27949@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Jeden letzten Dienstag im Monat trifft sich die AG um über di
+ e vergangenen Veranstaltungen und Maßnahmen zu sprechen und neue Ideen f
+ ür die kommenden Veranstaltungen zu diskutieren.\n\nJeder ist Willkommen.
+LAST-MODIFIED:20260830T191559Z
+LOCATION:Bürgerhaus Wendeburg\, Schulstraße 8\, 38176 Wendeburg
+STATUS:CONFIRMED
+URL:http://agnw.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
+ s“
+DTSTART;TZID=Europe/Berlin:20260929T193000
+DTSTAMP:20260830T191731Z
+UID:cf281fa6-8bb3-44c1-9cd6-2350988e3b5e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
+  stürzen plötzlich über uns herein wie ein Gewitter. Krisen lösen Ver
+ änderungen aus. Das erschreckt [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Pfarramt Pfarrverband Petrus in Wendeburg":mailto:noreply@tr
+ sdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/193987/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafferder Markt
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20260830T191718Z
+UID:c675ce62-efee-4acd-9559-ff31af8f4547@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Seit 1787 findet am letzten Mittwoch im September und am darau
+ f folgenden Donnerstag der zweitägige traditionelle Lafferder Markt in de
+ r Ortschaft Groß Lafferde statt: rund 300 Marktschreier\, Aussteller & H
+ ändler auf einem der größten norddeutschen Krammärkte bei Ilsede. Das 
+ muss man gesehen haben!
+LAST-MODIFIED:20260830T191718Z
+LOCATION:Peiner Land
+ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.gemeinde-ilsede.de/portal/seiten/der-lafferder-markt-90000
+ 0255-26540.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafferder Markt
+DTSTART;TZID=Europe/Berlin:20260930T090000
+DTEND;TZID=Europe/Berlin:20260930T230000
+DTSTAMP:20260830T191700Z
+UID:2f6f303a-41d7-452d-8b27-1bf2acc1de10@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
+ eder auf einen der größten und traditionsreichsten Kram und Jahrmärkte 
+ Norddeutschlands freuen.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Rund um den historischen Wasserturm Groß Lafferde\, Marktstraße
+ \, 31246 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/lafferder-markt-101340055/?
+ tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64
+ a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstbasteln für Kinder für Kinder von 6 bis 12 Jahren
+DTSTART;TZID=Europe/Berlin:20260930T163000
+DTSTAMP:20260830T191731Z
+UID:4afec28e-249b-42ab-b6e2-3d9754b43733@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Hey Leute – draußen ist’s grau\, aber wir machen’s drin
+ nen bunt. Bock auf ’nen entspannten Nachmittag\, kreativ werden und einf
+ ach gute Stimmung? Dann kommt [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Ev. Jugend der Propstei Vechelde":mailto:noreply@trsdn.githu
+ b.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/177036/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geld. Gier. Macht.
+DTSTART;TZID=Europe/Berlin:20260930T200000
+DTSTAMP:20260830T191716Z
+UID:1540b287-549e-48ca-b4c2-6f910f9f618c@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der Fall Cum Ex Schauspiel von Stefan Zimmermann Eine Produkti
+ on der a.gon Theater GmbH München Mit Lara Joy Körner\, Max Volkert Mart
+ ens u.w.m. ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-09-30-GeldGierMacht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafferder Markt
+DTSTART;TZID=Europe/Berlin:20261001T090000
+DTEND;TZID=Europe/Berlin:20261001T220000
+DTSTAMP:20260830T191700Z
+UID:c2609b08-f9c8-4b27-ba86-2d75345a66a5@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
+ eder auf einen der größten und traditionsreichsten Kram und Jahrmärkte 
+ Norddeutschlands freuen.
+LAST-MODIFIED:20260830T191700Z
+LOCATION:Rund um den historischen Wasserturm Groß Lafferde\, Marktstraße
+ \, 31246 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine-erleben.de/d1i-item-page/lafferder-markt-101340055/?
+ tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64
+ a1979a730d85034f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abendlesung
@@ -114,14 +1318,126 @@ STATUS:CONFIRMED
 URL:https://www.peine-erleben.de/events/abendlesung/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club der toten Dichter: Galgenlieder
+DTSTART;TZID=Europe/Berlin:20261002T200000
+DTSTAMP:20260830T191716Z
+UID:58ee4b74-83b9-4677-961f-d9fe8a09ca36@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Christian Morgenstern neu vertont. Jubiläumstournee - 20 Jahr
+ e DER CLUB DER TOTEN DICHTER ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-10-02-Galgenlieder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babysitter*innenkurs für Teenager und Jugendliche ab 12 Jahren
+DTSTART;TZID=Europe/Berlin:20261003T100000
+DTSTAMP:20260830T191731Z
+UID:43bd53a6-c172-48fa-a254-49f922fa8891@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Was brauchen Kinder in welcher Entwicklungsstufe? Wie kannst d
+ u sie sinnvoll beschäftigen? Was musst du rechtlich beachten? Wie finde i
+ ch eine Familie und stelle mich [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Ev. Jugend der Propstei Vechelde":mailto:noreply@trsdn.githu
+ b.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/181335/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
+ s“
+DTSTART;TZID=Europe/Berlin:20261005T193000
+DTSTAMP:20260830T191731Z
+UID:83f7a850-c2d3-443a-a656-84f809699ad7@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
+  stürzen plötzlich über uns herein wie ein Gewitter. Krisen lösen Ver
+ änderungen aus. Das erschreckt [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Pfarramt Pfarrverband Petrus in Wendeburg":mailto:noreply@tr
+ sdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/193988/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
+ s“
+DTSTART;TZID=Europe/Berlin:20261006T193000
+DTSTAMP:20260830T191731Z
+UID:567db7bf-6014-40ef-8ed5-489eb8a22f72@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
+  stürzen plötzlich über uns herein wie ein Gewitter. Krisen lösen Ver
+ änderungen aus. Das erschreckt [...]
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Pfarramt Pfarrverband Petrus in Wendeburg":mailto:noreply@tr
+ sdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/193989/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orgelentdeckertag für Konfirmand*innen
+DTSTART;TZID=Europe/Berlin:20261008T170000
+DTSTAMP:20260830T191731Z
+UID:909b707c-560d-49e4-b46e-d9e545a5e97e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Hast du Lust\, die „Königin der Instrumente“ mal aus der 
+ Nähe kennenzulernen?
+LAST-MODIFIED:20260830T191731Z
+ORGANIZER;CN="Ev. Jugend der Propstei Vechelde":mailto:noreply@trsdn.githu
+ b.io
+STATUS:CONFIRMED
+URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
+ ne-gemeinden/191329/detail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Schaf Charlotte und seine Freunde
+DTSTART;TZID=Europe/Berlin:20261009T160000
+DTSTAMP:20260830T191716Z
+UID:a7572aab-2bad-483c-9e3c-3748fb3f7ddc@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Figurentheater über die Kraft der Freundschaft Nach dem gleic
+ hnamigen Kinderbuchbestseller von Anu Stohner und Henrike Wilson 11\,-€ 
+ Erwachsene | 9\,-€ Kinder | Gruppe 8\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-10-09-SchafCharlotteundseineFreunde
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kunstausstellung Britta Ahrens
+DTSTART;TZID=Europe/Berlin:20261009T190000
+DTSTAMP:20260830T191716Z
+UID:8556e055-7fcd-40bd-850b-f0676831643f@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Neues von der Lieblingsinsel Ausstellung von Werken von Britta
+  Ahrens k.A.
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Britta Ahrens":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-10-09-Vernissage-Britta-Ahrens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drachenfest
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260830T191440Z
+DTSTAMP:20260830T191728Z
 UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
-SEQUENCE:0
-DESCRIPTION:Termin für 2026: 18.10.2026
-LAST-MODIFIED:20260830T191440Z
+SEQUENCE:1
+DESCRIPTION:...immer am vorletzten Sonntag im Oktober Termin für 2024: 18
+ .10.2026
+LAST-MODIFIED:20260830T191728Z
 LOCATION:Zweidorf
 ORGANIZER;CN="Traditionsgemeinschaft Zweidorf e. V.":mailto:noreply@trsdn.
  github.io
@@ -129,17 +1445,364 @@ STATUS:CONFIRMED
 URL:https://www.zweidorf-online.de/Veranstaltungen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blutspende
+DTSTART;TZID=Europe/Berlin:20261019T150000
+DTSTAMP:20260830T191716Z
+UID:2651cdbc-2c59-4ec6-be2a-401fbba5665d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Blutspender retten Leben! Bist du dabei?
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="DRK Blutspendedienste NSTOP gGmbH der Landesvebände des DRK
+ ":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Blutspende-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Tatortreiniger
+DTSTART;TZID=Europe/Berlin:20261029T200000
+DTSTAMP:20260830T191716Z
+UID:0e220ed8-728f-4076-bbd6-fede0a2b58a6@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:von Mizzy Meyer Eine Produktion des Contrakreis Theater Bonn i
+ n Kooperation mit umbreit Entertainment GmbH & Co. KG ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-10-29-DerTatortreiniger
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kalter weisser Mann
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTSTAMP:20260830T191716Z
+UID:a25cf401-984b-4b76-a964-2106d28cbf99@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Komödie von Dietmar Jacobs und Moritz Netenjakob Mit Timothy 
+ Peach EURO-STUDIO Landgraf ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-10-30-KalterweissserMann
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herzfaden
+DTSTART;TZID=Europe/Berlin:20261104T200000
+DTSTAMP:20260830T191716Z
+UID:11dc5366-33a7-4b88-a027-fd079dfc69e9@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Schauspiel nach dem Roman von Thomas Hettche Über die Entsteh
+ ung der Augsburger Puppenkiste. Burghofbühne Dinslaken ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-04-Herzfaden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lilly und die Erbse
+DTSTART;TZID=Europe/Berlin:20261105T160000
+DTSTAMP:20260830T191716Z
+UID:570ccf14-bc4c-4828-b7ec-cba237a668d4@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein Familienstück mit Musik von Carolin Jelden nach Hans Chri
+ stian Andersen Burghofbühne Dinslaken 15\,-€ Erwachsene | 13\,-€ Kind
+ er
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-05-LillyunddieErbse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies Ahoi! AUSVERKAUFT!
+DTSTART;TZID=Europe/Berlin:20261106T200000
+DTSTAMP:20260830T191716Z
+UID:67053553-ab97-42b8-b46e-597cb031bf40@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der kleinste Shantychor der Welt direkt aus St. Pauli Musik un
+ d Comedy mit Shanties und Hits der 60er & 70er & 80er Mit Birgit Lünsmann
+  - Gesang\, Moderation\, Gitarre und Natalie Böttcher - Akkordeon\, Gesan
+ g\, Moderation 23\,- €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Studio 99 im Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-06-LadiesAhoi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Zero
+DTSTART;TZID=Europe/Berlin:20261114T200000
+DTSTAMP:20260830T191716Z
+UID:47a332da-ba7b-4c37-880d-5a78edfe858a@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die gefeierte Linkin Park Tribute Band ist zurück! Vorverkauf
+  23\,- € (erm. 20\,- €) | Abendkasse 26\,- € (erm. 23\,-€)
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-14-FromZero
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende
+DTSTART;TZID=Europe/Berlin:20261116T150000
+DTSTAMP:20260830T191716Z
+UID:cb9dd0d5-81ef-4538-8aa7-ed4603a2a95a@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Blutspender retten Leben! Bist du dabei?
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="DRK Blutspendedienste NSTOP gGmbH der Landesvebände des DRK
+ ":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Blutspende-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Peiner Rudelsingen (Steh-Konzert\, begrenzte Sitzplätze sind n
+ ur über den Veranstalter direkt buchbar)
+DTSTART;TZID=Europe/Berlin:20261118T193000
+DTSTAMP:20260830T191716Z
+UID:28e76d7b-94cc-4f3d-93d4-2954c33aaed2@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Das Mitsing-Event für alle! Gemeinsam singen\, lachen und ein
+ en unvergesslichen Abend erleben – genau das macht RUDELSINGEN aus! Simo
+ n Bröker und Maximilian Saul laden das Publikum herzlich ein! VVK 19\,- 
+ €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Rudelsingen GmbH":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-18-4.-Rudelsingen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weihnachtsstadt Peine
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260830T191440Z
-UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
+DTSTAMP:20260830T191718Z
+UID:46623868-17e7-4772-acda-9046bfc2a861@trsdn.github.io
 SEQUENCE:0
-DESCRIPTION:Festliche Veranstaltungen in der Innenstadt.
-LAST-MODIFIED:20260830T191440Z
+DESCRIPTION:Die Weihnachtsstadt Peine wird zum Ort der Vielfalt und des Mi
+ teinanders\, wo verschiedene Akteure ein besonderes Erlebnis für alle sch
+ affen. Festliche Konzerte\, spannende Aufführungen\, lustige Besuche und 
+ abwechslungsreichen Aktivitäten für Kinder
+LAST-MODIFIED:20260830T191718Z
 LOCATION:Peiner Land
 ORGANIZER;CN="Tourismus Peine":mailto:noreply@trsdn.github.io
 STATUS:CONFIRMED
 URL:https://www.peine-erleben.de/erleben/events/weihnachtsstadt-peine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ewig jung
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTSTAMP:20260830T191716Z
+UID:8c44280d-bbf6-46a2-b11f-cb347d7453e9@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Songdrama von Erik Gedeon Theater für Niedersachsen Eine turb
+ ulente Schauspiel-Komödie mit Musik ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-27-EwigJung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lissi und Herr Timpe
+DTSTART;TZID=Europe/Berlin:20261128T200000
+DTSTAMP:20260830T191716Z
+UID:fe7aaacb-9ae4-4b73-965c-14d9f34c937e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Veronika\, Advent ist da Diese Winterrevue entführt das Publi
+ kum in die goldene Ära des deutschen Schlagers. ab 26\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-11-28-LissiundHerrTimpe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskalender-Geschichten
+DTSTART;TZID=Europe/Berlin:20261201T090000
+DTSTAMP:20260830T191716Z
+UID:3e1c433b-ab8c-44d4-9708-3603e4cfb46c@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
+ ter Compagnie 11\,-€ Erwachsene | 9\,-€ Kinder | Gruppe 8\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-01-Adventskalendergeschichten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskalender-Geschichten
+DTSTART;TZID=Europe/Berlin:20261201T110000
+DTSTAMP:20260830T191716Z
+UID:8dd9cec5-eb01-49dc-a261-9917ef88656d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
+ ter Compagnie 11\,-€ Erwachsene | 9\,-€ Kinder | Gruppe 8\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-01-Adventskalendergeschichten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskalender-Geschichten
+DTSTART;TZID=Europe/Berlin:20261201T160000
+DTSTAMP:20260830T191716Z
+UID:f3f16e58-9d9a-47c3-b767-183e4d74a3f2@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
+ ter Compagnie 11\,-€ Erwachsene | 9\,-€ Kinder | Gruppe 8\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-01-Adventskalendergeschichten-16Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE REAL COMEDIAN HARMONISTS
+DTSTART;TZID=Europe/Berlin:20261203T193000
+DTSTAMP:20260830T191716Z
+UID:d68a328a-736b-4d54-ab13-ca237341da3a@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Hell ist die Nacht THE REAL COMEDIAN HARMONISTS stimmen mit 
+ „Hell ist die Nacht“ musikalisch auf Weihnachten ein ab 43\,90 € (Fr
+ ühbucher ab : 39\,50 €)
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Reset Production":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-03-ComedianHarmonistsRP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werner Momsen ihm seine Weihnachtsshow
+DTSTART;TZID=Europe/Berlin:20261204T200000
+DTSTAMP:20260830T191716Z
+UID:97f9f759-b4e9-4e7b-8989-e1400f917f73@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Werner Momsen auf der Suche nach dem Weihnachtsgefühl 29\,- 
+ € | Ermäßigung 50 % | Im „Kabarettund Kleinkunst“- Abo: 22\,50 €
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-04-WernerMomsenWeihnachtsshow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Es war die Lerche
+DTSTART;TZID=Europe/Berlin:20261210T200000
+DTSTAMP:20260830T191716Z
+UID:b156f11b-16f9-427f-adac-2f6d4df6bb9f@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Komödie von Ephraim Kishon Neues Globe Theater 34\,50 € | 3
+ 2\,50 € | 30\,- € | 26\,50 €| Ermäßigung: 50 %
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-10-EswardieLerche
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinocchio
+DTSTART;TZID=Europe/Berlin:20261217T160000
+DTSTAMP:20260830T191716Z
+UID:3d582ade-2cb8-419e-a715-c82a0095ab53@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
+ ! Familienmusical von Christian Berg mit der Musik von Konstantin Wecker T
+ heater für Niedersachsen 15\,-€ Erwachsene | 13\,-€ Kinder | Gruppe 1
+ 2\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-17-Pinocchio16Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinocchio
+DTSTART;TZID=Europe/Berlin:20261218T090000
+DTSTAMP:20260830T191716Z
+UID:372bde6b-ef54-458d-a36b-7b514905b0f0@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
+ ! Familienmusical von Christian Berg mit der Musik von Konstantin Wecker T
+ heater für Niedersachsen 15\,-€ Erwachsene | 13\,-€ Kinder | Gruppe 1
+ 2\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-18-Pinocchio9-1130Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinocchio
+DTSTART;TZID=Europe/Berlin:20261218T113000
+DTSTAMP:20260830T191716Z
+UID:03a550f6-90dc-443d-a4cc-9a45b2c7d593@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
+ ! Familienmusical von Christian Berg mit der Musik von Konstantin Wecker T
+ heater für Niedersachsen 15\,-€ Erwachsene | 13\,-€ Kinder | Gruppe 1
+ 2\,-€/Person
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-18-Pinocchio9-1130Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende
+DTSTART;TZID=Europe/Berlin:20261221T150000
+DTSTAMP:20260830T191716Z
+UID:a4789557-4082-4edf-b37e-01413ff866a5@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Blutspender retten Leben! Bist du dabei?
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Forum Peine
+ORGANIZER;CN="DRK Blutspendedienste NSTOP gGmbH der Landesvebände des DRK
+ ":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=Blutspende-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von wegen Stille Nacht
+DTSTART;TZID=Europe/Berlin:20261221T200000
+DTSTAMP:20260830T191716Z
+UID:fec6cc4f-4c39-4498-aff0-95a488a85d9d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Weihnachtskomödie von Florian Battermann Komödie am Altstadt
+ markt Mit Eva Habermann 34\,50 € | 32\,50 € | 30\,- € | 26\,50 €| 
+ Ermäßigung: 50 %
+LAST-MODIFIED:20260830T191716Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2026-12-21-VonwegenStilleNacht
 END:VEVENT
 END:VCALENDAR
