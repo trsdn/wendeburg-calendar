@@ -1,0 +1,130 @@
+# Wendeburg Calendar - example configuration.
+#
+# Copy this file (e.g. `cp config.example.toml config.toml`) and adjust as
+# needed. `config.toml` is git-ignored so local settings/paths never leak
+# into version control.
+#
+# All paths below are resolved relative to the directory containing THIS
+# file, not relative to the current working directory the CLI is invoked
+# from.
+
+[general]
+# Domain used to build stable calendar UIDs: "<internal-uuid>@<domain>".
+# Change this once for your deployment and then keep it stable forever -
+# changing it later changes every UID in the exported feed.
+domain = "wendeburg-calendar.example.org"
+
+# SQLite database file (created automatically on first run).
+database = "data/wendeburg.sqlite3"
+
+# Output path for the generated RFC 5545 calendar feed.
+output = "data/calendar.ics"
+
+# Transparent, honest User-Agent sent with every HTTP request. Please keep
+# a contact reference in here per good web-citizenship practice.
+user_agent = "WendeburgCalendarBot/0.1 (+https://github.com/example/wendeburg-calendar; contact=calendar@example.org)"
+
+# IANA timezone used for interpreting naive/floating event times.
+timezone = "Europe/Berlin"
+
+[harvest]
+# Number of consecutive COMPLETE harvest runs in which a previously seen
+# event must be absent before it is considered for auto-cancellation.
+missing_threshold = 3
+
+# Minimum number of days that must have elapsed since the event was first
+# observed missing before it may be auto-cancelled. Both this AND the
+# missing_threshold must be satisfied.
+missing_grace_days = 7
+
+# Safety cap on how many candidate event URLs a single source will process
+# in one run (protects against runaway crawls / malformed listing pages).
+max_events_per_source = 500
+
+# Per-request network timeout in seconds.
+request_timeout_seconds = 15
+
+# Hard cap on bytes read from any single HTTP response body.
+max_content_bytes = 5000000
+
+[llm]
+# Whether the LLM fallback extraction path is enabled at all. When false,
+# HTML detail pages without a discoverable .ical link are simply skipped
+# (reported as part of PARTIAL coverage) instead of calling an LLM.
+enabled = true
+
+# Default model requested if OPENAI_MODEL is not set in the environment.
+default_model = "gpt-5.6-luna"
+
+# Upper bound on characters of sanitized page text sent to the LLM.
+max_input_chars = 6000
+
+[[sources]]
+id = "wendeburg"
+type = "wendeburg"
+enabled = true
+seed_urls = [
+    "https://www.wendeburg.de/freizeit-kultur/veranstaltungen/veranstaltungen/",
+    "https://www.wendeburg.de/regional/veranstaltungen/suche.html",
+]
+allowed_hosts = ["www.wendeburg.de"]
+
+[[sources]]
+# The public event calendar itself currently presents an automated security
+# challenge. The adapter therefore follows the stable event sitemap advertised
+# by robots.txt and parses schema.org Event JSON-LD from its public detail pages.
+id = "peine-erleben"
+type = "peine-erleben"
+enabled = true
+seed_urls = ["https://www.peine-erleben.de/sitemap.xml"]
+allowed_hosts = ["www.peine-erleben.de"]
+# Conservative source-level pacing. The effective delay is the stricter
+# value of this setting and any matching robots.txt Crawl-delay.
+min_request_delay_seconds = 5.0
+
+[[sources]]
+id = "kulturring-peine"
+type = "structured-html"
+profile = "kulturring-peine"
+enabled = true
+seed_urls = [
+    "https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.php",
+]
+allowed_hosts = ["www.kulturring-peine.de"]
+
+[[sources]]
+id = "tourismus-peine"
+type = "structured-html"
+profile = "tourismus-peine"
+enabled = true
+seed_urls = ["https://www.tourismus-peine.de/events"]
+allowed_hosts = ["www.tourismus-peine.de"]
+
+[[sources]]
+id = "zweidorf-online"
+type = "structured-html"
+profile = "zweidorf-online"
+enabled = true
+seed_urls = ["https://www.zweidorf-online.de/Veranstaltungen/"]
+allowed_hosts = ["www.zweidorf-online.de"]
+
+[[sources]]
+id = "kirche-wendeburg"
+type = "structured-html"
+profile = "kirche-lkcal"
+enabled = true
+seed_urls = [
+    "https://www.kirche-wendeburg.de/aktuell/gottesdienste/list",
+    "https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/list",
+]
+allowed_hosts = ["www.kirche-wendeburg.de"]
+
+[[sources]]
+id = "kirche-bortfeld"
+type = "structured-html"
+profile = "kirche-bortfeld"
+enabled = true
+seed_urls = [
+    "https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld",
+]
+allowed_hosts = ["www.kirche-bortfeld.de"]

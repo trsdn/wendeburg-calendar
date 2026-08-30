@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gemeinde Wendeburg//Veranstaltungen//DE
+BEGIN:VEVENT
+UID:herbstfest-42@wendeburg.de
+X-ID:wendeburg-42
+SUMMARY:Herbstfest am Dorfplatz
+DTSTART:20261015T180000
+DTEND:20261015T220000
+LOCATION:Dorfplatz Wendeburg
+DESCRIPTION:Musik\, Essen und Trinken fuer die ganze Familie.
+ORGANIZER;CN=Gemeinde Wendeburg:mailto:info@wendeburg.de
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260801T120000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+{
+  "https://www.peine-erleben.de/robots.txt": {"file": "robots-allow.txt"},
+  "https://www.peine-erleben.de/sitemap.xml": {"file": "peine-root.xml", "headers": {"etag": "\"peine-root-v1\""}},
+  "https://www.peine-erleben.de/sitemap.xml?sitemap=destinationdataevent&cHash=test": {"file": "peine-events.xml", "headers": {"etag": "\"peine-events-v1\""}},
+  "https://www.peine-erleben.de/d1i-item-page/dorffest-101/?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=test": {"file": "peine-dorffest.html", "headers": {"etag": "\"peine-dorffest-v1\""}},
+  "https://www.peine-erleben.de/d1i-item-page/lesung-102/?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=test": {"file": "peine-lesung.html", "headers": {"etag": "\"peine-lesung-v1\""}},
+
+  "https://www.kulturring-peine.de/robots.txt": {"file": "robots-allow.txt"},
+  "https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.php": {"file": "kulturring.html", "headers": {"etag": "\"kulturring-v1\""}},
+
+  "https://www.tourismus-peine.de/robots.txt": {"file": "robots-allow.txt"},
+  "https://www.tourismus-peine.de/events": {"file": "tourismus.html", "headers": {"etag": "\"tourismus-v1\""}},
+
+  "https://www.zweidorf-online.de/robots.txt": {"file": "robots-zweidorf.txt"},
+  "https://www.zweidorf-online.de/Veranstaltungen/": {"file": "zweidorf.html", "headers": {"etag": "\"zweidorf-v1\""}},
+
+  "https://www.kirche-wendeburg.de/robots.txt": {"file": "robots-allow.txt"},
+  "https://www.kirche-wendeburg.de/aktuell/gottesdienste/list": {"file": "kirche-gottesdienste.html", "headers": {"etag": "\"kirche-gottesdienste-v1\""}},
+  "https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/list": {"file": "kirche-termine.html", "headers": {"etag": "\"kirche-termine-v1\""}},
+
+  "https://www.kirche-bortfeld.de/robots.txt": {"file": "robots-allow.txt"},
+  "https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld": {"file": "bortfeld.html", "headers": {"etag": "\"bortfeld-v1\""}}
+}

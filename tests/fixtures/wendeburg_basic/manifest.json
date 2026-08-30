@@ -1,0 +1,26 @@
+{
+  "https://www.wendeburg.de/robots.txt": {
+    "file": "robots.txt",
+    "status": 200
+  },
+  "https://www.wendeburg.de/freizeit-kultur/veranstaltungen/veranstaltungen/": {
+    "file": "listing1.html",
+    "status": 200
+  },
+  "https://www.wendeburg.de/regional/veranstaltungen/suche.html": {
+    "file": "listing2.html",
+    "status": 200
+  },
+  "https://www.wendeburg.de/veranstaltungen/veranstaltung/herbstfest-42-26610.ical": {
+    "file": "herbstfest.ics",
+    "status": 200
+  },
+  "https://www.wendeburg.de/veranstaltungen/veranstaltung/adventsmarkt-99-26610.html": {
+    "file": "adventsmarkt_detail.html",
+    "status": 200
+  },
+  "https://www.wendeburg.de/veranstaltungen/veranstaltung/adventsmarkt-99-26610.ical": {
+    "file": "adventsmarkt.ics",
+    "status": 200
+  }
+}

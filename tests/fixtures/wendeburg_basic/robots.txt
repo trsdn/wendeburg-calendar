@@ -1,0 +1,12 @@
+# Example robots.txt mirroring the documented Wendeburg policy.
+User-agent: WebCopier
+User-agent: HTTrack
+Disallow: /
+
+User-agent: *
+Disallow: /barrierefreiheit/barriere_melden.html
+Disallow: /portal/kontakt.html
+Disallow: /portal/suche.html
+Disallow: /portal/suche2.html
+Disallow: /portal/weiterempfehlen.html
+Disallow: /allris/___tmp/

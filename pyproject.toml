@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wendeburg-calendar"
+version = "0.1.0"
+description = "Adapter-based event harvester that turns Wendeburg's town event listings into a subscribable RFC5545 calendar feed."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Wendeburg Calendar Project" }]
+dependencies = [
+    "pydantic>=2.6",
+    "httpx>=0.27",
+    "icalendar>=5.0",
+    "beautifulsoup4>=4.12",
+    "openai>=1.30",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+wendeburg-calendar = "wendeburg_calendar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

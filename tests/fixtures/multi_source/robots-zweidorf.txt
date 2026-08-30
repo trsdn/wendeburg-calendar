@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 10
+Allow: /.cm4all/mediadb/
+Allow: /.cm4all/sysdb/
+Allow: /.cm4all/uproc.php/
+Disallow: /.cm4all/
+Disallow: *meta_robots-noindex
