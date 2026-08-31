@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Spring
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Das Zukunftsthema Mobilität bestimmt für zwei Tage die Stadt
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Offene Pforte Landkreis Peine - Landhausgarten Hantelmann
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260830T191700Z
+DTSTAMP:20260831T094246Z
 UID:21bace1a-943f-47c5-aa5d-28553988b61e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:4500 m² Landhausgarten mit unterschiedlichen Gartenräumen\, 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:STADTRADELN im Peiner Land
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:08183f18-4b7b-4b8c-8ca1-fe89956e6642@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Alle Schulen\, Vereine\, Unternehmen sowie Bürgerinnen und B
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Highland Gathering
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:e154324d-8642-4815-ab69-af0a6d55e38d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Schotten sind los! Dieses Event sollten Sie sich nicht ent
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Freischießen
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:511666d1-aa9d-4f2f-ad71-06b753c1e726@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das ist Peine: Eine Woche lang können Sie erleben\, wie die K
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Weinfest
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:dcef703b-ead6-477c-9182-41e870b1a434@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Historische Marktplatz in Peine wird wieder in ein gemütl
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst unter der Eiche mit Theaterkreis
 DTSTART;TZID=Europe/Berlin:20260809T110000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:069acc69-4131-4bda-915c-12eefcf54a24@trsdn.github.io
 SEQUENCE:1
 LAST-MODIFIED:20260830T191732Z
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommertheater
 DTSTART;TZID=Europe/Berlin:20260811T190000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:7fcec943-e8ec-40b8-bdc6-499d3b1c5d68@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Volksfest in Zweidorf
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260830T191728Z
+DTSTAMP:20260831T094315Z
 UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst zur Einschulung
 DTSTART;TZID=Europe/Berlin:20260815T084500
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:a2842f28-202e-411c-9e84-d22d8186fffd@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friedensgebet
 DTSTART;TZID=Europe/Berlin:20260816T190000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:3ac659a2-7e8f-425f-9ad1-a77671906346@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -257,6 +257,51 @@ URL:https://www.peine-erleben.de/d1i-item-page/stadtradeln-preisverleihung
  n_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Das PIRATEN-KINDERLAND öffnet vom 28. - 30.8.2026 in Peine seine 
+ Pforten
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260831T094246Z
+UID:7fe884e8-52a8-438e-80a2-248a8d34191c@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Seit 2014 ist das PIRATEN-KINDERLAND auf Erfolgsreise und konn
+ te von Jahr zu Jahr die Besucher begeistern. Nun öffnet es wieder in Pein
+ e seine Pforten zum großen Hüpfburgenland. Es steht ein großes Areal mi
+ t vielen Fun-Stationen bereit und lädt zu einem Tag voller Abenteuer ein.
+  Also rein ins Vergnügen! Der mobile Hüpfburgen-Themen-Park will erobert
+  werden: Piratenschiff\, Riesenrutschen\, Kletterberg usw.\, Kinderschmink
+ en\, Kleinkinderhüpfburg\, Rodeodelfin\, Wabbelberg und an warmen Tagen d
+ ie Wasserrutsche. Sportliche Spiele sowie weitere tolle Aktionen garantier
+ en einen Freizeitspaß mit viel Bewegung. All die Mitmach-Aktionen sind in
+  das Thema PIRATEN / SEEFAHRER verpackt. Der Eingangsbereich zum Veranstal
+ tungsgelände wird mit Liebe zum Detail und viel maritimer Deko in einen b
+ unten Piratenstrand verwandelt. Einmal Eintritt zahlen und alle Aktionen n
+ utzen so oft man will. Spiel\, Spaß und Toben an der frischen Luft. Auch 
+ an eine Ruhezone für Eltern ist gedacht und für das leibliche Wohl biete
+ t der PIRATEN-Imbiss leckere Speisen und Getränke. Das Verzehren von mitg
+ ebrachten Speisen und Getränken ist nicht erwünscht. Das Kinderschminken
+ \, die Kindereisenbahnfahrt und der Piraten-Imbiss sind kostenpflichtig. E
+ in toller Tag im PIRATEN-KINDERLAND lässt Kinderherzen höherschlagen. WO
+ : Sportplatz Hainwaldweg (Vöhrum) Hainwaldweg 31228 Peine WANN: 28. - 30.
+ 8.2026 Fr. + Sa. 14:00 - 19:00 Uhr / So. 11:00 - 17:00 Uhr Eintrittspreise
+ : Kind (1-17 J.): 10\,00 € / begleitende Erwachsene: 3\,00 € ACHTUNG -
+  Freitags ist „Happy-FamilyDay“: Begleitende Erwachsene haben freien E
+ intritt. Bei Vorlage der Ermäßigungskarte\, welche in Kindergärten und 
+ Geschäften ausliegt oder auf der Internetseite ausgedruckt werden kann\, 
+ sparen Kinder je 1\,00 € beim Eintrittspreis. Für Kindergartengruppen\,
+  Schulklassen und Behindertenheime werden attraktive Gruppenpreise angebot
+ en. Info-Telefon: 0178-6255061 https://www.piratenkinderland.de Tagesaktue
+ lle Infos unter: https://www.facebook.com/Piratenkinderland.de https://www
+ .youtube.com/watch?v=lKNs1-Nj5KU
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Sportplatz Hainwaldweg (Vöhrum)\, Hainwaldweg\, 31228 Peine
+ORGANIZER;CN="PIRATEN-KINDERLAND Nicole Richter":mailto:noreply@trsdn.gith
+ ub.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/Das-PIRATEN-KINDERLAND
+ -oeffnet-vom-28-30-8-2026-in-Peine-seine-Pforten.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kartoffelpufferfest in Bortfeld
 DTSTART;TZID=Europe/Berlin:20260830T110000
 DTEND;TZID=Europe/Berlin:20260830T160000
@@ -275,10 +320,34 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/kartoffelpuffer
  fest-in-bortfeld-900001390-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260831T000000
+DTSTAMP:20260831T094246Z
+UID:966b6f55-4caa-4cda-8e4f-4b94c5b1a0c1@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260831T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:69c27c5c-932d-44af-a7b3-1c25ad1697e5@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -293,10 +362,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260901T000000
+DTSTAMP:20260831T094246Z
+UID:361f2835-9271-43ef-80a5-94c3530c1ff2@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260901T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:1a72b5c6-9f22-41e2-b294-606c85fe9e88@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -313,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:40 Jahre Kraftpost-Denkmal
 DTSTART;TZID=Europe/Berlin:20260901T180000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:c6715427-b0f1-47af-9150-df444b05c11f@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -323,10 +416,34 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/40-jahre-kraftp
  ost-denkmal-900001344-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260902T000000
+DTSTAMP:20260831T094246Z
+UID:e3af385d-57f5-44ad-b182-b98c28bdc5dd@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260902T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:be4cf2f5-91fe-4b05-96e9-6a01338ae091@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -344,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Elterncafé
 DTSTART;TZID=Europe/Berlin:20260902T143000
 DTEND;TZID=Europe/Berlin:20260902T160000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:510d6733-bf08-4804-8638-aa9a42a1b476@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -357,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wie weiter mit unseren kommunalen Finanzen?
 DTSTART;TZID=Europe/Berlin:20260902T180000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:8fb44efd-528b-466b-9936-2c3a2a3c2908@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Vortragsveranstaltung mit dem Finanzexperten Gerald Heere Nied
@@ -374,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Stefanie Seeländer „Ein Lied für jede Lebenslage“
 DTSTART;TZID=Europe/Berlin:20260902T193000
 DTEND;TZID=Europe/Berlin:20260902T220000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:22edfcdc-b87b-4aaf-9c6d-7a7460757511@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Zugfahren ist was Wunderbares! Kaum hat frau einen Platz ergat
@@ -387,10 +504,34 @@ STATUS:CONFIRMED
 URL:https://www.teatr-dach.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260903T000000
+DTSTAMP:20260831T094246Z
+UID:5a2874fb-d9e3-43cf-abe3-5abf55180412@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260903T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:28e4037c-c7c4-4f3f-931a-01e9a9799848@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -408,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Moderne Heiztechnik - Informationsveranstaltung anlässlich der 
  „Wochen der Wärme” 2026
 DTSTART;TZID=Europe/Berlin:20260903T170000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:eb520639-67c5-4c10-9ea2-37d3231d0565@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wie lässt sich das eigene Zuhause auch in Zukunft zuverlässi
@@ -430,9 +571,33 @@ STATUS:CONFIRMED
 URL:https://www.wendeburg.de/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260904T000000
+DTSTAMP:20260831T094246Z
+UID:087c1e6e-165d-443e-927e-e5b7dcd77bef@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volksfest in Sophiental vom 04.-06.09.2026
 DTSTART;TZID=Europe/Berlin:20260904T000000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:4d1bf883-fe87-40f3-b796-7b34993dbbf4@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -442,10 +607,44 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/volksfest-in-so
  phiental-vom-04-06-09-2026-900001382-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lagerverkauf - Fashion & Streetwear Sale in der Gebläsehalle
+DTSTART;TZID=Europe/Berlin:20260904T100000
+DTEND;TZID=Europe/Berlin:20260904T200000
+DTSTAMP:20260831T094246Z
+UID:5d52d7ec-e727-4bae-8b3e-082676852173@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:SCHICHTWECHSEL LAGERVERKAUF – NEXT LEVEL Am **04. & 05. Sept
+ ember 2026** verwandelt sich die **Gebläsehalle Groß Ilsede** in den gr
+ ößten Schichtwechsel Lagerverkauf aller Zeiten! Auf **über 2000 m²** e
+ rwarten euch **tausende stark reduzierte Artikel** von Top-Marken wie **Ca
+ rhartt WIP\, Patagonia\, Vans\, Brixton\, Reell\, Iriedaily** und vielen w
+ eiteren Premium Streetwear- und über 400 Rucksäcken. Die Schichtwechsel 
+ Shops aus **Peine\, Wolfsburg und Goslar** räumen ihre Lager und schaffen
+  Platz für die neuen Kollektionen. Das bedeutet für euch: **Mega-Angebot
+ e\, riesige Auswahl und echte Schnäppchen** bei Kleidung\, Jacken\, Schuh
+ en\, Caps\, Rucksäcken und vielem mehr. Neben dem Lagerverkauf erwarten e
+ uch außerdem: Good FellazTattoo Michlers Finest Barbecue ️ Orlob Concep
+ t Store ✨ und weitere spannende Partner. ### Öffnungszeiten Freitag\, 0
+ 4.09. | **10:00–20:00 Uhr** Samstag\, 05.09. | **10:00–18:00 Uhr** **G
+ ebläsehalle Groß Ilsede** **Ilseder Hütte 14\, 31241 Ilsede** ✅ Rund 
+ **600 kostenlose Parkplätze** direkt vor der Tür ✅ Bar- und EC-Kartenz
+ ahlung möglich **Du möchtest selbst als Partner oder Aussteller dabei se
+ in?** Dann bewirb dich noch bis **15. Juli** per Direktnachricht oder per 
+ E-Mail an **[info@schichtwechsel-shop.de](mailto:info@schichtwechsel-shop.
+ de)**. Wir freuen uns auf zwei Tage voller Streetwear\, Top-Marken und uns
+ chlagbarer Angebote!
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gebläsehalle\, Ilseder Hütte 14\, 31241 Ilsede
+ORGANIZER;CN=Schichtwechsel:mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/Lagerverkauf-Fashion-S
+ treetwear-Sale-in-der-Geblaesehalle.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260904T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:97d9ea79-a17b-4fbf-acb2-c68dbc237efa@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -460,10 +659,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260905T000000
+DTSTAMP:20260831T094246Z
+UID:c556f291-88c1-4b67-a24b-782c33ec0629@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260905T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:859aa24e-23eb-4c45-bb67-e369d6111126@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -481,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Stoppelfeldrennen Wendeburg
 DTSTART;TZID=Europe/Berlin:20260905T110000
 DTEND;TZID=Europe/Berlin:20260906T180000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:42cb834a-f6cb-437d-ba81-c747e3106250@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -507,7 +730,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Modehaus Schridde präsentiert: Dinner for two!
 DTSTART;TZID=Europe/Berlin:20260905T193000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:b5823d0d-7929-4b6f-9077-e8ad34bb0e17@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Travestie trifft Musical & Operette 60 Jahre Dunja - Special E
@@ -521,10 +744,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-09-05-Dinnerfortwo-Wittenberg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260906T000000
+DTSTAMP:20260831T094246Z
+UID:ee468ac2-66bd-4709-9dbb-eb6c5d9bdb1a@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stadtparkkonzert mit den Dungelbecker Pisserdohlen und dem Akkorde
  onorchester Wendeburg/Vechelde
 DTSTART;TZID=Europe/Berlin:20260906T110000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:27211997-bb25-4e55-bd23-3cd33897eb61@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein Repertoire aus Klassikern\, plattdeutschen Liedern und sel
@@ -540,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:Offene Pforte Landkreis Peine - Dorfkinder- Garten e.V. \, Mehrum
 DTSTART;TZID=Europe/Berlin:20260906T140000
 DTEND;TZID=Europe/Berlin:20260906T170000
-DTSTAMP:20260830T191700Z
+DTSTAMP:20260831T094246Z
 UID:a349381b-f0ca-4b44-975d-aa6055679325@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein ungenutztes Grundstück der Gemeinde wurde vor über 10 Ja
@@ -564,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abendgottesdienst
 DTSTART;TZID=Europe/Berlin:20260906T170000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:80674069-293c-4f2f-b00d-82a3c654e674@trsdn.github.io
 SEQUENCE:1
 LAST-MODIFIED:20260830T191731Z
@@ -578,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abendgottesdienst
 DTSTART;TZID=Europe/Berlin:20260906T180000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:923dd092-29ec-424b-852e-d60ba29f2754@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -589,10 +836,34 @@ URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
  enste/194359/detail
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260907T000000
+DTSTAMP:20260831T094246Z
+UID:a310d73a-133e-4ab7-b29b-35e4b24bfcba@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260907T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:22f44e5c-38a2-4fba-8df3-76b825dfdba6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -607,10 +878,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260908T000000
+DTSTAMP:20260831T094246Z
+UID:d666c520-9613-42fa-94d4-257b7b319381@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260908T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:cf6acc57-3f27-408b-8d3a-cb7e9348bd56@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -627,7 +922,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:51. Sitzung des Verwaltungsausschusses
 DTSTART;TZID=Europe/Berlin:20260908T170000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:b6975b2e-85e8-4991-aed0-a472b8693c7b@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -638,10 +933,34 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/51-sitzung-des-
  verwaltungsausschusses-900001079-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260909T000000
+DTSTAMP:20260831T094246Z
+UID:95a8af41-9e2e-42fb-93b1-697e39f49494@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260909T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:3fb1650a-0334-43e6-bd06-abd02af3f56b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -658,7 +977,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:26. Sitzung des Ortsrates Wendeburg
 DTSTART;TZID=Europe/Berlin:20260909T190000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:b6c15c49-ff0d-4599-bc31-0154d52f52db@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Zur Tagesordnung
@@ -670,10 +989,58 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/26-sitzung-des-
  ortsrates-wendeburg-900001026-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260910T000000
+DTSTAMP:20260831T094246Z
+UID:b8517d7c-e187-42fd-8014-d681bc5baa82@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse - Präsenzmesse
+DTSTART;TZID=Europe/Berlin:20260910T100000
+DTEND;TZID=Europe/Berlin:20260910T160000
+DTSTAMP:20260831T094246Z
+UID:2f7af078-f860-4c66-9806-310b066cb197@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren.
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gebläsehalle\, Ilseder Hütte 14\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-P
+ raesenzmesse.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260910T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:0be832e4-2567-46ba-a0ae-f7157753347e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -691,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:Monatsversammlung Theaterkreis Bortfeld e.V.
 DTSTART;TZID=Europe/Berlin:20260910T193000
 DTEND;TZID=Europe/Berlin:20260910T203000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:7a678f22-92fc-47f6-85eb-58e4eaca3a34@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Monatliche Versammlung für alle Mitglieder und Interessenten 
@@ -702,10 +1069,34 @@ STATUS:CONFIRMED
 URL:https://www.theaterkreis-bortfeld.de/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260911T000000
+DTSTAMP:20260831T094246Z
+UID:878f6512-de38-4573-88ab-5d5afa0c3836@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260911T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:f2f9ff9c-d235-4630-a2b2-518914c28e1e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -720,10 +1111,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260912T000000
+DTSTAMP:20260831T094246Z
+UID:e7c99632-6efa-4d8c-bc9f-9b5c2416d00d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260912T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:de2a81db-1fcb-4b97-8f8a-202f6b35eb0e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -740,7 +1155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirchenübernachtung für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20260912T170000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:89aaad74-d54c-4e30-86f6-eef6371cd9e8@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine Nacht in der Kirche? Na klar! Bei unserer Kirchenübernac
@@ -754,9 +1169,33 @@ URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
  ne-gemeinden/181288/detail
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260913T000000
+DTSTAMP:20260831T094246Z
+UID:d06f798b-f918-423e-84db-34635470d829@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Begrüßung der neuen Konfirmanden aus Bortfeld u. Wedtlenstedt
 DTSTART;TZID=Europe/Berlin:20260913T093000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:6be1e48d-d10d-4f14-a3e6-828231f687e1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -768,7 +1207,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260913T110000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:ef6b912d-918b-4ec0-8c1e-5846318a86c0@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -781,7 +1220,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert Chor TonArt und Taktlos
 DTSTART;TZID=Europe/Berlin:20260913T170000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:c0ef1329-eb3e-49d6-9f31-63477d1cd5af@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -791,10 +1230,34 @@ URL:https://www.kirche-wendeburg.de/aktuell/termine-gemeinde/details-termi
  ne-gemeinden/194054/detail
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260914T000000
+DTSTAMP:20260831T094246Z
+UID:0148f66c-a8f7-4bc5-89de-17b41dfdbd60@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260914T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:afb0db43-0e2b-4570-8edc-253915b3f386@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -809,10 +1272,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260915T000000
+DTSTAMP:20260831T094246Z
+UID:49132a1c-3881-4605-bb72-39da544ac8e1@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260915T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:21d69c5a-61e1-4ad4-bc88-02d0acfd8e23@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -830,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:Was leistet unsere Landwirtschaft
 DTSTART;TZID=Europe/Berlin:20260915T190000
 DTEND;TZID=Europe/Berlin:20260915T213000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:2ccf8f6c-bf59-4fa0-a602-ae623099f31d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -841,7 +1328,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klangrazzia
 DTSTART;TZID=Europe/Berlin:20260915T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:2ab288e5-51ed-4f2b-be82-c4b708404121@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine musikalische Kriminal-Komödie Konzertdirektion Landgraf 
@@ -856,10 +1343,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-09-15-Klangrazzia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260916T000000
+DTSTAMP:20260831T094246Z
+UID:314b3b8f-7aaa-4f21-bb3a-d9a39d44ee10@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260916T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:01482c0a-bed5-47bc-9096-2ef926ab4434@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -874,10 +1385,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260917T000000
+DTSTAMP:20260831T094246Z
+UID:c69bae15-6098-4c3e-8ebf-a850087a1ecc@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260917T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:7022b946-c52d-48df-ad63-31efc370f324@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -892,10 +1427,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260918T000000
+DTSTAMP:20260831T094246Z
+UID:4a7d88a6-f529-4127-a6f3-0bde75c6717d@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260918T100000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:13b8b166-6979-4635-bccb-e02a87526675@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -912,7 +1471,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neue Heimat Westen
 DTSTART;TZID=Europe/Berlin:20260918T180000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:91646de7-e32e-4604-a401-78482d2e78e3@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Geschichte(n) der Flüchtlingskinder Lesung von Katharina 
@@ -923,6 +1482,30 @@ ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
 STATUS:CONFIRMED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-09-18-Lesung-KSchiller
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260919T000000
+DTSTAMP:20260831T094246Z
+UID:0b876005-eff0-495a-90b4-9d9125f42f33@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Offene Pforte Landkreis Peine - Anne Christine Reetz „Werkstatt 
@@ -950,6 +1533,49 @@ URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
  ne-anne-christine-reetz-werkstatt-fuer-metall-und-mehr-101189906/?tx_toujo
  udestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a73
  0d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beachparty am Eixer Haus am See
+DTSTART;TZID=Europe/Berlin:20260919T190000
+DTSTAMP:20260831T094246Z
+UID:a4b22ce7-dd8e-4b9e-a050-07f01884511b@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Beach-Party am Eixer Haus am See! Nach der letzten erfolgreich
+ en Party steht nun ein weiteres großes Highlight an: Am 19.09.2026 findet
+  unsere Beach-Party statt! Vorverkauf: 6€ - ab sofort bei uns am Eixer H
+ aus am See\, Abendkasse: 8€ Einlass: 19:00 Uhr\, Beginn: 20:00 Uhr mit D
+ J Patrick Also: Sommer-Outfit an\, Freunde einpacken und gemeinsam mit uns
+  eine tolle Beach-Party feiern! Wir freuen uns auf Euch!
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Eixer Haus am See\, Sundernweg 41\, 31228 Peine
+ORGANIZER;CN="Eixer Haus am See":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/Beachparty-am-Eixer-Ha
+ us-am-See.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260920T000000
+DTSTAMP:20260831T094246Z
+UID:d2c8752c-00d9-434f-9197-de04e161f0bf@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verein Wald Erleben - Offene Pforte Landkreis Peine
@@ -981,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:Apfelfest Lengede
 DTSTART;TZID=Europe/Berlin:20260920T100000
 DTEND;TZID=Europe/Berlin:20260920T180000
-DTSTAMP:20260830T191700Z
+DTSTAMP:20260831T094246Z
 UID:0e269d5b-3ca5-4e46-ad57-aaaf621c3645@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Apfelfest der Gemeinde Lengede findet am 20. September 202
@@ -1003,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Wendezeller Erntedank Frühshoppen
 DTSTART;TZID=Europe/Berlin:20260920T103000
 DTEND;TZID=Europe/Berlin:20260920T150000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:ced67532-13c0-4bad-8c6b-064a20f388c3@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -1014,7 +1640,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260920T110000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:adb0a0be-e0aa-4bc6-8321-72a576181a33@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1054,7 +1680,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friedensgebet
 DTSTART;TZID=Europe/Berlin:20260920T190000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:e883f27c-20b2-42cd-8eab-eb1fad386cab@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -1064,9 +1690,33 @@ STATUS:CONFIRMED
 URL:https://www.kirche-bortfeld.de/aktuell/gottesdienste-in-bortfeld
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260921T000000
+DTSTAMP:20260831T094246Z
+UID:54fe1e39-995f-4bf5-9551-dfbc93376db9@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20260921T150000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:e696fb8c-8997-4dec-8a6f-005a9918f5a3@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -1079,9 +1729,105 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=Blutspende-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260922T000000
+DTSTAMP:20260831T094246Z
+UID:8726e391-e63e-4f1c-9c09-d7d9039007ee@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260923T000000
+DTSTAMP:20260831T094246Z
+UID:e222bad4-2cac-4f6f-9f6b-68fddbb7d283@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260924T000000
+DTSTAMP:20260831T094246Z
+UID:58f86b0d-d20b-4012-9661-15ab8658efdd@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260925T000000
+DTSTAMP:20260831T094246Z
+UID:79263eb2-89d0-4f9b-a919-fd2408ee5ac3@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KinderKirche Kunterbunt
 DTSTART;TZID=Europe/Berlin:20260925T153000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:b910a3ac-0a30-46c1-9fed-c48c4073f5bc@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -1093,7 +1839,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirche Kunterbunt - Familienkirche
 DTSTART;TZID=Europe/Berlin:20260925T153000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:f1b7ed9c-40ea-4449-ad15-ebdca68c6954@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1105,7 +1851,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hans Gerzlich
 DTSTART;TZID=Europe/Berlin:20260925T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:7864480b-3671-4a7d-9748-37b5176aae20@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ich hatte mich jünger in Erinnerung. Ein Best Ager in der Bl
@@ -1118,10 +1864,34 @@ URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-09-25-Hans-Gerzlich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260926T000000
+DTSTAMP:20260831T094246Z
+UID:41b549f4-0ad6-41e4-8e2b-e9f7bae52b00@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pflanzenbörse
 DTSTART;TZID=Europe/Berlin:20260926T140000
 DTEND;TZID=Europe/Berlin:20260926T170000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:0ebca566-3633-45ab-80da-88ed441534a9@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -1133,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oktoberfest 2026 in Bortfeld
 DTSTART;TZID=Europe/Berlin:20260926T180000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:66a9de66-804e-4290-805c-6de2f2f38a97@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191559Z
@@ -1143,9 +1913,33 @@ STATUS:CONFIRMED
 URL:https://www.volksfestgemeinschaftbortfeld.de/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
+DTSTART;TZID=Europe/Berlin:20260927T000000
+DTSTAMP:20260831T094246Z
+UID:b5836a17-05fb-4ff9-b9fa-e3be2802e3ec@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
+ iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
+ Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
+ . Das Jubiläumsjahr verspricht besondere Highlights und bewährte Formate
+ . Der zentrale Veranstaltungstag ist die Präsenzmesse am Donnerstag\, den
+  10. September 2026\, in der Gebläsehalle in Groß Ilsede. Ergänzend daz
+ u wird erneut eine virtuelle Jobbörse angeboten\, die vom 28. August bis 
+ zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
+ glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
+ l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
+ tuellen Jobbörse: https://ilseder-jobboerse.de/
+LAST-MODIFIED:20260831T094246Z
+LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
+ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
+ irtuelle-Messe.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Erntedankgottesdienst\, Kirche
 DTSTART;TZID=Europe/Berlin:20260927T093000
-DTSTAMP:20260830T191732Z
+DTSTAMP:20260831T094318Z
 UID:4c3121ec-402a-4454-9423-a45966a5bdc3@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -1157,7 +1951,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260927T110000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:e5cdfc0a-0a59-46ab-aa7c-d2b0e427c0a1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1171,7 +1965,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20260928T193000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:355864c4-f7bc-49f5-8634-a8b59d41360f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -1188,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:Treffen AG nachhaltiges Wendeburg
 DTSTART;TZID=Europe/Berlin:20260929T190000
 DTEND;TZID=Europe/Berlin:20260929T210000
-DTSTAMP:20260830T191559Z
+DTSTAMP:20260831T094145Z
 UID:03ce307f-9d22-4f5b-b36a-096fe9b27949@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Jeden letzten Dienstag im Monat trifft sich die AG um über di
@@ -1203,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20260929T193000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:cf281fa6-8bb3-44c1-9cd6-2350988e3b5e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -1220,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:c675ce62-efee-4acd-9559-ff31af8f4547@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Seit 1787 findet am letzten Mittwoch im September und am darau
@@ -1239,7 +2033,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;TZID=Europe/Berlin:20260930T090000
 DTEND;TZID=Europe/Berlin:20260930T230000
-DTSTAMP:20260830T191700Z
+DTSTAMP:20260831T094246Z
 UID:2f6f303a-41d7-452d-8b27-1bf2acc1de10@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
@@ -1257,7 +2051,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herbstbasteln für Kinder für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20260930T163000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:4afec28e-249b-42ab-b6e2-3d9754b43733@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hey Leute – draußen ist’s grau\, aber wir machen’s drin
@@ -1273,7 +2067,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geld. Gier. Macht.
 DTSTART;TZID=Europe/Berlin:20260930T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:1540b287-549e-48ca-b4c2-6f910f9f618c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Fall Cum Ex Schauspiel von Stefan Zimmermann Eine Produkti
@@ -1290,7 +2084,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;TZID=Europe/Berlin:20261001T090000
 DTEND;TZID=Europe/Berlin:20261001T220000
-DTSTAMP:20260830T191700Z
+DTSTAMP:20260831T094246Z
 UID:c2609b08-f9c8-4b27-ba86-2d75345a66a5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
@@ -1304,6 +2098,20 @@ STATUS:CONFIRMED
 URL:https://www.peine-erleben.de/d1i-item-page/lafferder-markt-101340055/?
  tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64
  a1979a730d85034f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elterncafé
+DTSTART;TZID=Europe/Berlin:20261001T143000
+DTEND;TZID=Europe/Berlin:20261001T160000
+DTSTAMP:20260831T094145Z
+UID:27a0b13c-90c5-4bb4-964f-c46a453e5e6d@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20260831T094145Z
+LOCATION:Evanglisch- Lutherischer Kindergarten\, Braunschweiger Straße 10
+ \, 38716 Wendeburg
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/elterncaf--9000
+ 01385-26610.ical
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abendlesung
@@ -1320,7 +2128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club der toten Dichter: Galgenlieder
 DTSTART;TZID=Europe/Berlin:20261002T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:58ee4b74-83b9-4677-961f-d9fe8a09ca36@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Christian Morgenstern neu vertont. Jubiläumstournee - 20 Jahr
@@ -1335,7 +2143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babysitter*innenkurs für Teenager und Jugendliche ab 12 Jahren
 DTSTART;TZID=Europe/Berlin:20261003T100000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:43bd53a6-c172-48fa-a254-49f922fa8891@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Was brauchen Kinder in welcher Entwicklungsstufe? Wie kannst d
@@ -1352,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20261005T193000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:83f7a850-c2d3-443a-a656-84f809699ad7@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -1369,7 +2177,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20261006T193000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:567db7bf-6014-40ef-8ed5-489eb8a22f72@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -1385,7 +2193,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orgelentdeckertag für Konfirmand*innen
 DTSTART;TZID=Europe/Berlin:20261008T170000
-DTSTAMP:20260830T191731Z
+DTSTAMP:20260831T094317Z
 UID:909b707c-560d-49e4-b46e-d9e545a5e97e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hast du Lust\, die „Königin der Instrumente“ mal aus der 
@@ -1400,7 +2208,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Schaf Charlotte und seine Freunde
 DTSTART;TZID=Europe/Berlin:20261009T160000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:a7572aab-2bad-483c-9e3c-3748fb3f7ddc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Figurentheater über die Kraft der Freundschaft Nach dem gleic
@@ -1416,7 +2224,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kunstausstellung Britta Ahrens
 DTSTART;TZID=Europe/Berlin:20261009T190000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:8556e055-7fcd-40bd-850b-f0676831643f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Neues von der Lieblingsinsel Ausstellung von Werken von Britta
@@ -1432,7 +2240,7 @@ BEGIN:VEVENT
 SUMMARY:Drachenfest
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260830T191728Z
+DTSTAMP:20260831T094315Z
 UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:...immer am vorletzten Sonntag im Oktober Termin für 2024: 18
@@ -1447,7 +2255,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261019T150000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:2651cdbc-2c59-4ec6-be2a-401fbba5665d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -1462,7 +2270,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Tatortreiniger
 DTSTART;TZID=Europe/Berlin:20261029T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:0e220ed8-728f-4076-bbd6-fede0a2b58a6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Mizzy Meyer Eine Produktion des Contrakreis Theater Bonn i
@@ -1477,7 +2285,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kalter weisser Mann
 DTSTART;TZID=Europe/Berlin:20261030T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:a25cf401-984b-4b76-a964-2106d28cbf99@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Dietmar Jacobs und Moritz Netenjakob Mit Timothy 
@@ -1492,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herzfaden
 DTSTART;TZID=Europe/Berlin:20261104T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:11dc5366-33a7-4b88-a027-fd079dfc69e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Schauspiel nach dem Roman von Thomas Hettche Über die Entsteh
@@ -1507,7 +2315,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lilly und die Erbse
 DTSTART;TZID=Europe/Berlin:20261105T160000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:570ccf14-bc4c-4828-b7ec-cba237a668d4@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein Familienstück mit Musik von Carolin Jelden nach Hans Chri
@@ -1523,7 +2331,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies Ahoi! AUSVERKAUFT!
 DTSTART;TZID=Europe/Berlin:20261106T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:67053553-ab97-42b8-b46e-597cb031bf40@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der kleinste Shantychor der Welt direkt aus St. Pauli Musik un
@@ -1540,7 +2348,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Zero
 DTSTART;TZID=Europe/Berlin:20261114T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:47a332da-ba7b-4c37-880d-5a78edfe858a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die gefeierte Linkin Park Tribute Band ist zurück! Vorverkauf
@@ -1555,7 +2363,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261116T150000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:cb9dd0d5-81ef-4538-8aa7-ed4603a2a95a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -1571,7 +2379,7 @@ BEGIN:VEVENT
 SUMMARY:4. Peiner Rudelsingen (Steh-Konzert\, begrenzte Sitzplätze sind n
  ur über den Veranstalter direkt buchbar)
 DTSTART;TZID=Europe/Berlin:20261118T193000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:28e76d7b-94cc-4f3d-93d4-2954c33aaed2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Mitsing-Event für alle! Gemeinsam singen\, lachen und ein
@@ -1589,7 +2397,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsstadt Peine
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260830T191718Z
+DTSTAMP:20260831T094304Z
 UID:46623868-17e7-4772-acda-9046bfc2a861@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Weihnachtsstadt Peine wird zum Ort der Vielfalt und des Mi
@@ -1605,7 +2413,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewig jung
 DTSTART;TZID=Europe/Berlin:20261127T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:8c44280d-bbf6-46a2-b11f-cb347d7453e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Songdrama von Erik Gedeon Theater für Niedersachsen Eine turb
@@ -1620,7 +2428,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lissi und Herr Timpe
 DTSTART;TZID=Europe/Berlin:20261128T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:fe7aaacb-9ae4-4b73-965c-14d9f34c937e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Veronika\, Advent ist da Diese Winterrevue entführt das Publi
@@ -1635,7 +2443,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T090000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:3e1c433b-ab8c-44d4-9708-3603e4cfb46c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -1650,7 +2458,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T110000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:8dd9cec5-eb01-49dc-a261-9917ef88656d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -1665,7 +2473,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T160000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:f3f16e58-9d9a-47c3-b767-183e4d74a3f2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -1680,7 +2488,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE REAL COMEDIAN HARMONISTS
 DTSTART;TZID=Europe/Berlin:20261203T193000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:d68a328a-736b-4d54-ab13-ca237341da3a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hell ist die Nacht THE REAL COMEDIAN HARMONISTS stimmen mit 
@@ -1696,7 +2504,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Momsen ihm seine Weihnachtsshow
 DTSTART;TZID=Europe/Berlin:20261204T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:97f9f759-b4e9-4e7b-8989-e1400f917f73@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Werner Momsen auf der Suche nach dem Weihnachtsgefühl 29\,- 
@@ -1711,7 +2519,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Es war die Lerche
 DTSTART;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:b156f11b-16f9-427f-adac-2f6d4df6bb9f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Ephraim Kishon Neues Globe Theater 34\,50 € | 3
@@ -1726,7 +2534,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261217T160000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:3d582ade-2cb8-419e-a715-c82a0095ab53@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -1743,7 +2551,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T090000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:372bde6b-ef54-458d-a36b-7b514905b0f0@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -1760,7 +2568,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T113000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:03a550f6-90dc-443d-a4cc-9a45b2c7d593@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -1777,7 +2585,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261221T150000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:a4789557-4082-4edf-b37e-01413ff866a5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -1792,7 +2600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Von wegen Stille Nacht
 DTSTART;TZID=Europe/Berlin:20261221T200000
-DTSTAMP:20260830T191716Z
+DTSTAMP:20260831T094302Z
 UID:fec6cc4f-4c39-4498-aff0-95a488a85d9d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Weihnachtskomödie von Florian Battermann Komödie am Altstadt
