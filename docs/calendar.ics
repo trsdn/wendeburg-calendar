@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Spring
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Das Zukunftsthema Mobilität bestimmt für zwei Tage die Stadt
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:STADTRADELN im Peiner Land
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:08183f18-4b7b-4b8c-8ca1-fe89956e6642@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Alle Schulen\, Vereine\, Unternehmen sowie Bürgerinnen und B
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Highland Gathering
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:e154324d-8642-4815-ab69-af0a6d55e38d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Schotten sind los! Dieses Event sollten Sie sich nicht ent
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Freischießen
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:511666d1-aa9d-4f2f-ad71-06b753c1e726@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das ist Peine: Eine Woche lang können Sie erleben\, wie die K
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Weinfest
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:dcef703b-ead6-477c-9182-41e870b1a434@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Historische Marktplatz in Peine wird wieder in ein gemütl
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Volksfest in Zweidorf
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260912T075519Z
+DTSTAMP:20260913T081818Z
 UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
@@ -772,17 +772,17 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260905T100000
-DTSTAMP:20260905T074028Z
+DTSTAMP:20260913T081804Z
 UID:859aa24e-23eb-4c45-bb67-e369d6111126@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
  tten im Wahlkampf möchte die SPD bewusst ein überparteiliches Zeichen f
  ür die Demokratie setzen.
-LAST-MODIFIED:20260830T191716Z
+LAST-MODIFIED:20260913T081804Z
 LOCATION:Forum Peine
 ORGANIZER;CN="SPD Ortsverein Peine Kernstadt":mailto:noreply@trsdn.github.
  io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-08-25-Ausstellung
 END:VEVENT
@@ -816,16 +816,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Modehaus Schridde präsentiert: Dinner for two!
 DTSTART;TZID=Europe/Berlin:20260905T193000
-DTSTAMP:20260905T074028Z
+DTSTAMP:20260913T081804Z
 UID:b5823d0d-7929-4b6f-9077-e8ad34bb0e17@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Travestie trifft Musical & Operette 60 Jahre Dunja - Special E
  dition mit Fingerfood & Moderation Consuela Grande & Helge Thomas 50\,40
  €
-LAST-MODIFIED:20260830T191716Z
+LAST-MODIFIED:20260913T081804Z
 LOCATION:Stadttheater Peiner Festsäle
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-09-05-Dinnerfortwo-Wittenberg
 END:VEVENT
@@ -1278,7 +1278,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirchenübernachtung für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20260912T170000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:89aaad74-d54c-4e30-86f6-eef6371cd9e8@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine Nacht in der Kirche? Na klar! Bei unserer Kirchenübernac
@@ -1318,7 +1318,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begrüßung der neuen Konfirmanden aus Bortfeld u. Wedtlenstedt
 DTSTART;TZID=Europe/Berlin:20260913T093000
-DTSTAMP:20260912T075522Z
+DTSTAMP:20260913T081822Z
 UID:6be1e48d-d10d-4f14-a3e6-828231f687e1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -1330,7 +1330,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260913T110000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:ef6b912d-918b-4ec0-8c1e-5846318a86c0@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1343,7 +1343,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert Chor TonArt und Taktlos
 DTSTART;TZID=Europe/Berlin:20260913T170000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:c0ef1329-eb3e-49d6-9f31-63477d1cd5af@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1380,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260914T100000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:afb0db43-0e2b-4570-8edc-253915b3f386@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260915T100000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:21d69c5a-61e1-4ad4-bc88-02d0acfd8e23@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -1451,7 +1451,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klangrazzia
 DTSTART;TZID=Europe/Berlin:20260915T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:2ab288e5-51ed-4f2b-be82-c4b708404121@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine musikalische Kriminal-Komödie - Konzertdirektion Landgra
@@ -1532,7 +1532,7 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260916T100000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:01482c0a-bed5-47bc-9096-2ef926ab4434@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260917T100000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:7022b946-c52d-48df-ad63-31efc370f324@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -1616,7 +1616,7 @@ BEGIN:VEVENT
 SUMMARY:Wanderausstellung „Für Freiheit und Republik! – Das Reichsban
  ner Schwarz-Rot-Gold im Kampf für die Demokratie 1924–1933“
 DTSTART;TZID=Europe/Berlin:20260918T100000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:13b8b166-6979-4635-bccb-e02a87526675@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für Freiheit. Für Demokratie. Für die deutsche Republik. Mi
@@ -1633,7 +1633,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neue Heimat Westen
 DTSTART;TZID=Europe/Berlin:20260918T180000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:91646de7-e32e-4604-a401-78482d2e78e3@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Geschichte(n) der Flüchtlingskinder Lesung von Katharina 
@@ -1700,7 +1700,7 @@ BEGIN:VEVENT
 SUMMARY:#lautStark
 DTSTART;TZID=Europe/Berlin:20260919T160000
 DTEND;TZID=Europe/Berlin:20260919T220000
-DTSTAMP:20260912T075448Z
+DTSTAMP:20260913T081748Z
 UID:46e0dacb-d76d-465c-9d94-3fdc3fd34de5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Auch in diesem Jahr organisiert der Gemeindejugendring Edemiss
@@ -1771,7 +1771,7 @@ BEGIN:VEVENT
 SUMMARY:Offene Ateliers im Peiner Land
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:407721d0-9c58-4abf-bd2c-c57a38c94a1e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Seit 2013 öffnen Peiner Kunstschaffende zwischen Edemissen un
@@ -1789,9 +1789,9 @@ BEGIN:VEVENT
 SUMMARY:Verein Wald Erleben - Offene Pforte Landkreis Peine
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260911T080216Z
+DTSTAMP:20260913T081748Z
 UID:0cfd21a4-3cae-4861-906a-61267539c1da@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Am 20. September 2026 lädt der Verein Wald Erleben im Peiner 
  Land zu einem ganz besonderen Erlebnis ins Meerdorfer Holz ein. Beim Waldk
  onzert mischen sich die Klänge der Musik mit Blätterrauschen und Vogelge
@@ -1803,10 +1803,10 @@ DESCRIPTION:Am 20. September 2026 lädt der Verein Wald Erleben im Peiner
  s. Plant diesen kleinen Spaziergang bei eurer Anreise mit ein. Sonntag\, 2
  0. September 2026\, 11 - 13 Uhr Meerdorfer Holz / Tadensenhaus Weitere Inf
  ormationen findet ihr auf wald-erlebnis-pfad.de
-LAST-MODIFIED:20260911T080216Z
+LAST-MODIFIED:20260913T081748Z
 LOCATION:Grünes Klassenzimmer\, Wipshäuser Straße\, 38176 Wendeburg
 ORGANIZER;CN="Verein Wald Erleben":mailto:noreply@trsdn.github.io
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://www.peine-erleben.de/d1i-item-page/verein-wald-erleben-offene-
  pforte-landkreis-peine-101339478/?tx_toujoudestinationoneintegration_item%
  5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
@@ -1847,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260920T110000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:adb0a0be-e0aa-4bc6-8321-72a576181a33@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -1887,7 +1887,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friedensgebet
 DTSTART;TZID=Europe/Berlin:20260920T190000
-DTSTAMP:20260912T075522Z
+DTSTAMP:20260913T081822Z
 UID:e883f27c-20b2-42cd-8eab-eb1fad386cab@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -1923,7 +1923,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20260921T150000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:e696fb8c-8997-4dec-8a6f-005a9918f5a3@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -2034,7 +2034,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KinderKirche Kunterbunt
 DTSTART;TZID=Europe/Berlin:20260925T153000
-DTSTAMP:20260912T075522Z
+DTSTAMP:20260913T081822Z
 UID:b910a3ac-0a30-46c1-9fed-c48c4073f5bc@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -2046,7 +2046,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirche Kunterbunt - Familienkirche
 DTSTART;TZID=Europe/Berlin:20260925T153000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:f1b7ed9c-40ea-4449-ad15-ebdca68c6954@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -2058,7 +2058,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hans Gerzlich
 DTSTART;TZID=Europe/Berlin:20260925T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:7864480b-3671-4a7d-9748-37b5176aae20@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ich hatte mich jünger in Erinnerung. Ein Best Ager in der Bl
@@ -2098,7 +2098,7 @@ BEGIN:VEVENT
 SUMMARY:Foodtruck Festival in Peine
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:088d96bd-7cc0-4363-b991-4150f5f53e6b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine kulinarische Reise rund um den Globus erwartet die Besuch
@@ -2166,7 +2166,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Erntedankgottesdienst\, Kirche
 DTSTART;TZID=Europe/Berlin:20260927T093000
-DTSTAMP:20260912T075522Z
+DTSTAMP:20260913T081822Z
 UID:4c3121ec-402a-4454-9423-a45966a5bdc3@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191732Z
@@ -2178,7 +2178,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20260927T110000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:e5cdfc0a-0a59-46ab-aa7c-d2b0e427c0a1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260830T191731Z
@@ -2205,7 +2205,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20260928T193000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:355864c4-f7bc-49f5-8634-a8b59d41360f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -2237,7 +2237,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20260929T193000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:cf281fa6-8bb3-44c1-9cd6-2350988e3b5e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -2254,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:c675ce62-efee-4acd-9559-ff31af8f4547@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Seit 1787 findet am letzten Mittwoch im September und am darau
@@ -2273,7 +2273,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;TZID=Europe/Berlin:20260930T090000
 DTEND;TZID=Europe/Berlin:20260930T230000
-DTSTAMP:20260911T080216Z
+DTSTAMP:20260913T081748Z
 UID:2f6f303a-41d7-452d-8b27-1bf2acc1de10@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
@@ -2291,7 +2291,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herbstbasteln für Kinder für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20260930T163000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:4afec28e-249b-42ab-b6e2-3d9754b43733@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hey Leute – draußen ist’s grau\, aber wir machen’s drin
@@ -2307,7 +2307,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geld. Gier. Macht.
 DTSTART;TZID=Europe/Berlin:20260930T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:1540b287-549e-48ca-b4c2-6f910f9f618c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Fall Cum Ex Schauspiel von Stefan Zimmermann Eine Produkti
@@ -2324,7 +2324,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;TZID=Europe/Berlin:20261001T090000
 DTEND;TZID=Europe/Berlin:20261001T220000
-DTSTAMP:20260911T080216Z
+DTSTAMP:20260913T081748Z
 UID:c2609b08-f9c8-4b27-ba86-2d75345a66a5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Auch in diesem Jahr dürfen sich Besucherinnen und Besucher wi
@@ -2382,7 +2382,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club der toten Dichter: Galgenlieder
 DTSTART;TZID=Europe/Berlin:20261002T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:58ee4b74-83b9-4677-961f-d9fe8a09ca36@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Christian Morgenstern neu vertont. Jubiläumstournee - 20 Jahr
@@ -2397,7 +2397,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babysitter*innenkurs für Teenager und Jugendliche ab 12 Jahren
 DTSTART;TZID=Europe/Berlin:20261003T100000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:43bd53a6-c172-48fa-a254-49f922fa8891@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Was brauchen Kinder in welcher Entwicklungsstufe? Wie kannst d
@@ -2441,10 +2441,32 @@ URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/finissage-der-a
  bschluss-meines-lebenswerkes-900001392-26610.ical
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biergartenabschluss
+DTSTART;TZID=Europe/Berlin:20261003T120000
+DTSTAMP:20260913T081748Z
+UID:e4960c93-2d96-4d15-8dfb-69b93216c30b@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Wir wollen die diesjährige Biergartensaison gebührend verabs
+ chieden! Wann? Am Samstag\, den 03. Oktober Was? Ab 12 Uhr gibt es leckere
+ s Spanferkel\, auch unser Grill hat geöffnet. Ab 14 Uhr begrüßen wir un
+ sere Freunde der The Owl Town Pipe&Drum Band\, die uns musikalisch begleit
+ en Wo? Im Biergarten und Strandbereich bei uns am Eixer Haus am See Eine R
+ eservierung ist nicht erforderlich. Wir freuen uns auf Euch! PS: Keine Sor
+ ge\, auch im Herbst und Winter haben unsere Gaststätte und die Grillhütt
+ e geöffnet. Unsere aktuellsten Angebote veröffentlichen wir auf der Webs
+ ite und auf Social Media.
+LAST-MODIFIED:20260913T081748Z
+LOCATION:Eixer Haus am See\, Sundernweg 41\, 31228 Peine
+ORGANIZER;CN="Eixer Haus am See":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/Biergartenabschluss.ph
+ p
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kinderbasar
 DTSTART;TZID=Europe/Berlin:20261003T120000
 DTEND;TZID=Europe/Berlin:20261003T143000
-DTSTAMP:20260912T075448Z
+DTSTAMP:20260913T081748Z
 UID:69f98b91-9e7c-4181-bfc8-540274b0a3ea@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Dungelbeck – Am Samstag\, 03.10.2026\, 12–14.30 Uhr findet
@@ -2501,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20261005T193000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:83f7a850-c2d3-443a-a656-84f809699ad7@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -2531,7 +2553,7 @@ BEGIN:VEVENT
 SUMMARY:Durch Krisen reifen Glaubenskurs aus der Reihe „Stufen des Leben
  s“
 DTSTART;TZID=Europe/Berlin:20261006T193000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:567db7bf-6014-40ef-8ed5-489eb8a22f72@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krisen bahnen sich manchmal langsam und unmerklich an oder sie
@@ -2547,7 +2569,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orgelentdeckertag für Konfirmand*innen
 DTSTART;TZID=Europe/Berlin:20261008T170000
-DTSTAMP:20260912T075521Z
+DTSTAMP:20260913T081821Z
 UID:909b707c-560d-49e4-b46e-d9e545a5e97e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hast du Lust\, die „Königin der Instrumente“ mal aus der 
@@ -2589,7 +2611,7 @@ BEGIN:VEVENT
 SUMMARY:Krimi Abend Lesung
 DTSTART;TZID=Europe/Berlin:20261008T190000
 DTEND;TZID=Europe/Berlin:20261008T210000
-DTSTAMP:20260911T080216Z
+DTSTAMP:20260913T081748Z
 UID:26d7662b-347c-4644-b9ab-5595536ed0dd@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine wunderbare Krimi Abend Lesung: Es lesen: Silke Groth (Coz
@@ -2605,7 +2627,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Schaf Charlotte und seine Freunde
 DTSTART;TZID=Europe/Berlin:20261009T160000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:a7572aab-2bad-483c-9e3c-3748fb3f7ddc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Figurentheater über die Kraft der Freundschaft Nach dem gleic
@@ -2621,7 +2643,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kunstausstellung Britta Ahrens
 DTSTART;TZID=Europe/Berlin:20261009T190000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:8556e055-7fcd-40bd-850b-f0676831643f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Neues von der Lieblingsinsel Ausstellung von Werken von Britta
@@ -2637,7 +2659,7 @@ BEGIN:VEVENT
 SUMMARY:Stereo Start
 DTSTART;TZID=Europe/Berlin:20261010T200000
 DTEND;TZID=Europe/Berlin:20261010T220000
-DTSTAMP:20260910T080712Z
+DTSTAMP:20260913T081748Z
 UID:4b028654-1941-4228-aa1f-fbca16d5dd61@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Stereo Start – das ist deutschsprachiger Indie Rock aus Brau
@@ -2669,7 +2691,7 @@ BEGIN:VEVENT
 SUMMARY:Drachenfest
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260912T075519Z
+DTSTAMP:20260913T081818Z
 UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:...immer am vorletzten Sonntag im Oktober Termin für 2024: 18
@@ -2684,7 +2706,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261019T150000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:2651cdbc-2c59-4ec6-be2a-401fbba5665d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -2699,7 +2721,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Tatortreiniger
 DTSTART;TZID=Europe/Berlin:20261029T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:0e220ed8-728f-4076-bbd6-fede0a2b58a6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Mizzy Meyer Eine Produktion des Contrakreis Theater Bonn i
@@ -2715,7 +2737,7 @@ BEGIN:VEVENT
 SUMMARY:"The Royal Squeeze Box" plays Queen
 DTSTART;TZID=Europe/Berlin:20261030T190000
 DTEND;TZID=Europe/Berlin:20261030T210000
-DTSTAMP:20260912T075448Z
+DTSTAMP:20260913T081748Z
 UID:3b010a8f-d4b5-4014-8d93-9b8318c48b23@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:"The Royal Squeeze Box" plays Queen Zwei Musiker und ein Akkor
@@ -2739,7 +2761,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kalter weisser Mann
 DTSTART;TZID=Europe/Berlin:20261030T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:a25cf401-984b-4b76-a964-2106d28cbf99@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Dietmar Jacobs und Moritz Netenjakob Mit Timothy 
@@ -2754,7 +2776,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herzfaden
 DTSTART;TZID=Europe/Berlin:20261104T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:11dc5366-33a7-4b88-a027-fd079dfc69e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Schauspiel nach dem Roman von Thomas Hettche Über die Entsteh
@@ -2816,7 +2838,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lilly und die Erbse
 DTSTART;TZID=Europe/Berlin:20261105T160000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:570ccf14-bc4c-4828-b7ec-cba237a668d4@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein Familienstück mit Musik von Carolin Jelden nach Hans Chri
@@ -2832,7 +2854,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies Ahoi! AUSVERKAUFT!
 DTSTART;TZID=Europe/Berlin:20261106T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:67053553-ab97-42b8-b46e-597cb031bf40@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der kleinste Shantychor der Welt direkt aus St. Pauli Musik un
@@ -2849,7 +2871,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Zero
 DTSTART;TZID=Europe/Berlin:20261114T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:47a332da-ba7b-4c37-880d-5a78edfe858a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die gefeierte Linkin Park Tribute Band ist zurück! Vorverkauf
@@ -2864,7 +2886,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261116T150000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:cb9dd0d5-81ef-4538-8aa7-ed4603a2a95a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -2880,7 +2902,7 @@ BEGIN:VEVENT
 SUMMARY:4. Peiner Rudelsingen (Steh-Konzert\, begrenzte Sitzplätze sind n
  ur über den Veranstalter direkt buchbar)
 DTSTART;TZID=Europe/Berlin:20261118T193000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:28e76d7b-94cc-4f3d-93d4-2954c33aaed2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Mitsing-Event für alle! Gemeinsam singen\, lachen und ein
@@ -2898,7 +2920,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsstadt Peine
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20260912T075508Z
+DTSTAMP:20260913T081806Z
 UID:46623868-17e7-4772-acda-9046bfc2a861@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Weihnachtsstadt Peine wird zum Ort der Vielfalt und des Mi
@@ -2914,7 +2936,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewig jung
 DTSTART;TZID=Europe/Berlin:20261127T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:8c44280d-bbf6-46a2-b11f-cb347d7453e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Songdrama von Erik Gedeon Theater für Niedersachsen Eine turb
@@ -2929,7 +2951,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lissi und Herr Timpe
 DTSTART;TZID=Europe/Berlin:20261128T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:fe7aaacb-9ae4-4b73-965c-14d9f34c937e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Veronika\, Advent ist da Diese Winterrevue entführt das Publi
@@ -2944,7 +2966,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T090000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:3e1c433b-ab8c-44d4-9708-3603e4cfb46c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -2959,7 +2981,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T110000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:8dd9cec5-eb01-49dc-a261-9917ef88656d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -2974,7 +2996,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T160000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:f3f16e58-9d9a-47c3-b767-183e4d74a3f2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -3031,7 +3053,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE REAL COMEDIAN HARMONISTS
 DTSTART;TZID=Europe/Berlin:20261203T193000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:d68a328a-736b-4d54-ab13-ca237341da3a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hell ist die Nacht THE REAL COMEDIAN HARMONISTS stimmen mit 
@@ -3047,7 +3069,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Momsen ihm seine Weihnachtsshow
 DTSTART;TZID=Europe/Berlin:20261204T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:97f9f759-b4e9-4e7b-8989-e1400f917f73@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Werner Momsen auf der Suche nach dem Weihnachtsgefühl 29\,- 
@@ -3062,7 +3084,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Es war die Lerche
 DTSTART;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:b156f11b-16f9-427f-adac-2f6d4df6bb9f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Ephraim Kishon Neues Globe Theater 34\,50 € | 3
@@ -3077,7 +3099,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261217T160000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:3d582ade-2cb8-419e-a715-c82a0095ab53@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -3094,7 +3116,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T090000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:372bde6b-ef54-458d-a36b-7b514905b0f0@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -3151,7 +3173,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T113000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:03a550f6-90dc-443d-a4cc-9a45b2c7d593@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -3208,7 +3230,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261221T150000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:a4789557-4082-4edf-b37e-01413ff866a5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -3223,7 +3245,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Von wegen Stille Nacht
 DTSTART;TZID=Europe/Berlin:20261221T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:fec6cc4f-4c39-4498-aff0-95a488a85d9d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Weihnachtskomödie von Florian Battermann Komödie am Altstadt
@@ -3239,7 +3261,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEST OF VARIETÉ
 DTSTART;TZID=Europe/Berlin:20261231T170000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:60bba9ef-ef19-430d-8b32-5ce4ec00741c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:by Maik M. Paulsen Eine Produktion von Paulsen & Consorten
@@ -3253,7 +3275,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Achtsam morden durch bewusste Ernährung
 DTSTART;TZID=Europe/Berlin:20270114T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:42cbb797-f31e-4f2e-9e76-14393ad4ba34@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimikomödie nach Band 5 der Bestseller-Reihe von Karsten Dus
@@ -3270,7 +3292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neujahrskonzert
 DTSTART;TZID=Europe/Berlin:20270116T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:dda53ee1-ddcc-4831-aa00-da6389553b92@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:und jetzt alle ! Theater für Niedersachsen Das einzigartige K
@@ -3286,7 +3308,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270117T110000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:88d6dc6f-a41c-487a-8add-2fa43339d90b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -3301,7 +3323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimi-Quiz
 DTSTART;TZID=Europe/Berlin:20270119T190000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:0b22e150-42c6-45af-9782-79fba3654c58@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Mit Rateteams und Moderation kostenfrei mit Anmeldung
@@ -3315,7 +3337,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tina Häussermann
 DTSTART;TZID=Europe/Berlin:20270121T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:b26c25d4-6eea-4b48-9905-37934273a850@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Happy Konfetti Die Kabarettistin und Comedienne Tina Häusserm
@@ -3333,7 +3355,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konrad oder das Kind aus der Konservenbüchse
 DTSTART;TZID=Europe/Berlin:20270122T160000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:ef13a3ab-2fb9-4e84-9af9-39089cfdfeca@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Christine Nöstlinger Sprechwerk Hamburg | Regie und Textf
@@ -3369,7 +3391,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auf Harz und Nieren
 DTSTART;TZID=Europe/Berlin:20270127T190000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:65d117be-8227-4169-950d-f531840ff5bc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimi-Lesung von Autor Roland Lange 12\,- €
@@ -3383,7 +3405,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alk oder nicht Alk - Das ist die Frage
 DTSTART;TZID=Europe/Berlin:20270129T190000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:c7ff1fb9-2cdd-4f2b-9f76-a49c63852ab6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Lesung 35\,- € inkl. Getränke
@@ -3397,7 +3419,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270131T110000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:c28b1747-7c9b-4941-a9ef-7a6a4eddc01b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -3412,7 +3434,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trennung für Feiglinge
 DTSTART;TZID=Europe/Berlin:20270205T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:e92fbc1f-ebea-4d3f-af6b-d28e701c3380@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Clément Michel Burghofbühne Dinslaken 34\,50 
@@ -3470,7 +3492,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Azzuro Due
 DTSTART;TZID=Europe/Berlin:20270206T200000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:12a465b6-b181-4b62-a100-dc25cd738221@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Italo-Pop-Abenteuer geht weiter Kramer Artists 34\,50 € 
@@ -3523,7 +3545,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elterndisco
 DTSTART;TZID=Europe/Berlin:20270213T190000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:3170e6e8-c5c7-451b-af74-85c1670327ab@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wenn Mama und Papa die Tanzfläche übernehmen mit DJ Coolada 
@@ -3538,7 +3560,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Froschkönig
 DTSTART;TZID=Europe/Berlin:20270227T143000
-DTSTAMP:20260912T075507Z
+DTSTAMP:20260913T081804Z
 UID:bb65c625-b38e-460c-9ccd-94a1cc4fe320@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:oder versprochen ist versprochen Wolfsburger Figurentheater Co
@@ -3549,6 +3571,22 @@ ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
 STATUS:CONFIRMED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2027-02-27-DerFroschkoenig
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ozzyfied
+DTSTART;TZID=Europe/Berlin:20270227T200000
+DTSTAMP:20260913T081804Z
+UID:9fbecf1e-2221-44b6-8157-c73c0198576f@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Ozzy Tribute Eine Hommage an den unsterblichen Fürsten der Fi
+ nsternis Vorverkauf 23\,– € (erm. 20\,– €) | Abendkasse 26\,– 
+ € (erm. 23\,– €)
+LAST-MODIFIED:20260913T081804Z
+LOCATION:Forum Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2027-02-27-Ozzyfied
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die Schöne und das Biest - das Musical
