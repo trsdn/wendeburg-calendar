@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Spring
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:59cc0375-3364-41e2-8894-60ea1736c000@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Das Zukunftsthema Mobilität bestimmt für zwei Tage die Stadt
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:STADTRADELN im Peiner Land
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:08183f18-4b7b-4b8c-8ca1-fe89956e6642@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Alle Schulen\, Vereine\, Unternehmen sowie Bürgerinnen und B
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Highland Gathering
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:e154324d-8642-4815-ab69-af0a6d55e38d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Schotten sind los! Dieses Event sollten Sie sich nicht ent
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Freischießen
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:511666d1-aa9d-4f2f-ad71-06b753c1e726@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das ist Peine: Eine Woche lang können Sie erleben\, wie die K
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Peiner Weinfest
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:dcef703b-ead6-477c-9182-41e870b1a434@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Historische Marktplatz in Peine wird wieder in ein gemütl
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Volksfest in Zweidorf
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20261013T103358Z
+DTSTAMP:20261014T084138Z
 UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
@@ -345,9 +345,9 @@ BEGIN:VEVENT
 SUMMARY:Dorfflohmarkt Wipshausen
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260912T075448Z
+DTSTAMP:20261014T084108Z
 UID:55005c0d-29c3-4182-b3df-10b0a9b8e179@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Am Sonntag\, den 30. August 2026\, verwandelt sich Wipshausen 
  von 10:00 bis 16:00 Uhr in ein Paradies für Schnäppchenjäger\, Sammler 
  und Familien. Das Besondere in diesem Jahr: Die Straße Turnhallenring wir
@@ -363,12 +363,12 @@ DESCRIPTION:Am Sonntag\, den 30. August 2026\, verwandelt sich Wipshausen
  lohmarkt in ein perfektes Ausflugsziel für die ganze Familie. Kommen Sie 
  vorbei\, feilschen Sie in gemütlicher Atmosphäre und genießen Sie einen
   abwechslungsreichen Sonntag in Wipshausen!
-LAST-MODIFIED:20260901T083801Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Organisation Dorfflohmarkt Wipshausen\, Turnhallenring\, 31234 Ed
  emissen
 ORGANIZER;CN="Organisation Dorfflohmarkt Wipshausen":mailto:noreply@trsdn.
  github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Dorfflohmarkt-Wipshaus
  en.php
 END:VEVENT
@@ -723,9 +723,9 @@ BEGIN:VEVENT
 SUMMARY:Das Modehaus Schridde präsentiert: Dinner for two!
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260912T075448Z
+DTSTAMP:20261014T084108Z
 UID:6ffd3f9f-7756-440f-ae4a-975008b378fa@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Samstag\, den 05.09.2026 um 19:3
  0 Uhr Das Modehaus Schridde präsentiert: Dinner for two ! Travestie triff
  t Musical & Operette 60 Jahre Dunja - Special Edition mit Fingerfood & Mod
@@ -739,11 +739,11 @@ DESCRIPTION:Stadttheater Peiner Festsäle Samstag\, den 05.09.2026 um 19:3
  Studenten und Auszubildende bis 27 Jahre erhalten gegen Vorlage des entspr
  echenden Ausweises eine Ermäßigung. Rollstuhlfahrer bitte anmelden! Dies
  e Plätze können nur über das Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20260912T075448Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-09-05-Dinnerfortw
  o-Wittenberg.php
 END:VEVENT
@@ -1118,9 +1118,9 @@ BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse - Präsenzmesse
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260919T080158Z
+DTSTAMP:20261014T084108Z
 UID:2f7af078-f860-4c66-9806-310b066cb197@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1131,10 +1131,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  zum 27. September 2026 online abrufbar ist. So haben Interessierte die Mö
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren.
-LAST-MODIFIED:20260911T080216Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gebläsehalle\, Ilseder Hütte 14\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-P
  raesenzmesse.php
 END:VEVENT
@@ -1487,9 +1487,9 @@ BEGIN:VEVENT
 SUMMARY:Klangrazzia
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260926T083447Z
+DTSTAMP:20261014T084108Z
 UID:2d094fb0-722f-4bae-bd8d-4a760ece24a6@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Stadttheater Peiner Festsäle Dienstag\, den 15.09.2026 um 20:
  00 Uhr Klangrazzia Eine musikalische Kriminal-Komödie Konzertdirektion La
  ndgraf Mit Hans-Werner Meyer\, Chin Meyer und der A-Cappella-Gruppe „Mei
@@ -1514,11 +1514,11 @@ DESCRIPTION:Stadttheater Peiner Festsäle Dienstag\, den 15.09.2026 um 20:
  orlage des entsprechenden Ausweises eine Ermäßigung. Rollstuhlfahrer bit
  te anmelden! Diese Plätze können nur über das Servicebüro direkt gebuc
  ht werden!
-LAST-MODIFIED:20260920T083407Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-09-15-Klangrazzia
  .php
 END:VEVENT
@@ -1572,9 +1572,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260916T000000
-DTSTAMP:20260916T083432Z
+DTSTAMP:20261014T084108Z
 UID:314b3b8f-7aaa-4f21-bb3a-d9a39d44ee10@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1586,10 +1586,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -1614,9 +1614,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260917T000000
-DTSTAMP:20260917T083839Z
+DTSTAMP:20261014T084108Z
 UID:c69bae15-6098-4c3e-8ebf-a850087a1ecc@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1628,10 +1628,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -1656,9 +1656,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260918T000000
-DTSTAMP:20260918T081346Z
+DTSTAMP:20261014T084108Z
 UID:4a7d88a6-f529-4127-a6f3-0bde75c6717d@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1670,10 +1670,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -1713,9 +1713,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260919T000000
-DTSTAMP:20260919T080158Z
+DTSTAMP:20261014T084108Z
 UID:0b876005-eff0-495a-90b4-9d9125f42f33@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1727,10 +1727,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -1738,19 +1738,19 @@ BEGIN:VEVENT
 SUMMARY:Beachparty am Eixer Haus am See
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260926T083447Z
+DTSTAMP:20261014T084108Z
 UID:a4b22ce7-dd8e-4b9e-a050-07f01884511b@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Beach-Party am Eixer Haus am See! Nach der letzten erfolgreich
  en Party steht nun ein weiteres großes Highlight an: Am 19.09.2026 findet
   unsere Beach-Party statt! Vorverkauf: 6€ - ab sofort bei uns am Eixer H
  aus am See\, Abendkasse: 8€ Einlass: 19:00 Uhr\, Beginn: 20:00 Uhr mit D
  J Patrick Also: Sommer-Outfit an\, Freunde einpacken und gemeinsam mit uns
   eine tolle Beach-Party feiern! Wir freuen uns auf Euch!
-LAST-MODIFIED:20260920T083407Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Eixer Haus am See\, Sundernweg 41\, 31228 Peine
 ORGANIZER;CN="Eixer Haus am See":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Beachparty-am-Eixer-Ha
  us-am-See.php
 END:VEVENT
@@ -1759,9 +1759,9 @@ SUMMARY:Offene Pforte Landkreis Peine - Anne Christine Reetz „Werkstatt
  für Metall und Mehr“
 DTSTART;TZID=Europe/Berlin:20260919T110000
 DTEND;TZID=Europe/Berlin:20260919T180000
-DTSTAMP:20260917T083839Z
+DTSTAMP:20261014T084108Z
 UID:c6c45603-cd04-4762-a77a-1a0456ffaf32@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
  dlich intensiv bearbeitete Bereiche ein. Es gibt Stauden- und Kräuterbeet
  e\, eine Wildblumenwiese\, einen Gemüsegarten\, einen Obstgarten mit Hüh
@@ -1770,12 +1770,12 @@ DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
  wird der Garten als Ausstellungsfläche für eigene Skulpturen und Kunstob
  jekte genutzt. Dieses Jahr finden zum ersten Mal gleichzeitig die „Offen
  en Ateliers“ statt.
-LAST-MODIFIED:20260917T083839Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Anne Christine Reetz „Werkstatt für Metall und Mehr“\, Im Ob
  erdorf 7\, 31234 Edemissen
 ORGANIZER;CN="Anne Christine Reetz „Werkstatt für Metall und Mehr“":m
  ailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
  ne-anne-christine-reetz-werkstatt-fuer-metall-und-mehr-101189906/?tx_toujo
  udestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a73
@@ -1785,9 +1785,9 @@ BEGIN:VEVENT
 SUMMARY:#lautStark
 DTSTART;TZID=Europe/Berlin:20260919T160000
 DTEND;TZID=Europe/Berlin:20260919T220000
-DTSTAMP:20260919T080158Z
+DTSTAMP:20261014T084108Z
 UID:46e0dacb-d76d-465c-9d94-3fdc3fd34de5@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Auch in diesem Jahr organisiert der Gemeindejugendring Edemiss
  en e. V. in Kooperation mit der Gemeindejugendpflege Edemissen das Festiva
  l #lautStark. Von 16 - 22 Uhr werden verschiedene junge Bands sowohl Cover
@@ -1801,20 +1801,20 @@ DESCRIPTION:Auch in diesem Jahr organisiert der Gemeindejugendring Edemiss
   zu gestalten. Wir würden uns sehr freuen\, wenn Sie und ihr das mit eure
  m Besuch unterstützt und einen schönen Festivalabend mit uns Am Eckernka
  mp in Edemissen verbringt.
-LAST-MODIFIED:20260901T083801Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeindejugendring Edemissen e. V.\, Am Eckernkamp\, 31234 Edemis
  sen
 ORGANIZER;CN="Gemeindejugendring Edemissen e.V.":mailto:noreply@trsdn.gith
  ub.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/lautStark.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260920T000000
-DTSTAMP:20260920T083407Z
+DTSTAMP:20261014T084108Z
 UID:d2c8752c-00d9-434f-9197-de04e161f0bf@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1826,10 +1826,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -1858,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:Offene Ateliers im Peiner Land
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:407721d0-9c58-4abf-bd2c-c57a38c94a1e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Seit 2013 öffnen Peiner Kunstschaffende zwischen Edemissen un
@@ -1928,9 +1928,9 @@ SUMMARY:Offene Pforte Landkreis Peine - Anne Christine Reetz „Werkstatt
  für Metall und Mehr“
 DTSTART;TZID=Europe/Berlin:20260920T110000
 DTEND;TZID=Europe/Berlin:20260920T180000
-DTSTAMP:20260917T083839Z
+DTSTAMP:20261014T084108Z
 UID:6bf3efda-1bb1-49b3-89e0-afc559cde3f5@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
  dlich intensiv bearbeitete Bereiche ein. Es gibt Stauden- und Kräuterbeet
  e\, eine Wildblumenwiese\, einen Gemüsegarten\, einen Obstgarten mit Hüh
@@ -1939,12 +1939,12 @@ DESCRIPTION:Der naturnahe Garten mit Grasdachhaus teilt sich in unterschie
  wird der Garten als Ausstellungsfläche für eigene Skulpturen und Kunstob
  jekte genutzt. Dieses Jahr finden zum ersten Mal gleichzeitig die „Offen
  en Ateliers“ statt.
-LAST-MODIFIED:20260917T083839Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Anne Christine Reetz „Werkstatt für Metall und Mehr“\, Im Ob
  erdorf 7\, 31234 Edemissen
 ORGANIZER;CN="Anne Christine Reetz „Werkstatt für Metall und Mehr“":m
  ailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
  ne-anne-christine-reetz-werkstatt-fuer-metall-und-mehr-101189906/?tx_toujo
  udestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a73
@@ -1965,9 +1965,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260921T000000
-DTSTAMP:20260920T083407Z
+DTSTAMP:20261014T084108Z
 UID:54fe1e39-995f-4bf5-9551-dfbc93376db9@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -1979,10 +1979,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -2004,9 +2004,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260922T000000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:8726e391-e63e-4f1c-9c09-d7d9039007ee@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -2018,19 +2018,19 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260923T000000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:e222bad4-2cac-4f6f-9f6b-68fddbb7d283@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -2042,10 +2042,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -2053,19 +2053,19 @@ BEGIN:VEVENT
 SUMMARY:Offene Pforte Landkreis Peine - Schulwald Gemeinde Ilsede
 DTSTART;TZID=Europe/Berlin:20260923T090000
 DTEND;TZID=Europe/Berlin:20260923T130000
-DTSTAMP:20260917T083839Z
+DTSTAMP:20261014T084108Z
 UID:fde73cbd-3745-4a3c-be39-1e60d37a6ce6@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Drei Schulen pflegen in Kooperation diesen Schulwald. Die Schu
  len laden Interessierte in den Schulwald in Groß Ilsede im Rahmen der „
  Offenen Pforte Peine“ zum Erleben und Mitmachen ein. Im weiteren werden 
  präsentiert: eine Käferburg\, Pflanzplan des Geländes\, Schüler und Sc
  hülerinnen bieten bei Bedarf geführte Spaziergänge an. Außerdem wird e
  in kleines Theaterstück aufgeführt.
-LAST-MODIFIED:20260917T083839Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Schulwald Gemeinde Ilsede\, Gradeberg\, 31241 Ilsede
 ORGANIZER;CN="Schulwald Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
  ne-schulwald-gemeinde-ilsede-101182824/?tx_toujoudestinationoneintegration
  _item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
@@ -2073,9 +2073,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260924T000000
-DTSTAMP:20260924T082613Z
+DTSTAMP:20261014T084108Z
 UID:58f86b0d-d20b-4012-9661-15ab8658efdd@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -2087,19 +2087,19 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260925T000000
-DTSTAMP:20260925T084808Z
+DTSTAMP:20261014T084108Z
 UID:79263eb2-89d0-4f9b-a919-fd2408ee5ac3@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -2111,10 +2111,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -2160,9 +2160,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. Ilseder Jobbörse – virtuelle Messe
 DTSTART;TZID=Europe/Berlin:20260926T000000
-DTSTAMP:20260926T083447Z
+DTSTAMP:20261014T084108Z
 UID:41b549f4-0ad6-41e4-8e2b-e9f7bae52b00@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  iläum. Seit einem Jahrzehnt bringt die Messe Unternehmen\, Fachkräfte\, 
  Nachwuchs und Interessierte aus Ilsede und der Region erfolgreich zusammen
@@ -2174,10 +2174,10 @@ DESCRIPTION:Die Ilseder Jobbörse feiert im Jahr 2026 ihr 10-jähriges Jub
  glichkeit\, sich sowohl vor als auch nach der Präsenzveranstaltung digita
  l über Unternehmen\, Ausbildungs- und Jobangebote zu informieren. Zur vir
  tuellen Jobbörse: https://ilseder-jobboerse.de/
-LAST-MODIFIED:20260831T094246Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Gemeinde Ilsede\, Eichstraße 3\, 31241 Ilsede
 ORGANIZER;CN="Gemeinde Ilsede":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/10-Ilseder-Jobboerse-v
  irtuelle-Messe.php
 END:VEVENT
@@ -2185,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:Foodtruck Festival in Peine
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:088d96bd-7cc0-4363-b991-4150f5f53e6b@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine kulinarische Reise rund um den Globus erwartet die Besuch
@@ -2220,9 +2220,9 @@ SUMMARY:Offene Pforte Landkreis Peine - Interkultureller Gemeinschaftsgart
  en
 DTSTART;TZID=Europe/Berlin:20260926T150000
 DTEND;TZID=Europe/Berlin:20260926T170000
-DTSTAMP:20260917T083839Z
+DTSTAMP:20261014T084108Z
 UID:7454ab86-2611-4e29-9432-2a773ec5ebfc@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Das naturnahe Grundstück lädt zum Abschalten\, Spaß haben u
  nd entspannen ein. Lassen Sie sich entführen in eine grüne Oase an der F
  uhse. Wir möchten unser Integrationsprojekt "lernen\, arbeiten und feiern
@@ -2230,11 +2230,11 @@ DESCRIPTION:Das naturnahe Grundstück lädt zum Abschalten\, Spaß haben u
   bis 16 Uhr: Gemeinsam mit den Gästen wird eine Benjeshecke gebaut. 26.9.
  26 15 bis 17 Uhr: Open Barbecue und Einweihung der neu gebauten Outdoorkü
  che\, Es wird ein kleine Gartenkonzert geben.
-LAST-MODIFIED:20260917T083839Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Interkultureller Gemeinschaftsgarten - Familien für Familien e.V
  .\, Madamenweg\, 31226 Peine
 ORGANIZER;CN="Familien für Familien e.V.":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-pei
  ne-interkultureller-gemeinschaftsgarten-101179827/?tx_toujoudestinationone
  integration_item%5Btype%5D=2&cHash=1cb72037c1f58b64a1979a730d85034f
@@ -2424,7 +2424,7 @@ BEGIN:VEVENT
 SUMMARY:Lafferder Markt
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:c675ce62-efee-4acd-9559-ff31af8f4547@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Seit 1787 findet am letzten Mittwoch im September und am darau
@@ -3120,7 +3120,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plattdeutsch Gottesdienst
 DTSTART;TZID=Europe/Berlin:20261011T110000
-DTSTAMP:20261013T103402Z
+DTSTAMP:20261014T084141Z
 UID:5315934a-3787-4df4-b12e-bf12426f99d1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260927T091448Z
@@ -3205,10 +3205,34 @@ URL:https://www.peine-erleben.de/erleben/events/feierabendmarkt-herbstklan
  g-und-goldener-zauber/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blutspende in Bortfeld
+DTSTART;TZID=Europe/Berlin:20261016T160000
+DTEND;TZID=Europe/Berlin:20261016T193000
+DTSTAMP:20261014T084004Z
+UID:74879abe-1001-48a2-ae1f-cd7fab19d4b3@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Das Rote Kreuz bittet in Bortfeld zur Blutspende. Ausrichter d
+ er BLUTSPENDE-AKTION ist der Förderverein der Männerfeuerwehr Bortfeld e
+ . V.\nDie Blutspende findet am 16. Oktober 2026 von 16:00 bis 19:30 Uhr in
+  der Grundschule Bortfeld\, Lange Straße 19\, statt.\nBitte denkt daran\,
+  zum Termin euren Personalausweis und – sofern vorhanden – euren Bluts
+ pende-Pass mitzubringen.\nNach der Blutspende wartet auf alle Spenderinnen
+  und Spender ein leckeres Buffet. Auch für vegetarische Geschmäcker ist 
+ selbstverständlich etwas dabei.\nJede Blutspende kann Leben retten. Desha
+ lb freuen sich das Team des Roten Kreuzes und der Förderverein der Männe
+ rfeuerwehr Bortfeld e. V. auf viele Blutspenderinnen und Blutspender.\n\nK
+ ommt vorbei\, spendet Blut und tut damit etwas Gutes!
+LAST-MODIFIED:20261014T084004Z
+LOCATION:Verlässliche Grundschule Bortfeld\, Lange Str. 19\, 38176 Wendeb
+ urg
+STATUS:CONFIRMED
+URL:https://www.foerderverein-mfw-bortfeld.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261016T160000
 DTEND;TZID=Europe/Berlin:20261016T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:9a7e091c-061a-49a4-8c60-865e2d26cc40@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3231,7 +3255,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261017T160000
 DTEND;TZID=Europe/Berlin:20261017T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:458537ba-4216-4850-8c02-5d95c0b6bfbf@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3254,7 +3278,7 @@ BEGIN:VEVENT
 SUMMARY:Drachenfest
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261013T103358Z
+DTSTAMP:20261014T084138Z
 UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:...immer am vorletzten Sonntag im Oktober Termin für 2024: 18
@@ -3270,7 +3294,7 @@ BEGIN:VEVENT
 SUMMARY:Drachenfest Zweidorf
 DTSTART;TZID=Europe/Berlin:20261018T100000
 DTEND;TZID=Europe/Berlin:20261018T140000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:bbad2fb6-2d35-43b7-9461-727f56248dbb@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261004T094431Z
@@ -3281,7 +3305,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20261018T110000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:41817539-133f-48e6-b9f5-a48180764b1b@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260920T083439Z
@@ -3295,7 +3319,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261018T140000
 DTEND;TZID=Europe/Berlin:20261018T160000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:30dcc6ec-45a7-4ed7-9448-2da56299b2e3@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3317,7 +3341,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friedensgebet
 DTSTART;TZID=Europe/Berlin:20261018T190000
-DTSTAMP:20261013T103402Z
+DTSTAMP:20261014T084141Z
 UID:4c0d76c5-89d2-44db-a326-ebd8bbc03590@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260927T091448Z
@@ -3329,7 +3353,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261019T150000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:2651cdbc-2c59-4ec6-be2a-401fbba5665d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -3358,7 +3382,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261021T160000
 DTEND;TZID=Europe/Berlin:20261021T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:48b216b8-2117-4bec-b20a-d1948600c712@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3381,7 +3405,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261022T160000
 DTEND;TZID=Europe/Berlin:20261022T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:169d47b6-5286-49ca-a35f-1bc2974d6f93@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3403,7 +3427,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Ortsrates Bortfeld
 DTSTART;TZID=Europe/Berlin:20261022T190000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:51cfdb66-d587-4327-bd6d-03d1f0432b18@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261004T094431Z
@@ -3415,7 +3439,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinderherbsttag für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20261023T100000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:e6f8ea32-23a3-4652-a3cf-84ecc87f3dca@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Herbst kann so viel – und wir entdecken gemeinsam\, was 
@@ -3432,7 +3456,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261023T160000
 DTEND;TZID=Europe/Berlin:20261023T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:45257055-1ecd-4b73-bb79-197d3f6b185d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3455,7 +3479,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261024T160000
 DTEND;TZID=Europe/Berlin:20261024T180000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:e88671a0-8203-412c-b9e1-732854e57c3a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3477,7 +3501,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20261025T110000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:dca178c7-e703-4832-8aaf-7150c3949353@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260920T083439Z
@@ -3491,7 +3515,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Ricardo gastiert in Peine vom 16-25-10.2026
 DTSTART;TZID=Europe/Berlin:20261025T140000
 DTEND;TZID=Europe/Berlin:20261025T160000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:c00f0694-ba78-418a-9f99-b16250603f4d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erleben Sie im Circus Ricardo ein Circusprogramm für die ganz
@@ -3511,10 +3535,38 @@ URL:https://www.peine.de/de/veranstaltungen/termine/Circus-Ricardo-gastier
  t-in-Peine-vom-16-25-10-2026.php
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Der kleine Prinz
+DTSTART;TZID=Europe/Berlin:20261026T163000
+DTEND;TZID=Europe/Berlin:20261026T180000
+DTSTAMP:20261014T084108Z
+UID:0d592b15-be53-46d6-9d4a-f1683e88e37a@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Der kleine Prinz Erzähltheater mit Musik\, frei nach Antoine 
+ de Saint-Exupéry für Kinder ab 8 Jahren Das philosophische Märchen von 
+ dem Flieger\, der nach einer Notlandung in der Wüste dem kleinen Prinzen 
+ begegnet\, begeistert und berührt Kinder und Erwachsene seit Generationen
+ . Es ist die Geschichte einer wunderbaren Freundschaft\, die von Empathie 
+ und einem respektvollen Miteinander erzählt. Ihren Höhepunkt findet sie 
+ in der Aussage des weisen Fuchses: „Man sieht nur mit dem Herzen gut. Da
+ s Wesentliche ist für die Augen unsichtbar.“ Mit seiner ganz eigenen Po
+ esie schuf Antoine de Saint-Exupéry ein zeitloses Werk\, das die Welt der
+  Erwachsenen hinterfragt und mit seinem liebevollen Blick aus Kinderperspe
+ ktive die Schönheit der Welt beleuchtet. Der Geschichtenerzähler Reiner 
+ Müller und die Violinistin Carolin Pook vom Theater Persephone erzählen 
+ die Geschichte gemeinsam in einer eigenen Fassung\, die sie speziell für 
+ Kinder erarbeitet haben.
+LAST-MODIFIED:20261014T084108Z
+LOCATION:Dorfgemeinschaftshaus Clauen\, An der Tränke 2\, 31249 Hohenhame
+ ln
+ORGANIZER;CN="Kulturverein Hohenhameln":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/Der-kleine-Prinz.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Treffen AG nachhaltiges Wendeburg
 DTSTART;TZID=Europe/Berlin:20261027T190000
 DTEND;TZID=Europe/Berlin:20261027T210000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:6fafe58e-bf55-4a62-9047-3f7a23b67a04@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Jeden letzten Dienstag im Monat trifft sich die AG um über di
@@ -3529,7 +3581,7 @@ BEGIN:VEVENT
 SUMMARY:Podewitz: „Vorsicht ist besser als Nachtisch“
 DTSTART;TZID=Europe/Berlin:20261028T193000
 DTEND;TZID=Europe/Berlin:20261028T220000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:e17acb4f-ebb1-4a1b-a766-c4ae2dea8f13@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wir machen uns Gedanken. Noch selbst. Von Hand. Und so sehen d
@@ -3547,7 +3599,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apfeltag für Konfirmand*innen
 DTSTART;TZID=Europe/Berlin:20261029T170000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:28abd867-bf6a-4d93-89bc-918bf5f18deb@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wir stellen mit der Apfelsaftpresse der Propsteijugend selbst 
@@ -3563,7 +3615,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Tatortreiniger
 DTSTART;TZID=Europe/Berlin:20261029T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:0e220ed8-728f-4076-bbd6-fede0a2b58a6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Mizzy Meyer Eine Produktion des Contrakreis Theater Bonn i
@@ -3646,7 +3698,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jugendgottesdienst "Churchnight" mit Taufen und Abendmahl
 DTSTART;TZID=Europe/Berlin:20261030T180000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:7935962a-2bf0-4b70-ac12-baeed5a7f466@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260920T083439Z
@@ -3660,7 +3712,7 @@ BEGIN:VEVENT
 SUMMARY:"The Royal Squeeze Box" plays Queen
 DTSTART;TZID=Europe/Berlin:20261030T190000
 DTEND;TZID=Europe/Berlin:20261030T210000
-DTSTAMP:20261010T094819Z
+DTSTAMP:20261014T084108Z
 UID:3b010a8f-d4b5-4014-8d93-9b8318c48b23@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:"The Royal Squeeze Box" plays Queen Zwei Musiker und ein Akkor
@@ -3684,7 +3736,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halloweenparty
 DTSTART;TZID=Europe/Berlin:20261030T200000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:c862ee03-086d-4325-945c-4da7443251fd@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Halloweenparty in Meerdorf \n\nFreut euch auf eine schaurig-gu
@@ -3702,7 +3754,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kalter weisser Mann
 DTSTART;TZID=Europe/Berlin:20261030T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:a25cf401-984b-4b76-a964-2106d28cbf99@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Dietmar Jacobs und Moritz Netenjakob Mit Timothy 
@@ -3759,7 +3811,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jubiläumsfeier
 DTSTART;TZID=Europe/Berlin:20261101T110000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:a9fcadef-0fab-4914-b3b2-e80df3c9ca01@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Jubiläumsveranstaltung anlässlich der 70-jährigen Wiedergr
@@ -3773,7 +3825,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst
 DTSTART;TZID=Europe/Berlin:20261101T180000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:015e875f-1e22-4ea7-b2b0-a4fcdae3d5d7@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -3787,7 +3839,7 @@ BEGIN:VEVENT
 SUMMARY:Elterncafé
 DTSTART;TZID=Europe/Berlin:20261104T143000
 DTEND;TZID=Europe/Berlin:20261104T160000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:94256186-55d5-487e-b1c2-237699b32d85@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261009T103005Z
@@ -3800,7 +3852,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Reden wir drüber."
 DTSTART;TZID=Europe/Berlin:20261104T190000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:96622c44-ed67-4a47-acae-56c071ca7f4f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Bürgerdialog mit MP Olaf Lies Der Niedersächsische Ministerp
@@ -3818,7 +3870,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Ortsrates Sophiental
 DTSTART;TZID=Europe/Berlin:20261104T190000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:4fe1efbf-885d-42c1-967e-6a29c174e3e4@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261011T095737Z
@@ -3830,7 +3882,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herzfaden
 DTSTART;TZID=Europe/Berlin:20261104T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:11dc5366-33a7-4b88-a027-fd079dfc69e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Schauspiel nach dem Roman von Thomas Hettche Über die Entsteh
@@ -3892,7 +3944,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lilly und die Erbse
 DTSTART;TZID=Europe/Berlin:20261105T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:570ccf14-bc4c-4828-b7ec-cba237a668d4@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein Familienstück mit Musik von Carolin Jelden nach Hans Chri
@@ -3952,7 +4004,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Ortsrates Meerdorf
 DTSTART;TZID=Europe/Berlin:20261105T190000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:3822e187-f9a5-41d5-ada8-97ec2ab05754@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261011T095737Z
@@ -3965,7 +4017,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Ortsrates Wendeburg
 DTSTART;TZID=Europe/Berlin:20261105T190000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:f282fce6-405d-4763-b59b-23ae56ec6130@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261011T095737Z
@@ -3978,7 +4030,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies Ahoi! AUSVERKAUFT!
 DTSTART;TZID=Europe/Berlin:20261106T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:67053553-ab97-42b8-b46e-597cb031bf40@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der kleinste Shantychor der Welt direkt aus St. Pauli Musik un
@@ -4036,7 +4088,7 @@ BEGIN:VEVENT
 SUMMARY:Erste Hilfe Kurs
 DTSTART;TZID=Europe/Berlin:20261107T090000
 DTEND;TZID=Europe/Berlin:20261107T173000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:e87a0756-c307-4bb4-b118-8508ce040b2a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Erste Hilfe Kurs des DRK Ortsvereins Wendeburg am Sonnabend 07
@@ -4052,7 +4104,7 @@ BEGIN:VEVENT
 SUMMARY:Natur zum Mitmachen: Obstbaumschnitt - so geht's richtig
 DTSTART;TZID=Europe/Berlin:20261107T100000
 DTEND;TZID=Europe/Berlin:20261107T130000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:4ae10934-e7ac-42ef-ae1c-bdebbd96351d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:In Zusammenarbeit mit dem Förderkreis Streuobstwiese Bortfeld
@@ -4071,7 +4123,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konfirmationsjubiläum Gottesdienst zur Diamantenen Konfirmation
 DTSTART;TZID=Europe/Berlin:20261108T140000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:43a1073d-9002-4bbc-9b90-f70d7f0bdbc2@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -4082,9 +4134,22 @@ URL:https://www.kirche-wendeburg.de/aktuell/gottesdienste/details-gottesdi
  enste/195759/detail
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hörgesundheit - Prävention und Selbsterkennung / LandFrauenverei
+ n Wendeburg
+DTSTART;TZID=Europe/Berlin:20261110T190000
+DTEND;TZID=Europe/Berlin:20261110T213000
+DTSTAMP:20261014T084004Z
+UID:630fbbc7-9416-41d9-9849-17392de5af22@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20261014T084004Z
+LOCATION:Gasthaus "Zur Linde"\, Holzmark 1\, 38176 Wendeburg
+STATUS:CONFIRMED
+URL:http://www.kreislandfrauen-braunschweig.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sitzung des Rates der Gemeinde
 DTSTART;TZID=Europe/Berlin:20261110T190000
-DTSTAMP:20261013T103145Z
+DTSTAMP:20261014T084004Z
 UID:f81f6d53-0ce6-4d26-bd9a-72a19acaaa3d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261013T103145Z
@@ -4096,7 +4161,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grüntag für Konfirmand*innen und Interessierte Jugendliche
 DTSTART;TZID=Europe/Berlin:20261112T153000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:2a15b4b7-de37-4c43-ab42-6d2540990727@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Grüntag steht wieder vor der Tür!
@@ -4111,9 +4176,9 @@ BEGIN:VEVENT
 SUMMARY:From Zero
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260925T084808Z
+DTSTAMP:20261014T084108Z
 UID:eb649edd-420a-4c6c-9a66-bcb28069cf84@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Forum Peine Samstag\, den 14.11.2026 um 20:00 Uhr From Zero Di
  e gefeierte Linkin Park Tribute Band ist zurück! Nach dem durchschlagende
  n Erfolg im Jahr 2025 gibt es keinen Zweifel mehr: From Zero gehören zur 
@@ -4135,18 +4200,18 @@ DESCRIPTION:Forum Peine Samstag\, den 14.11.2026 um 20:00 Uhr From Zero Di
  ahre erhalten gegen Vorlage des entsprechenden Ausweises eine Ermäßigung
  . Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über das Serv
  icebüro direkt gebucht werden!
-LAST-MODIFIED:20260925T084808Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-11-14-FromZero.ph
  p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Zero
 DTSTART;TZID=Europe/Berlin:20261114T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:47a332da-ba7b-4c37-880d-5a78edfe858a@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Die gefeierte Linkin Park Tribute Band ist zurück! Vorverkauf
@@ -4185,7 +4250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst Gottesdienst zum Volkstrauertag
 DTSTART;TZID=Europe/Berlin:20261115T110000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:764665e7-8fb3-4787-ba8b-d777b5b6161d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -4222,7 +4287,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261116T150000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:cb9dd0d5-81ef-4538-8aa7-ed4603a2a95a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -4238,7 +4303,7 @@ BEGIN:VEVENT
 SUMMARY:4. Peiner Rudelsingen (Steh-Konzert\, begrenzte Sitzplätze sind n
  ur über den Veranstalter direkt buchbar)
 DTSTART;TZID=Europe/Berlin:20261118T193000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:28e76d7b-94cc-4f3d-93d4-2954c33aaed2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Mitsing-Event für alle! Gemeinsam singen\, lachen und ein
@@ -4291,7 +4356,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Harvesse
 DTSTART;TZID=Europe/Berlin:20261122T090000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:5bdb2ae3-4e88-4a35-bc5e-785f24ec3f0f@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -4304,7 +4369,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Wendeburg
 DTSTART;TZID=Europe/Berlin:20261122T100000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:4926da72-dcf9-4c6e-bf03-768cf2da23cd@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261005T102414Z
@@ -4316,7 +4381,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Wendezelle
 DTSTART;TZID=Europe/Berlin:20261122T110000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:5ec110ae-9bf7-403f-bd8f-2eb10854574d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261005T102414Z
@@ -4328,7 +4393,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Zweidorf
 DTSTART;TZID=Europe/Berlin:20261122T120000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:5c5f6e77-5a4c-4002-9233-3a7f2da3d1a3@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261011T095909Z
@@ -4341,7 +4406,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsstadt Peine
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261013T103346Z
+DTSTAMP:20261014T084127Z
 UID:46623868-17e7-4772-acda-9046bfc2a861@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Weihnachtsstadt Peine wird zum Ort der Vielfalt und des Mi
@@ -4358,7 +4423,7 @@ BEGIN:VEVENT
 SUMMARY:Ewig jung
 DTSTART;TZID=Europe/Berlin:20261127T200000
 DTEND;TZID=Europe/Berlin:20261127T223000
-DTSTAMP:20260925T084808Z
+DTSTAMP:20261014T084108Z
 UID:53cd4809-8142-4b7c-9567-f1d9d30a9959@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Stadttheater Peiner Festsäle Freitag\, den 27.11.2026 um 20:0
@@ -4398,7 +4463,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewig jung
 DTSTART;TZID=Europe/Berlin:20261127T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:8c44280d-bbf6-46a2-b11f-cb347d7453e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Songdrama von Erik Gedeon Theater für Niedersachsen Eine turb
@@ -4413,7 +4478,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lissi und Herr Timpe
 DTSTART;TZID=Europe/Berlin:20261128T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:fe7aaacb-9ae4-4b73-965c-14d9f34c937e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Veronika\, Advent ist da Diese Winterrevue entführt das Publi
@@ -4428,7 +4493,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventsbasteln für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20261130T163000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:bb672f10-48e2-45e4-8dea-136563c984db@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wir laden euch herzlich zum diesjährigen Adventsbasteln ein! 
@@ -4444,7 +4509,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T090000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:3e1c433b-ab8c-44d4-9708-3603e4cfb46c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -4459,7 +4524,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T110000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:8dd9cec5-eb01-49dc-a261-9917ef88656d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -4474,7 +4539,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:f3f16e58-9d9a-47c3-b767-183e4d74a3f2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -4490,9 +4555,9 @@ BEGIN:VEVENT
 SUMMARY:THE REAL COMEDIAN HARMONISTS
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20260924T082613Z
+DTSTAMP:20261014T084108Z
 UID:929a42c4-1455-4daf-8481-95adeb00e0a2@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, 03.12.2026 um 19:30
   Uhr THE REAL COMEDIAN HARMONISTS Die Weihnachtsshow Hell ist die Nacht Re
  set Production In der besinnlichen Vorweihnachtszeit setzen The Real Comed
@@ -4520,18 +4585,18 @@ DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, 03.12.2026 um 19:30
  ihnachtsgeschenk. The Real Comedian Harmonists garantieren eine Konzertrev
  ue der Extraklasse und machen die Weihnachtszeit zu einem unvergesslichen 
  Erlebnis.
-LAST-MODIFIED:20260911T080216Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Reset Production":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-12-03-ComedianHar
  monistsRP.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE REAL COMEDIAN HARMONISTS
 DTSTART;TZID=Europe/Berlin:20261203T193000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:d68a328a-736b-4d54-ab13-ca237341da3a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hell ist die Nacht THE REAL COMEDIAN HARMONISTS stimmen mit 
@@ -4547,7 +4612,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Momsen ihm seine Weihnachtsshow
 DTSTART;TZID=Europe/Berlin:20261204T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:97f9f759-b4e9-4e7b-8989-e1400f917f73@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Werner Momsen auf der Suche nach dem Weihnachtsgefühl 29\,- 
@@ -4603,7 +4668,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Es war die Lerche
 DTSTART;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:b156f11b-16f9-427f-adac-2f6d4df6bb9f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Ephraim Kishon Neues Globe Theater 34\,50 € | 3
@@ -4642,7 +4707,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261217T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:3d582ade-2cb8-419e-a715-c82a0095ab53@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -4660,9 +4725,9 @@ BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261217T160000
 DTEND;TZID=Europe/Berlin:20261217T180000
-DTSTAMP:20260923T083336Z
+DTSTAMP:20261014T084108Z
 UID:999f11e5-c9a0-4022-844b-d63ffbc72a59@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 17.12.2026 um 1
  6:00 Uhr Pinocchio Familienmusical von Christian Berg mit der Musik von Ko
  nstantin Wecker Theater für Niedersachsen Gefördert durch die Stadtwerke
@@ -4688,18 +4753,18 @@ DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 17.12.2026 um 1
  orlage des entsprechenden Ausweises eine Ermäßigung. Rollstuhlfahrer bit
  te anmelden! Diese Plätze können nur über das Servicebüro direkt gebuc
  ht werden!
-LAST-MODIFIED:20260923T083336Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-12-17-Pinocchio16
  Uhr.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T090000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:372bde6b-ef54-458d-a36b-7b514905b0f0@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -4756,7 +4821,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T113000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:03a550f6-90dc-443d-a4cc-9a45b2c7d593@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -4813,7 +4878,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261221T150000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:a4789557-4082-4edf-b37e-01413ff866a5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspender retten Leben! Bist du dabei?
@@ -4875,7 +4940,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Von wegen Stille Nacht
 DTSTART;TZID=Europe/Berlin:20261221T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:fec6cc4f-4c39-4498-aff0-95a488a85d9d@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Weihnachtskomödie von Florian Battermann Komödie am Altstadt
@@ -4891,7 +4956,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEST OF VARIETÉ
 DTSTART;TZID=Europe/Berlin:20261231T170000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:60bba9ef-ef19-430d-8b32-5ce4ec00741c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:by Maik M. Paulsen Eine Produktion von Paulsen & Consorten
@@ -4905,7 +4970,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Achtsam morden durch bewusste Ernährung
 DTSTART;TZID=Europe/Berlin:20270114T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:42cbb797-f31e-4f2e-9e76-14393ad4ba34@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimikomödie nach Band 5 der Bestseller-Reihe von Karsten Dus
@@ -4953,7 +5018,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neujahrskonzert
 DTSTART;TZID=Europe/Berlin:20270116T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:dda53ee1-ddcc-4831-aa00-da6389553b92@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:und jetzt alle ! Theater für Niedersachsen Das einzigartige K
@@ -4969,7 +5034,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270117T110000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:88d6dc6f-a41c-487a-8add-2fa43339d90b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -4985,7 +5050,7 @@ BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270117T110000
 DTEND;TZID=Europe/Berlin:20270117T123000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:cb2ff5f3-8bbc-4366-8676-dc8fc9bb20d6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Theaterrestaurant Peiner Festsäle im Kuppelsaal Sonntag\, den
@@ -5007,7 +5072,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimi-Quiz
 DTSTART;TZID=Europe/Berlin:20270119T190000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:0b22e150-42c6-45af-9782-79fba3654c58@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Mit Rateteams und Moderation kostenfrei mit Anmeldung
@@ -5021,7 +5086,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tina Häussermann
 DTSTART;TZID=Europe/Berlin:20270121T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:b26c25d4-6eea-4b48-9905-37934273a850@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Happy Konfetti Die Kabarettistin und Comedienne Tina Häusserm
@@ -5039,7 +5104,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konrad oder das Kind aus der Konservenbüchse
 DTSTART;TZID=Europe/Berlin:20270122T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:ef13a3ab-2fb9-4e84-9af9-39089cfdfeca@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Christine Nöstlinger Sprechwerk Hamburg | Regie und Textf
@@ -5075,7 +5140,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auf Harz und Nieren
 DTSTART;TZID=Europe/Berlin:20270127T190000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:65d117be-8227-4169-950d-f531840ff5bc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimi-Lesung von Autor Roland Lange 12\,- €
@@ -5089,7 +5154,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alk oder nicht Alk - Das ist die Frage
 DTSTART;TZID=Europe/Berlin:20270129T190000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:c7ff1fb9-2cdd-4f2b-9f76-a49c63852ab6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Lesung 35\,- € inkl. Getränke
@@ -5103,7 +5168,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270131T110000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:c28b1747-7c9b-4941-a9ef-7a6a4eddc01b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -5119,7 +5184,7 @@ BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270131T110000
 DTEND;TZID=Europe/Berlin:20270131T123000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:f846aaf3-da94-4d36-8f0d-59324c74d2b8@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Theaterrestaurant Peiner Festsäle im Kuppelsaal Sonntag\, den
@@ -5141,7 +5206,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trennung für Feiglinge
 DTSTART;TZID=Europe/Berlin:20270205T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:e92fbc1f-ebea-4d3f-af6b-d28e701c3380@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Clément Michel Burghofbühne Dinslaken 34\,50 
@@ -5199,7 +5264,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Azzuro Due
 DTSTART;TZID=Europe/Berlin:20270206T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:12a465b6-b181-4b62-a100-dc25cd738221@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Italo-Pop-Abenteuer geht weiter Kramer Artists 34\,50 € 
@@ -5252,7 +5317,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elterndisco
 DTSTART;TZID=Europe/Berlin:20270213T190000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:3170e6e8-c5c7-451b-af74-85c1670327ab@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wenn Mama und Papa die Tanzfläche übernehmen mit DJ Coolada 
@@ -5322,7 +5387,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Froschkönig
 DTSTART;TZID=Europe/Berlin:20270227T143000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:bb65c625-b38e-460c-9ccd-94a1cc4fe320@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:oder versprochen ist versprochen Wolfsburger Figurentheater Co
@@ -5337,7 +5402,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ozzyfied
 DTSTART;TZID=Europe/Berlin:20270227T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:9fbecf1e-2221-44b6-8157-c73c0198576f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ozzy Tribute Eine Hommage an den unsterblichen Fürsten der Fi
@@ -5353,7 +5418,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Enkeltrick
 DTSTART;TZID=Europe/Berlin:20270303T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:17c84495-93ec-49a7-8da9-60eb278db394@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Kriminalkomödie von Frank Piotraschke Bremer Kriminaltheater 
@@ -5410,7 +5475,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirsten Lange
 DTSTART;TZID=Europe/Berlin:20270305T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:a8ced61d-8a99-4cc0-be3f-14b8acfae5e8@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Halbnackte Bauarbeiter Eine freche Komödie nach dem gleichnam
@@ -5427,9 +5492,9 @@ BEGIN:VEVENT
 SUMMARY:Anouk
 DTSTART;TZID=Europe/Berlin:20270307T160000
 DTEND;TZID=Europe/Berlin:20270307T180000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:533c8c7b-ada0-4ad7-b2dd-a7a99294ae21@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Sonntag\, den 07.03.2027 um 16:0
  0 Uhr Das Schaf Charlotte und seine Freunde Figurentheater über die Kraft
   der Freundschaft Nach dem gleichnamigen Kinderbuchbestseller von Anu Stoh
@@ -5447,17 +5512,17 @@ DESCRIPTION:Stadttheater Peiner Festsäle Sonntag\, den 07.03.2027 um 16:0
  s 27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine Ermä
  ßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über d
  as Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20260922T083114Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-03-07-Anouk.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anouk
 DTSTART;TZID=Europe/Berlin:20270307T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:a1065807-e70f-46e9-9753-ab115dd28ae2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Kindermusical Nach den gleichnamigen Kinderbuch-Bestseller
@@ -5474,7 +5539,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A pinch of salt
 DTSTART;TZID=Europe/Berlin:20270309T090000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:7ffb15f7-a9d4-4cc3-9065-8d923e0f4527@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Unterstufe Von Peter Griffith 11\,– € Erwachsene 
@@ -5489,7 +5554,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Light fingers
 DTSTART;TZID=Europe/Berlin:20270309T113000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:9c12c5c4-d54a-42f9-939c-19f6eeaee989@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Mittelstufe Von Peter Griffith 11\,– € Erwachsene
@@ -5504,7 +5569,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mcbeth
 DTSTART;TZID=Europe/Berlin:20270309T140000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:cc847378-b7ea-4d15-89db-350f3b4d63a4@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Oberstufe Neue Adaption des Stücks von William Shake
@@ -5521,9 +5586,9 @@ BEGIN:VEVENT
 SUMMARY:Erhardt & Alexander
 DTSTART;TZID=Europe/Berlin:20270311T200000
 DTEND;TZID=Europe/Berlin:20270311T223000
-DTSTAMP:20260922T083114Z
+DTSTAMP:20261014T084108Z
 UID:1724eefb-515d-4666-8cc0-a1a6ee1aa859@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 11.03.2027 um 2
  0:00 Uhr Erhardt & Alexander Eine Show zu Ehren von Heinz Erhardt & Peter 
  Alexander Unvergessene Hits und Gedichte am laufenden Band Sie waren die S
@@ -5551,18 +5616,18 @@ DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 11.03.2027 um 2
  ten und Auszubildende bis 27 Jahre erhalten gegen Vorlage des entsprechend
  en Ausweises eine Ermäßigung. Rollstuhlfahrer bitte anmelden! Diese Plä
  tze können nur über das Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20260922T083114Z
+LAST-MODIFIED:20261014T084108Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-03-11-ErhardtundA
  lexander.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Erhardt & Alexander
 DTSTART;TZID=Europe/Berlin:20270311T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:3055074d-e917-4504-8939-807d31eaa580@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine Show zu Ehren von Heinz Erhardt & Peter Alexander Unverge
@@ -5578,7 +5643,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orgelentdeckertag für Kinder
 DTSTART;TZID=Europe/Berlin:20270313T100000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:cb1b51db-10c0-4c1a-b6a5-2d19e9f111ee@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Einen Tag lang kannst du mit uns die Orgel entdecken. Wir erku
@@ -5594,7 +5659,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kreativwerkstatt Osterbasteln für Kinder
 DTSTART;TZID=Europe/Berlin:20270316T163000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:8b439e81-2bbb-4069-ab72-cf363c05a917@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Am 16. März 2027 wird’s bunt!Von 16:30bis 18:30 Uhr laden w
@@ -5610,7 +5675,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Geheimnis des roten Katers
 DTSTART;TZID=Europe/Berlin:20270317T160000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:c9db6979-42d1-4c85-b144-23036e5e5704@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Zauberhaftes Abenteuer voller Überraschungen\, frei nach dem 
@@ -5626,7 +5691,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KIP-Frühjahrsausstellung 2027
 DTSTART;TZID=Europe/Berlin:20270318T180000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:6efacd1b-7835-435d-9735-cf90267486a7@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Vernissage Die Künstlervereinigung KiP - Kunst im Peiner Land
@@ -5642,7 +5707,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mord im Schützenverein
 DTSTART;TZID=Europe/Berlin:20270319T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:9deaba2d-59f5-4136-b6d0-858e118ab6c5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie mit Musik von David Gieselmann Rheinisches Landesthea
@@ -5658,7 +5723,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K-POP LIVE!
 DTSTART;TZID=Europe/Berlin:20270407T180000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:4cd96964-1136-48f1-bb3c-493794f84155@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Hits. Die Moves. Die Show. Das K-Pop-Erlebnis\, auf das al
@@ -5673,7 +5738,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der eingebildete Kranke
 DTSTART;TZID=Europe/Berlin:20270408T200000
-DTSTAMP:20261013T103344Z
+DTSTAMP:20261014T084125Z
 UID:10cbcf0f-5e89-46f7-b5a8-ac324554ffef@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Molière Komödie am Altstadtmarkt\, Braunschweig
@@ -5737,7 +5802,7 @@ BEGIN:VEVENT
 SUMMARY:Die Schöne und das Biest - das Musical
 DTSTART;TZID=Europe/Berlin:20270417T150000
 DTEND;TZID=Europe/Berlin:20270417T170000
-DTSTAMP:20261013T103322Z
+DTSTAMP:20261014T084108Z
 UID:b7cb92bf-0f91-41b2-b740-f36d759209a9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Stadttheater Peiner Festsäle Samstag\, 17.04.2027 um 15 Uhr D
@@ -5792,9 +5857,51 @@ URL:https://www.peine.de/de/veranstaltungen/termine/2027-04-20-Yeswecamp.p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Justitia geht schlafen
+DTSTART;TZID=Europe/Berlin:20270430T200000
+DTEND;TZID=Europe/Berlin:20270430T220000
+DTSTAMP:20261014T084108Z
+UID:263d0594-b1ff-456c-872a-fc5737405fd2@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Studio99 im Stadttheater Peiner Festsäle Freitag\, den 30.04.
+ 2027 um 20:00 Uhr Justitia geht schlafen Briefe aus der Unwirklichkeit von
+  Bettina Wilts und Stefan Honrath Eine szenische Lesung über Stalking Pre
+ miere In Kooperation mit dem Scharoun Theater Wolfsburg Ein Mann lernt ein
+ e Frau kennen. Nach einiger Zeit bemerkt er\, dass mit ihr etwas nicht sti
+ mmt\, und will den Kontakt abbrechen. Damit beginnt für ihn ein ungeahnte
+ r Leidensweg\, da sie ihn stalkt\, beschimpft\, verunglimpft und einem tä
+ glichen Terror aussetzt. Sein anfänglicher Glaube\, dass Polizei und Just
+ iz ihn schützen würden\, gerät ins Wanken. Seine Erlebnisse teilt er in
+  Briefen mit\, die Reaktionen der Umwelt\, auch der Stalkerin\, werden in 
+ deren Briefen deutlich. Vor allem der Austausch mit seinem besten Freund l
+ ässt das Publikum mitfühlen\, mitleiden und am Ende nachdenklich zurück
+ . Die persönliche Perspektive findet in dem dramaturgisch fesselnden Stü
+ ck ebenso Raum wie der Blick auf den Rechtsstaat\, der seine Bürger schü
+ tzen soll. Das Autorenduo hat sich im Vorfeld mit verschiedenen realen Fä
+ llen auseinandergesetzt und diese literarisch verarbeitet. In der Folge en
+ tstand ein Werk\, dessen Inhalt fiktiv ist\, dessen Ablauf sich aber genau
+ so in unserem Land ereignen könnte. Es handelt sich um eine gemeinsame Ur
+ aufführung von Scharoun Theater Wolfsburg und Kulturring Peine\, die erst
+ malig bei einer Inszenierung kooperieren. Neben in Peine bekannten Schausp
+ ielern (u.a. Thomas Henniger von Wallersbrunn) werden eine Schauspielerin 
+ und ein Schauspieler aus Wolfsburg in dieser szenischen Lesung mitwirken. 
+ Der Aufführungstermin im Scharoun Theater Wolfsburg wird gesondert bekann
+ tgegeben. www.theater.wolfsburg.de Schüler\, Studenten und Auszubildende 
+ bis 27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine Erm
+ äßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über
+  das Servicebüro direkt gebucht werden!
+LAST-MODIFIED:20261014T084108Z
+LOCATION:Studio 99 im Stadttheater Peiner Festsäle\, Friedrich-Ebert-Plat
+ z 12\, 31226 Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/2027-04-30-Justitiageh
+ tschlafen.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justitia geht schlafen
 DTSTART;TZID=Europe/Berlin:20270502T180000
 DTEND;TZID=Europe/Berlin:20270502T193000
-DTSTAMP:20261008T103255Z
+DTSTAMP:20261014T084108Z
 UID:68894e4a-c7a8-4b5a-83ff-b11ef1e7fd5c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Studio99 im Stadttheater Peiner Festsäle Sonntag\, den 02.05.
@@ -5833,9 +5940,83 @@ URL:https://www.peine.de/de/veranstaltungen/termine/2027-05-02-Justitia2.p
  hp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Harold und Maude
+DTSTART;TZID=Europe/Berlin:20270513T200000
+DTEND;TZID=Europe/Berlin:20270513T223000
+DTSTAMP:20261014T084108Z
+UID:7cdc7b9d-11ee-4440-95da-f0f46c3989dd@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 13.05.2027 um 2
+ 0:00 Uhr Harold und Maude Nach dem Film von Hal Ashby und dem Drehbuch von
+  Colin Higgins Westfälisches Landestheater Der etwa 20-jährige Harold ha
+ t zwei Hobbys\, die – um es vorsichtig zu formulieren – bei seiner Umg
+ ebung Befremden hervorrufen: Er täuscht gerne Selbstmorde vor und er geht
+  gerne auf Beerdigungen. Seine Mutter sieht angesichts dieser beunruhigend
+ en Abnormitäten nur eine Rettung: Harold muss heiraten. Doch sämtliche K
+ andidatinnen flüchten panisch\, wenn Harold begeistert das nächste Suizi
+ d-Szenario inszeniert. Und so braust er mit seinem zu einem Leichenwagen u
+ mgebauten Cadillac fröhlich zu den nächsten Beerdigungen. Dort trifft er
+  immer wieder die 79-jährige Maude\, die vor Lebenslust\, Energie und Abe
+ nteuerfreude nur so sprüht. Fortan ziehen sie gemeinsam ihre Runden und v
+ erunsichern mit unkonventionellen Aktionen die halbe Stadt. Harold erfähr
+ t durch Maudes unbändige Kreativität eine nicht gekannte Lebensfreude un
+ d emanzipiert sich immer mehr von seiner dominanten Mutter. Doch seine Hof
+ fnung\, Maude an ihrem 80. Geburtstag zu heiraten\, steht im direkten Gege
+ nsatz zu dem\, was sie für diesen Tag geplant hat ... „Harold und Maude
+ “ ist einer der Kultfilme der Filmgeschichte. Ursprünglich entstand das
+  Drehbuch von Colin Higgins während eines Seminars für Nachwuchsautoren.
+  Der entstandene Film entwickelte sich mit den Jahren zu einem weltweiten 
+ Dauerbrenner. Kurz nach Veröffentlichung des Films schrieb Higgins das Dr
+ ehbuch in einen Roman und ein Theaterstück um. Schüler\, Studenten und A
+ uszubildende bis 27 Jahre erhalten gegen Vorlage des entsprechenden Auswei
+ ses eine Ermäßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze könn
+ en nur über das Servicebüro direkt gebucht werden!
+LAST-MODIFIED:20261014T084108Z
+LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
+ Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/2027-05-13-HaroldundMa
+ ude.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffpunkt: Kiosk
+DTSTART;TZID=Europe/Berlin:20270528T200000
+DTEND;TZID=Europe/Berlin:20270528T223000
+DTSTAMP:20261014T084108Z
+UID:3abdd8cf-cd04-4f1e-82f9-34628329db77@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Stadttheater Peiner Festsäle Freitag\, den 21.05.2027 um 20:0
+ 0 Uhr Treffpunkt: Kiosk Lieder und Erlebnisse rund um das Leben Landesthea
+ ter Detmold Ob Büdchen\, Späti oder Trinkhalle: Der lokale Kiosk ist Dre
+ h- und Angelpunkt eines jeden Groß- und Kleinstadtviertels. Er ist Treffp
+ unkt\, Bühne und Brücke zwischen den Welten. Hier begegnet die Rentnerin
+  dem Schulkind\, die Bauarbeiterin dem Yogalehrer\, der Rechtsanwalt der K
+ unststudentin. Wo die Wege dieser Menschen sich sonst selten kreuzen würd
+ en\, treibt die Lust auf neue Kreuzworträtsel\, eine kalte Cola\, ein cre
+ miges Eis oder eine Schachtel Zigaretten sie alle an denselben Ort. Hier w
+ erden Pläusche gehalten\, Herzen ausgeschüttet\, Siege gefeiert und Konf
+ likte gelöst. Es entstehen Geschichten im Vorbeigehen – und ist alles g
+ esagt\, geht jeder seines Weges. Bis der Kiosk erneut ruft. Auf einer musi
+ kalischen Reise quer durch Schlager\, Pop\, Rock\, Folk und Swing erzählt
+  „Treffpunkt: Kiosk“ von Geschichten aus dem Kiez – von Sehnsucht\, 
+ Zusammenhalt und den kleinen großen Momenten des Lebens. Mit Kioskbude vo
+ rm Theater. Schüler\, Studenten und Auszubildende bis 27 Jahre erhalten g
+ egen Vorlage des entsprechenden Ausweises eine Ermäßigung. Rollstuhlfahr
+ er bitte anmelden! Diese Plätze können nur über das Servicebüro direkt
+  gebucht werden!
+LAST-MODIFIED:20261014T084108Z
+LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
+ Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/2027-05-28-TreffpunktK
+ iosk.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kinderkirchenübernachtung für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20270918T170000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:b545bc9f-1773-493e-bf7d-6e611678d34d@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine Nacht in der Kirche? Na klar! Bei unserer Kirchenübernac
@@ -5851,7 +6032,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babysitter*innenkurs für Teenager und Jugendliche ab 12 Jahren
 DTSTART;TZID=Europe/Berlin:20271002T100000
-DTSTAMP:20261013T103401Z
+DTSTAMP:20261014T084140Z
 UID:a9d42dff-3ee6-4800-ad99-024a3978f6d7@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Was brauchen Kinder in welcher Entwicklungsstufe? Wie kannst d
