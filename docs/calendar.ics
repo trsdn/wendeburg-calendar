@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Volksfest in Zweidorf
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20261111T105425Z
+DTSTAMP:20261112T110155Z
 UID:01dc5eeb-1885-486d-8478-de6f813f76ae@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:...immer im August Termin für 2026: 14.-16.August 2026
@@ -3297,7 +3297,7 @@ BEGIN:VEVENT
 SUMMARY:Drachenfest
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261111T105425Z
+DTSTAMP:20261112T110155Z
 UID:3ffda05b-b566-4ba0-aae7-565edfa35799@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:...immer am vorletzten Sonntag im Oktober Termin für 2024: 18
@@ -3907,9 +3907,9 @@ BEGIN:VEVENT
 SUMMARY:Der Tatortreiniger
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261101T102530Z
+DTSTAMP:20261112T110123Z
 UID:b946d87a-44c3-44aa-b4d3-edd9d5cd5a16@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 29.10.2026 um 2
  0:00 Uhr Der Tatortreiniger von Mizzy Meyer Eine Produktion des Contrakrei
  s Theater Bonn in Kooperation mit umbreit Entertainment GmbH & Co. KG Gef
@@ -3939,11 +3939,11 @@ DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 29.10.2026 um 2
  e erhalten gegen Vorlage des entsprechenden Ausweises eine Ermäßigung. R
  ollstuhlfahrer bitte anmelden! Diese Plätze können nur über das Service
  büro direkt gebucht werden!
-LAST-MODIFIED:20261101T102530Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
  Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-10-29-DerTatortre
  iniger.php
 END:VEVENT
@@ -4288,9 +4288,9 @@ BEGIN:VEVENT
 SUMMARY:Mitmachbrunch
 DTSTART;TZID=Europe/Berlin:20261101T110000
 DTEND;TZID=Europe/Berlin:20261101T130000
-DTSTAMP:20261101T102530Z
+DTSTAMP:20261112T110123Z
 UID:811b3d5e-caa4-40c3-adc2-85066c07e14b@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Gemeinsam mit Freunden\, Familie und netten Menschen aus der N
  achbarschaft den Vormittag verfrühstücken. Wir sorgen für heiße und ka
  lte Getränke und Brötchen. Ihr bringt einfach eure liebsten Köstlichkei
@@ -4301,10 +4301,10 @@ DESCRIPTION:Gemeinsam mit Freunden\, Familie und netten Menschen aus der N
   Ehrenamtskarte informieren. Für die Planung ist eine Anmeldung bis zum 2
  4.10 erwünscht. E-Mail erwünscht: Vechelde vereint: 01515 - 4244871 hall
  o@vechelde-vereint.de
-LAST-MODIFIED:20261028T093745Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Bürgerzentrum Vechelde\, Hildesheimer Straße 5\, 38159 Vechelde
 ORGANIZER;CN="Vechelde vereint":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Mitmachbrunch.php
 END:VEVENT
 BEGIN:VEVENT
@@ -4337,7 +4337,7 @@ BEGIN:VEVENT
 SUMMARY:Herzfaden
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:965ef755-02fa-4475-95e3-c3636aea917b@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Stadttheater Peiner Festsäle Mittwoch\, den 04.11.2026 um 20:
@@ -4384,13 +4384,13 @@ BEGIN:VEVENT
 SUMMARY:Elterncafé
 DTSTART;TZID=Europe/Berlin:20261104T143000
 DTEND;TZID=Europe/Berlin:20261104T160000
-DTSTAMP:20261104T105144Z
+DTSTAMP:20261112T110022Z
 UID:94256186-55d5-487e-b1c2-237699b32d85@trsdn.github.io
-SEQUENCE:0
-LAST-MODIFIED:20261009T103005Z
+SEQUENCE:1
+LAST-MODIFIED:20261112T110022Z
 LOCATION:Evanglisch- Lutherischer Kindergarten\, Braunschweiger Straße 10
  \, 38716 Wendeburg
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/elterncaf--9000
  01407-26610.ical
 END:VEVENT
@@ -4398,9 +4398,9 @@ BEGIN:VEVENT
 SUMMARY:Seniorenkreis des DRK Ortsverein Peine
 DTSTART;TZID=Europe/Berlin:20261104T143000
 DTEND;TZID=Europe/Berlin:20261104T163000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:104cc0d1-084c-496c-8404-49aa423896a6@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Herzlich willkommen zu unserem fröhlichen Seniorenkreis! Freu
  en Sie sich auf gemütliche Stunden in netter Gesellschaft – mit guten G
  esprächen\, gemeinsamem Singen und Tanzen und vielen schönen Erinnerunge
@@ -4412,10 +4412,10 @@ DESCRIPTION:Herzlich willkommen zu unserem fröhlichen Seniorenkreis! Freu
   vorbei\, Sie finden uns in den Räumen des Senioren-Stützpunktes\, Im Wi
  nkel 31 31224 Peine Die Treffen finden Mittwochs einmal im Monat statt. Ic
  h freue mich auf Sie\, Erika Meyer.
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Senioren- & Pflegestützpunkt Peine\, Winkel 31\, 31224 Peine
 ORGANIZER;CN="DRK Ortsverein Peine e.V.":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Seniorenkreis-des-DRK-
  Ortsverein-Peine.php
 END:VEVENT
@@ -4440,46 +4440,46 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Sitzung des Ortsrates Sophiental
 DTSTART;TZID=Europe/Berlin:20261104T190000
-DTSTAMP:20261104T105144Z
+DTSTAMP:20261112T110022Z
 UID:4fe1efbf-885d-42c1-967e-6a29c174e3e4@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Zur Tagesordnung
-LAST-MODIFIED:20261027T085619Z
+LAST-MODIFIED:20261112T110022Z
 LOCATION:Gaststätte ?Zur Linde?
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/1-sitzung-des-o
  rtsrates-sophiental-900001323-26610.ical
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herzfaden
 DTSTART;TZID=Europe/Berlin:20261104T200000
-DTSTAMP:20261104T105305Z
+DTSTAMP:20261112T110140Z
 UID:11dc5366-33a7-4b88-a027-fd079dfc69e9@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Schauspiel nach dem Roman von Thomas Hettche Über die Entsteh
  ung der Augsburger Puppenkiste. Burghofbühne Dinslaken ab 26\,50 €
-LAST-MODIFIED:20260830T191716Z
+LAST-MODIFIED:20261112T110140Z
 LOCATION:Stadttheater Peiner Festsäle
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-11-04-Herzfaden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reden wir drüber.
 DTSTART;TZID=Europe/Berlin:20261104T200000
-DTSTAMP:20261104T105305Z
+DTSTAMP:20261112T110140Z
 UID:2055b60c-c5c2-421f-ad27-8fc96e960a8f@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Bürgerdialog mit MP Olaf Lies Der Niedersächsische Ministerp
  räsident Olaf Lies lädt interessierte Bürgerinnen und Bürger zu einem 
  Dialog über Demokratie und aktuelle Themen ein. Was bewegt Peine? Welche 
  Fragen oder Ideen haben Sie? kostenfrei
-LAST-MODIFIED:20261029T095603Z
+LAST-MODIFIED:20261112T110140Z
 LOCATION:Forum Peine
 ORGANIZER;CN="Niedersächsische Staatskanzlei":mailto:noreply@trsdn.github
  .io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
  php?vDetail=2026-11-04-Olaf-Lies
 END:VEVENT
@@ -4487,20 +4487,20 @@ BEGIN:VEVENT
 SUMMARY:Reden wir drüber.
 DTSTART;TZID=Europe/Berlin:20261104T200000
 DTEND;TZID=Europe/Berlin:20261104T213000
-DTSTAMP:20261031T093614Z
+DTSTAMP:20261112T110123Z
 UID:311eaf13-af76-4d96-960f-539dfd89cbde@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Der Niedersächsische Ministerpräsident Olaf Lies lädt inter
  essierte Bürgerinnen und Bürger zu einem Dialog über Demokratie und akt
  uelle Themen ein. Was bewegt Peine? Welche Fragen oder Ideen haben Sie? Nu
  tzen Sie die Gelegenheit\, gemeinsam mit Olaf Lies und Bürgermeister Klau
  s Saemann ins Gespräch zu kommen. Bringen Sie Ihre Anregungen\, Fragen un
  d Perspektiven ein.
-LAST-MODIFIED:20261031T093614Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Forum Peine\, Anna-Margret-Janovicz-Platz 1\, 31224 Peine
 ORGANIZER;CN="Niedersächsische Staatskanzlei":mailto:noreply@trsdn.github
  .io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-11-04-Olaf-Lies.p
  hp
 END:VEVENT
@@ -4508,7 +4508,7 @@ BEGIN:VEVENT
 SUMMARY:Lilly und die Erbse
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:7641bf6c-34a8-491e-a54e-b43da875a61d@trsdn.github.io
 SEQUENCE:3
 DESCRIPTION:Stadttheater Peiner Festsäle Donnerstag\, den 05.11.2026 um 1
@@ -4596,7 +4596,7 @@ BEGIN:VEVENT
 SUMMARY:Ladies Ahoi! AUSVERKAUFT!
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:c4c44277-bccd-4cbb-a4aa-6715aff4326f@trsdn.github.io
 SEQUENCE:2
 DESCRIPTION:Studio 99 des Stadttheaters Peiner Festsäle Freitag\, den 06.
@@ -4906,7 +4906,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grüntag für Konfirmand*innen und Interessierte Jugendliche
 DTSTART;TZID=Europe/Berlin:20261112T153000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:2a15b4b7-de37-4c43-ab42-6d2540990727@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Grüntag steht wieder vor der Tür!
@@ -4920,7 +4920,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Sitzung des Ortsrates Bortfeld
 DTSTART;TZID=Europe/Berlin:20261112T190000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:637c332e-a047-4e6d-91c8-1ceabf592fe1@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Zur Tagesordnung
@@ -4933,7 +4933,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Sitzung des Ortsrates Neubrück
 DTSTART;TZID=Europe/Berlin:20261112T190000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:0bf48d8e-4f5d-4fab-b022-0668501ca3b1@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Zur Tagesordnung
@@ -5009,24 +5009,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü30-Party im Härke Braustübchen
 DTSTART;TZID=Europe/Berlin:20261114T193000
-DTSTAMP:20261031T093614Z
+DTSTAMP:20261112T110123Z
 UID:4a91af32-67dd-42ca-8798-38603bd75e13@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Wann? Am Samstag\, den 14. November Einlass ab 19:30 Uhr\, Beg
  inn ab 20 Uhr Wo? Im Härke Braustübchen\, Am Werderpark 5 in 31224 Peine
   Was? Ü30-Party mit Musik von DJ Olli Eintritt an der Abendkasse 6€ Wir
   freuen uns auf Euch!
-LAST-MODIFIED:20261031T093614Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Härke Braustübchen\, Am Werderpark 5\, 31224 Peine
 ORGANIZER;CN="Eixer Haus am See":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Ue30-Party-im-Haerke-B
  raustuebchen-2.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Zero
 DTSTART;TZID=Europe/Berlin:20261114T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:47a332da-ba7b-4c37-880d-5a78edfe858a@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Die gefeierte Linkin Park Tribute Band ist zurück! Vorverkauf
@@ -5042,9 +5042,9 @@ BEGIN:VEVENT
 SUMMARY:KulturSchwan Peine: Simply the Bätz - Alles gut ist auch scheiße
 DTSTART;TZID=Europe/Berlin:20261114T200000
 DTEND;TZID=Europe/Berlin:20261114T223000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:b11b9931-313d-4a47-b1e3-7bf18a8eb1e3@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Ausgerüstet mit Gitarre und einem Hang zu enttäuschten Erwar
  tungen findet Bätz die Komik im Tragischen und provoziert mal sanftmütig
   und mal ungehobelt bei den Zuschauern ungenierte Lachanfälle sowie ertap
@@ -5056,10 +5056,10 @@ DESCRIPTION:Ausgerüstet mit Gitarre und einem Hang zu enttäuschten Erwar
  tung. Mal sanftmütig und mal ungehobelt findet er die Komik im Tragischen
   und versteht es damit wie kein zweiter\, sein Publikum zu schütteln und 
  zu rühren.
-LAST-MODIFIED:20261026T085206Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Schwan\, Breite Straße 58\, 31224 Peine
 ORGANIZER;CN="Peine Marketing GmbH":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/erleben/events/kulturschwan/
 END:VEVENT
 BEGIN:VEVENT
@@ -5092,7 +5092,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst Gottesdienst zum Volkstrauertag
 DTSTART;TZID=Europe/Berlin:20261115T110000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:764665e7-8fb3-4787-ba8b-d777b5b6161d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -5105,7 +5105,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst Gottesdienst zum Volkstrauertag
 DTSTART;TZID=Europe/Berlin:20261115T110000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:bafb213e-3fb2-4402-ac67-5352bab91103@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261025T082353Z
@@ -5119,7 +5119,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volkstrauertag mit Kranzniederlegung
 DTSTART;TZID=Europe/Berlin:20261115T110000
-DTSTAMP:20261111T105431Z
+DTSTAMP:20261112T110159Z
 UID:650e74e8-d9a9-442f-a79f-92b92129acf1@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261027T085802Z
@@ -5132,9 +5132,9 @@ BEGIN:VEVENT
 SUMMARY:Stadtführung: Ein Stadtrundgang im Sitzen
 DTSTART;TZID=Europe/Berlin:20261115T143000
 DTEND;TZID=Europe/Berlin:20261115T160000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:f6948d27-efce-4a22-a395-f2f7ae0960a9@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Im historischen Ambiente des „Schwan“ laden die Gästefüh
  rer von Peine Marketing zu einer entspannten Tasse Kaffee ein und präsent
  ieren auf anschauliche Weise die Veränderungen Peines im Laufe der Jahre.
@@ -5145,17 +5145,17 @@ DESCRIPTION:Im historischen Ambiente des „Schwan“ laden die Gästefüh
  tet dieser Stadtrundgang spannende Einblicke. Die Sehenswürdigkeiten der 
  Stadt erscheinen aus einer neuen Perspektive und laden dazu ein\, sich von
   der faszinierenden Geschichte Peines begeistern zu lassen.
-LAST-MODIFIED:20261026T085206Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Schwan\, Breite Straße 58\, 31224 Peine
 ORGANIZER;CN="Peine Marketing GmbH":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/erleben/stadtfuehrungen/sonderfuehrungen/
  ein-stadtrundgang-im-sitzen/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedensgebet
 DTSTART;TZID=Europe/Berlin:20261115T190000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:86b616c3-a619-4874-94ab-f6b6ba252965@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261025T082353Z
@@ -5200,7 +5200,7 @@ BEGIN:VEVENT
 SUMMARY:Ideentreff
 DTSTART;TZID=Europe/Berlin:20261117T180000
 DTEND;TZID=Europe/Berlin:20261117T200000
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:93ac6042-c86f-4d34-9af7-3d44fd20d52d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Ideentreff soll Raum für Austausch\, gemeinsames Nachdenk
@@ -5245,7 +5245,7 @@ BEGIN:VEVENT
 SUMMARY:4. Peiner Rudelsingen (Steh-Konzert\, begrenzte Sitzplätze sind n
  ur über den Veranstalter direkt buchbar)
 DTSTART;TZID=Europe/Berlin:20261118T193000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:28e76d7b-94cc-4f3d-93d4-2954c33aaed2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Mitsing-Event für alle! Gemeinsam singen\, lachen und ein
@@ -5263,7 +5263,7 @@ BEGIN:VEVENT
 SUMMARY:Blutspende
 DTSTART;TZID=Europe/Berlin:20261120T150000
 DTEND;TZID=Europe/Berlin:20261120T190000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:8008ecee-3c67-4834-b19a-3cf73fb670cc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Blutspende in der Aueschule
@@ -5277,9 +5277,9 @@ SUMMARY:Whisky-Tasting: „Whisky aus den schottischen Highlands – eine
  Region mit vielen Gesichtern“
 DTSTART;TZID=Europe/Berlin:20261120T190000
 DTEND;TZID=Europe/Berlin:20261120T210000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:ff0ed2fe-4a28-4407-8902-2f919911b72c@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Im Mittelpunkt des Abends steht das größte und zugleich viel
  fältigste Whiskygebiet Schottlands – die Scottish Highlands. Gemeinsam 
  begeben wir uns auf eine geschmackliche Entdeckungsreise durch eine Region
@@ -5302,17 +5302,17 @@ DESCRIPTION:Im Mittelpunkt des Abends steht das größte und zugleich viel
  oder direkt in der Tourist-Information (Breite Str. 58\, 31224 Peine) erwe
  rben. Die Kollegen der Tourist-Information sind dienstags bis freitags von
   10 bis 16 Uhr und samstags von 10 bis 15 Uhr für Sie da.
-LAST-MODIFIED:20261026T085206Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Schwan\, Breite Straße 58\, 31224 Peine
 ORGANIZER;CN="Peine Marketing GmbH":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/geniessen/whisky-tasting-im-schwan/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tante Lissi & Co: Ces‘t La Vie – So ist es eben!
 DTSTART;TZID=Europe/Berlin:20261121T201500
 DTEND;TZID=Europe/Berlin:20261121T230000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:316fe3c3-a131-4d31-b1bb-85d8e1a5d298@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ces't la Vie - So ist es eben! Eine auch mal zotig-derbe Trave
@@ -5336,7 +5336,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Harvesse
 DTSTART;TZID=Europe/Berlin:20261122T090000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:5bdb2ae3-4e88-4a35-bc5e-785f24ec3f0f@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20260930T094119Z
@@ -5349,7 +5349,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Wendeburg
 DTSTART;TZID=Europe/Berlin:20261122T100000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:4926da72-dcf9-4c6e-bf03-768cf2da23cd@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261005T102414Z
@@ -5361,7 +5361,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Bortfeld
 DTSTART;TZID=Europe/Berlin:20261122T110000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:ea08a017-a7a3-49f3-a6f8-13ce52339508@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261026T085244Z
@@ -5374,7 +5374,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Wendezelle
 DTSTART;TZID=Europe/Berlin:20261122T110000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:5ec110ae-9bf7-403f-bd8f-2eb10854574d@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261005T102414Z
@@ -5386,7 +5386,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewigkeitssonntag auf dem Friedhof
 DTSTART;TZID=Europe/Berlin:20261122T110000
-DTSTAMP:20261111T105431Z
+DTSTAMP:20261112T110159Z
 UID:38ce7b65-1d84-4968-b089-6a628b835c57@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261027T085802Z
@@ -5398,7 +5398,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht Friedhofsandacht Ewigkeitssonntag Zweidorf
 DTSTART;TZID=Europe/Berlin:20261122T120000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:5c5f6e77-5a4c-4002-9233-3a7f2da3d1a3@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261011T095909Z
@@ -5410,7 +5410,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Verwaltungsausschusses
 DTSTART;TZID=Europe/Berlin:20261124T170000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:939a9a5c-e922-4764-8c38-b49123ed36e8@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261105T104959Z
@@ -5424,7 +5424,7 @@ BEGIN:VEVENT
 SUMMARY:Treffen AG nachhaltiges Wendeburg
 DTSTART;TZID=Europe/Berlin:20261124T190000
 DTEND;TZID=Europe/Berlin:20261124T210000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:aecb19f8-f4cd-4948-8fcf-32dd6f6bb265@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Jeden letzten Dienstag im Monat trifft sich die AG um über di
@@ -5439,9 +5439,9 @@ BEGIN:VEVENT
 SUMMARY:Geschichten am Kamin
 DTSTART;TZID=Europe/Berlin:20261125T193000
 DTEND;TZID=Europe/Berlin:20261125T213000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:f367fe82-0b14-44d1-a553-8a6832c8ec07@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Geschichten am Kamin in der Alten Stellmacherei Ein gemütlich
  er Abend voller Geschichten erwartet die Besucherinnen und Besucher am 25.
   November 2026 in der Alten Stellmacherei in Gadenstedt. Die beliebte Vera
@@ -5452,10 +5452,10 @@ DESCRIPTION:Geschichten am Kamin in der Alten Stellmacherei Ein gemütlich
  Genießen im Mittelpunkt stehen. Eine schöne Gelegenheit\, dem Alltag fü
  r eine Weile zu entfliehen und sich auf die gemütliche Jahreszeit einzust
  immen.
-LAST-MODIFIED:20261016T080851Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Alte Stellmacherei\, Kattenhagen 1a\, 31246 Ilsede
 ORGANIZER;CN="Alte Stellmacherei":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/geschichten-am-kamin-101374
  746/?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb72037c1f
  58b64a1979a730d85034f
@@ -5464,9 +5464,9 @@ BEGIN:VEVENT
 SUMMARY:Offene Pforte Landkreis - FIPS Peine
 DTSTART;TZID=Europe/Berlin:20261126T130000
 DTEND;TZID=Europe/Berlin:20261126T170000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:d4dc0039-191d-4439-ac76-e4fc4217b458@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:FIPS lädt zur jährlichen Pflanzentauschbörse ein\, im Garte
  n Werderstraße 37 und im grünen Innenhof Hagenstraße 8 & 12: ein Treffp
  unkt für junge und alte Gartenfreunde mit Pflanzentauschbörse\, Kreative
@@ -5478,10 +5478,10 @@ DESCRIPTION:FIPS lädt zur jährlichen Pflanzentauschbörse ein\, im Garte
  pe\, duftende Waffeln\, heißer Kaffee und selbstgebackener Kuchen\, eine 
  bunte Vielfalt handgefertigter Geschenkideen\, nicht nur für Gartenfreund
  e. Für Kinder und kindgebliebene Gäste wird es ein Kreativangebot geben.
-LAST-MODIFIED:20261102T110003Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:FIPS Peine\, Hagenstraße 12\, 31224 Peine
 ORGANIZER;CN=FIPS:mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/offene-pforte-landkreis-fip
  s-peine-101186157/?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHa
  sh=1cb72037c1f58b64a1979a730d85034f
@@ -5489,7 +5489,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Sitzung des Planungs-\, Umwelt- und Klimaschutzausschusses
 DTSTART;TZID=Europe/Berlin:20261126T180000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:631c6342-420b-40db-bd99-d250eaa6cbb5@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261106T104847Z
@@ -5559,7 +5559,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ewig jung
 DTSTART;TZID=Europe/Berlin:20261127T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:8c44280d-bbf6-46a2-b11f-cb347d7453e9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Songdrama von Erik Gedeon Theater für Niedersachsen Eine turb
@@ -5575,7 +5575,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsmarkt Wendeburg
 DTSTART;TZID=Europe/Berlin:20261128T000000
 DTEND;TZID=Europe/Berlin:20261129T000000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:fb720742-99a6-4600-a3e8-1dd45ced2665@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261106T104847Z
@@ -5607,7 +5607,7 @@ BEGIN:VEVENT
 SUMMARY:15. Wendeburger Weihnachtsmarkt
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261129T180000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:de86e5d8-bd3e-4be7-b23e-0c9996aae420@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261108T101618Z
@@ -5620,9 +5620,9 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsmarkt Hohenhameln
 DTSTART;TZID=Europe/Berlin:20261128T133000
 DTEND;TZID=Europe/Berlin:20261128T210000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:2c3aa3c4-45e0-4979-bbd2-cef4b36f1bea@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Weihnachtsmarkt in Hohenhameln 2026 Weihnachtliche Stimmung in
   Hohenhameln! Der Weihnachtsmarkt lädt dazu ein\, die Adventszeit in gem
  ütlicher Atmosphäre zu genießen. Besucherinnen und Besucher können sic
@@ -5630,10 +5630,10 @@ DESCRIPTION:Weihnachtsmarkt in Hohenhameln 2026 Weihnachtliche Stimmung in
   Vorfreude freuen. Ob mit der Familie\, mit Freunden oder bei einem kleine
  n Bummel – der Weihnachtsmarkt in Hohenhameln bietet eine schöne Gelege
  nheit\, sich gemeinsam auf das Weihnachtsfest einzustimmen.
-LAST-MODIFIED:20261018T080038Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:DGH Parkplatz\, Clauener Str. 5\, 31249 Hohenhameln
 ORGANIZER;CN="TSV Hohenhameln":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine-erleben.de/d1i-item-page/weihnachtsmarkt-hohenhameln
  -101374740/?tx_toujoudestinationoneintegration_item%5Btype%5D=2&cHash=1cb7
  2037c1f58b64a1979a730d85034f
@@ -5641,7 +5641,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lissi und Herr Timpe
 DTSTART;TZID=Europe/Berlin:20261128T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:fe7aaacb-9ae4-4b73-965c-14d9f34c937e@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Veronika\, Advent ist da Diese Winterrevue entführt das Publi
@@ -5656,7 +5656,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst zum 1. Advent
 DTSTART;TZID=Europe/Berlin:20261129T093000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:fafa2979-8807-4717-b055-d1f8560e4f31@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261102T110048Z
@@ -5670,7 +5670,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gottesdienst musikalischer Godi mit Trommelgruppe Esengo
 DTSTART;TZID=Europe/Berlin:20261129T110000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:92171aad-09fd-46c3-9879-e9aa1efec4c6@trsdn.github.io
 SEQUENCE:2
 LAST-MODIFIED:20261109T112814Z
@@ -5684,7 +5684,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsmarkt in der Alten Stellmacherei
 DTSTART;TZID=Europe/Berlin:20261129T120000
 DTEND;TZID=Europe/Berlin:20261129T190000
-DTSTAMP:20261102T110003Z
+DTSTAMP:20261112T110123Z
 UID:c2988787-21af-4b9c-bb1a-a6959d77091d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Weihnachtsmarkt in der Alten Stellmacherei Gadenstedt Am erste
@@ -5710,7 +5710,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventsbasteln für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20261130T163000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:bb672f10-48e2-45e4-8dea-136563c984db@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wir laden euch herzlich zum diesjährigen Adventsbasteln ein! 
@@ -5726,7 +5726,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T090000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:3e1c433b-ab8c-44d4-9708-3603e4cfb46c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -5789,7 +5789,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T110000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:8dd9cec5-eb01-49dc-a261-9917ef88656d@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -5828,7 +5828,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskalender-Geschichten
 DTSTART;TZID=Europe/Berlin:20261201T160000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:f3f16e58-9d9a-47c3-b767-183e4d74a3f2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein stimmungsvolles Weihnachtserlebnis Wolfsburger Figurenthea
@@ -5844,7 +5844,7 @@ BEGIN:VEVENT
 SUMMARY:Elterncafé
 DTSTART;TZID=Europe/Berlin:20261202T143000
 DTEND;TZID=Europe/Berlin:20261202T160000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:967e5d7b-da08-43fb-b573-c1d8bf8df936@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261108T101618Z
@@ -5858,9 +5858,9 @@ BEGIN:VEVENT
 SUMMARY:Seniorenkreis des DRK Ortsverein Peine
 DTSTART;TZID=Europe/Berlin:20261202T143000
 DTEND;TZID=Europe/Berlin:20261202T163000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:b4d10cd7-de16-4b49-88a1-d11380fa616c@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Herzlich willkommen zu unserem fröhlichen Seniorenkreis! Freu
  en Sie sich auf gemütliche Stunden in netter Gesellschaft – mit guten G
  esprächen\, gemeinsamem Singen und Tanzen und vielen schönen Erinnerunge
@@ -5872,17 +5872,17 @@ DESCRIPTION:Herzlich willkommen zu unserem fröhlichen Seniorenkreis! Freu
   vorbei\, Sie finden uns in den Räumen des Senioren-Stützpunktes\, Im Wi
  nkel 31 31224 Peine Die Treffen finden Mittwochs einmal im Monat statt. Ic
  h freue mich auf Sie\, Erika Meyer.
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Senioren- & Pflegestützpunkt Peine\, Winkel 31\, 31224 Peine
 ORGANIZER;CN="DRK Ortsverein Peine e.V.":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Seniorenkreis-des-DRK-
  Ortsverein-Peine.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sitzung des Ortsrates Wendeburg
 DTSTART;TZID=Europe/Berlin:20261202T190000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:1a338ebc-aa00-4b23-9472-c5c7f577efd8@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261109T112636Z
@@ -5937,7 +5937,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE REAL COMEDIAN HARMONISTS
 DTSTART;TZID=Europe/Berlin:20261203T193000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:d68a328a-736b-4d54-ab13-ca237341da3a@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Hell ist die Nacht THE REAL COMEDIAN HARMONISTS stimmen mit 
@@ -5954,9 +5954,9 @@ BEGIN:VEVENT
 SUMMARY:Werner Momsen ihm seine Weihnachtsshow
 DTSTART;TZID=Europe/Berlin:20261204T200000
 DTEND;TZID=Europe/Berlin:20261204T223000
-DTSTAMP:20261104T105245Z
+DTSTAMP:20261112T110123Z
 UID:2a023b95-30a8-4f1a-a6d0-e2495e70cefa@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Forum Peine Freitag\, den 04.12.2026 um 20:00 Uhr Werner Momse
  n ihm seine Weihnachtsshow Werner Momsen ist auf der Suche nach dem Weihna
  chtsgefühl. Es ist ihm bei dem ganzen Trubel irgendwie abhanden gekommen!
@@ -5969,17 +5969,17 @@ DESCRIPTION:Forum Peine Freitag\, den 04.12.2026 um 20:00 Uhr Werner Momse
  de bis 27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine E
  rmäßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur üb
  er das Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20261103T104855Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Forum Peine\, Anna-Margret-Janovicz-Platz 1\, 31224 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2026-12-04-WernerMomse
  nWeihnachtsshow.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Momsen ihm seine Weihnachtsshow
 DTSTART;TZID=Europe/Berlin:20261204T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:97f9f759-b4e9-4e7b-8989-e1400f917f73@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Werner Momsen auf der Suche nach dem Weihnachtsgefühl 29\,- 
@@ -5995,7 +5995,7 @@ BEGIN:VEVENT
 SUMMARY:Reparatur Café Wendeburg
 DTSTART;TZID=Europe/Berlin:20261205T100000
 DTEND;TZID=Europe/Berlin:20261205T150000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:9e3df2d4-49f1-4c44-b682-4332f3a7b314@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Treffpunkt für alle und jeden zur gemeinsamen Reparatur von m
@@ -6012,7 +6012,7 @@ BEGIN:VEVENT
 SUMMARY:Adventskonzert
 DTSTART;TZID=Europe/Berlin:20261205T170000
 DTEND;TZID=Europe/Berlin:20261205T180000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:b415a130-30dc-4610-b64e-244bca45a339@trsdn.github.io
 SEQUENCE:0
 LAST-MODIFIED:20261111T105246Z
@@ -6024,18 +6024,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christmas Rock im Härke Braustübchen
 DTSTART;TZID=Europe/Berlin:20261205T193000
-DTSTAMP:20261031T093614Z
+DTSTAMP:20261112T110123Z
 UID:6dbbec46-623e-4e5e-9038-e8e23f366657@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Wann? Am Samstag\, den 05. Dezember Einlass ab 19:30 Uhr\, Beg
  inn ab 20 Uhr Wo? Im Härke Braustübchen\, Am Werderpark 5 in 31224 Peine
   Was? Die Hobbits Weihnachtsband live auf der Bühne\, zwischendrin und Af
  tershow mit DJ Patrick Eintritt an der Abendkasse 9€ Wir freuen uns auf 
  Euch!
-LAST-MODIFIED:20261031T093614Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Härke Braustübchen\, Am Werderpark 5\, 31224 Peine
 ORGANIZER;CN="Eixer Haus am See":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/Christmas-Rock-im-Haer
  ke-Braustuebchen.php
 END:VEVENT
@@ -6043,7 +6043,7 @@ BEGIN:VEVENT
 SUMMARY:Wendezelle leuchtet
 DTSTART;TZID=Europe/Berlin:20261206T170000
 DTEND;TZID=Europe/Berlin:20261206T220000
-DTSTAMP:20261111T105246Z
+DTSTAMP:20261112T110022Z
 UID:731e206f-e5df-4c18-a5b4-66d5602a1ff9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Um eine weihnachtliche Stimmung im Ort zu entfachen\, wird all
@@ -6056,6 +6056,18 @@ LAST-MODIFIED:20261111T105246Z
 LOCATION:Wendezeller Ring\, Wendezeller Ring\, 38176 Wendeburg
 STATUS:CONFIRMED
 URL:https://www.tradi-wendezelle.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sitzung des Verwaltungsausschusses
+DTSTART;TZID=Europe/Berlin:20261208T170000
+DTSTAMP:20261112T110022Z
+UID:c0c488b4-961f-4cca-9228-b2f14b382a8a@trsdn.github.io
+SEQUENCE:0
+LAST-MODIFIED:20261112T110022Z
+LOCATION:Schulstraße 8\, 38176 Wendeburg\, Bürgerhaus Wendeburg
+STATUS:CONFIRMED
+URL:https://www.wendeburg.de/veranstaltungen/veranstaltung/sitzung-des-ver
+ waltungsausschusses-900001082-26610.ical
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Es war die Lerche
@@ -6101,7 +6113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Es war die Lerche
 DTSTART;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:b156f11b-16f9-427f-adac-2f6d4df6bb9f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Ephraim Kishon Neues Globe Theater 34\,50 € | 3
@@ -6183,7 +6195,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jahreskonzert 2026 des Stadtorchester Peine
 DTSTART;TZID=Europe/Berlin:20261213T160000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:b504ea92-0083-4c7d-8887-f56a7b566249@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Musik baut Brücken Vorverkaufsstart 02.11.2026 ab 17\,- €
@@ -6198,7 +6210,7 @@ BEGIN:VEVENT
 SUMMARY:Ideentreff
 DTSTART;TZID=Europe/Berlin:20261215T180000
 DTEND;TZID=Europe/Berlin:20261215T200000
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:eafbacc1-b2dd-4fa8-a9dd-bf389dec8bd1@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Der Ideentreff soll Raum für Austausch\, gemeinsames Nachdenk
@@ -6217,7 +6229,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261217T160000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:3d582ade-2cb8-419e-a715-c82a0095ab53@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -6274,7 +6286,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T090000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:372bde6b-ef54-458d-a36b-7b514905b0f0@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -6331,7 +6343,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pinocchio
 DTSTART;TZID=Europe/Berlin:20261218T113000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:03a550f6-90dc-443d-a4cc-9a45b2c7d593@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Märchenhafte Begegnungen\, wilde Abenteuer und Hits für Kids
@@ -6465,7 +6477,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Von wegen Stille Nacht
 DTSTART;TZID=Europe/Berlin:20261221T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:fec6cc4f-4c39-4498-aff0-95a488a85d9d@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Weihnachtskomödie von Florian Battermann Komödie am Altstadt
@@ -6481,7 +6493,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEST OF VARIETÉ
 DTSTART;TZID=Europe/Berlin:20261231T170000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:60bba9ef-ef19-430d-8b32-5ce4ec00741c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:by Maik M. Paulsen Eine Produktion von Paulsen & Consorten
@@ -6517,9 +6529,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270106T080000
 DTEND;TZID=Europe/Berlin:20270106T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:bcf2a598-d2a4-4c53-a771-79b899db7a58@trsdn.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6530,19 +6542,19 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-01-06.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270109T080000
 DTEND;TZID=Europe/Berlin:20270109T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:0e2cf3df-ae03-47f2-9bcf-256550043950@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6553,19 +6565,19 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-01-09.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270113T080000
 DTEND;TZID=Europe/Berlin:20270113T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:cd2461c1-4ac0-4bea-ad76-111b1e94e554@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6576,16 +6588,16 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-01-13.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Achtsam morden durch bewusste Ernährung
 DTSTART;TZID=Europe/Berlin:20270114T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:42cbb797-f31e-4f2e-9e76-14393ad4ba34@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimikomödie nach Band 5 der Bestseller-Reihe von Karsten Dus
@@ -6634,9 +6646,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270116T080000
 DTEND;TZID=Europe/Berlin:20270116T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:10ee7ae3-e4b6-46b7-8e6a-621066636bd5@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6647,16 +6659,16 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-01-16.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neujahrskonzert
 DTSTART;TZID=Europe/Berlin:20270116T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:dda53ee1-ddcc-4831-aa00-da6389553b92@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:und jetzt alle ! Theater für Niedersachsen Das einzigartige K
@@ -6672,7 +6684,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270117T110000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:88d6dc6f-a41c-487a-8add-2fa43339d90b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -6688,7 +6700,7 @@ BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270117T110000
 DTEND;TZID=Europe/Berlin:20270117T123000
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:cb2ff5f3-8bbc-4366-8676-dc8fc9bb20d6@trsdn.github.io
 SEQUENCE:2
 DESCRIPTION:Theaterrestaurant Peiner Festsäle im Kuppelsaal Sonntag\, den
@@ -6710,7 +6722,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimi-Quiz
 DTSTART;TZID=Europe/Berlin:20270119T190000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:0b22e150-42c6-45af-9782-79fba3654c58@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Mit Rateteams und Moderation kostenfrei mit Anmeldung
@@ -6725,16 +6737,16 @@ BEGIN:VEVENT
 SUMMARY:Krimi-Quiz
 DTSTART;TZID=Europe/Berlin:20270119T190000
 DTEND;TZID=Europe/Berlin:20270119T210000
-DTSTAMP:20261103T104855Z
+DTSTAMP:20261112T110123Z
 UID:cde9e0b5-2f80-4819-9fa8-50ffb63420f9@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:TREFFPUNKT SPARKASSE CELLER STR. 31 Dienstag\, den 19.01.2027 
  um 19:00 Uhr Krimi-Quiz Mit Rateteams und Moderation Sparkassen-Krimi-Tage
   Rollstuhlfahrer bitte anmelden!
-LAST-MODIFIED:20261103T104855Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Treffpunkt Sparkasse Peine\, Celler Str. 31\, 31224 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-01-19-KrimiQuiz.p
  hp
 END:VEVENT
@@ -6742,9 +6754,9 @@ BEGIN:VEVENT
 SUMMARY:Tina Häussermann
 DTSTART;TZID=Europe/Berlin:20270121T200000
 DTEND;TZID=Europe/Berlin:20270121T223000
-DTSTAMP:20261103T104855Z
+DTSTAMP:20261112T110123Z
 UID:4ca23595-88f5-4764-bd94-46544fb73f79@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Forum Peine Donnerstag\, den 21.01.2027 um 20:00 Uhr Tina Häu
  ssermann Happy Konfetti Die Kabarettistin und Comedienne Tina Häussermann
   feuert zu ihrem 25-jährigen Bühnenjubiläum einen Abend voller Sahnehä
@@ -6769,17 +6781,17 @@ DESCRIPTION:Forum Peine Donnerstag\, den 21.01.2027 um 20:00 Uhr Tina Häu
  hre erhalten gegen Vorlage des entsprechenden Ausweises eine Ermäßigung.
   Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über das Servi
  cebüro direkt gebucht werden!
-LAST-MODIFIED:20261103T104855Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Forum Peine\, Anna-Margret-Janovicz-Platz 1\, 31224 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-01-21-Happykonfet
  ti-TinaHaeussermann.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tina Häussermann
 DTSTART;TZID=Europe/Berlin:20270121T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:b26c25d4-6eea-4b48-9905-37934273a850@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Happy Konfetti Die Kabarettistin und Comedienne Tina Häusserm
@@ -6797,7 +6809,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konrad oder das Kind aus der Konservenbüchse
 DTSTART;TZID=Europe/Berlin:20270122T160000
-DTSTAMP:20261111T105411Z
+DTEND;TZID=Europe/Berlin:20270122T180000
+DTSTAMP:20261112T110123Z
+UID:2cc55983-1984-4635-aadc-d3e9e58fc25f@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Stadttheater Peiner Festsäle Freitag\, den 22.01.2027 um 16:0
+ 0 Uhr Konrad oder das Kind aus der Konservenbüchse von Christine Nöstlin
+ ger Sprechwerk Hamburg | Regie und Textfassung: Ann-Cathrin Sudhoff Geför
+ dert durch die Augustin - Stiftung „Konrad oder Das Kind aus der Konserv
+ enbüchse“ von Christine Nöstlinger erzählt die Geschichte des künstl
+ ich erschaffenen Musterknaben Konrad und der liebenswerten Chaotin Berti B
+ artolotti\, die unerwartet zu einer einzigartigen Familie werden. Die schr
+ äge Berti Bartolotti erhält ein Postpaket\, in dem sich eine überdimens
+ ional große Konservenbüchse befindet. Heraus schlüpft Konrad\, ein fabr
+ ikneuer\, perfekter und wohlerzogener Junge. Nach dem anfänglichen Schock
+  schließt sie den unerwarteten Familienzuwachs schnell ins Herz und geht 
+ in ihrer Mutterrolle auf. Als die Firma ihn zurückfordert\, weil die Lief
+ erung ein Fehler war\, weigert sich Berti\, Konrad wieder herzugeben. Mit 
+ Unterstützung ihrer Freunde macht sie aus Konrad ein fröhliches Kind mit
+  Ecken und Kanten\, das die Fabrik nicht mehr zurückhaben will. Die Produ
+ ktion wurde gefördert durch die ZEIT STIFTUNG BUCERIUS und die Haspa Hamb
+ urg Stiftung. Altersempfehlung: 8+ Schüler\, Studenten und Auszubildende 
+ bis 27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine Erm
+ äßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über
+  das Servicebüro direkt gebucht werden!
+LAST-MODIFIED:20261112T110123Z
+LOCATION:Stadttheater Peiner Festsäle\, Friedrich-Ebert-Platz 12\, 31226 
+ Peine
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.peine.de/de/veranstaltungen/termine/2027-01-22-Konradoderd
+ asKindausderKonservenbuechse.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konrad oder das Kind aus der Konservenbüchse
+DTSTART;TZID=Europe/Berlin:20270122T160000
+DTSTAMP:20261112T110140Z
 UID:ef13a3ab-2fb9-4e84-9af9-39089cfdfeca@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:von Christine Nöstlinger Sprechwerk Hamburg | Regie und Textf
@@ -6813,27 +6860,27 @@ BEGIN:VEVENT
 SUMMARY:Auf Harz und Nieren
 DTSTART;TZID=Europe/Berlin:20270127T190000
 DTEND;TZID=Europe/Berlin:20270127T203000
-DTSTAMP:20261022T083457Z
+DTSTAMP:20261112T110123Z
 UID:00d5a7ea-edb3-400e-9dea-5c4470666ed2@trsdn.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Studio 99 im Stadttheater Peiner Festsäle Mittwoch\, den 27.0
  1.2027 um 19:00 Uhr Auf Harz und Nieren Krimi-Lesung von Autor Roland Lang
  e Im September 2026 erscheint der neue und inzwischen 16. Kriminalroman\, 
  der auch diesmal vor der Kulisse des Harzes\, in einem kleinen Örtchen na
  mens Bollenstedt\, spielt. Rollstuhlfahrer bitte anmelden! Diese Plätze k
  önnen nur über das Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20261022T083457Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Studio 99 im Stadttheater Peiner Festsäle\, Friedrich-Ebert-Plat
  z 12\, 31226 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-01-27-AufHarzundN
  ieren.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auf Harz und Nieren
 DTSTART;TZID=Europe/Berlin:20270127T190000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:65d117be-8227-4169-950d-f531840ff5bc@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Krimi-Lesung von Autor Roland Lange 12\,- €
@@ -6847,7 +6894,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alk oder nicht Alk - Das ist die Frage
 DTSTART;TZID=Europe/Berlin:20270129T190000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:c7ff1fb9-2cdd-4f2b-9f76-a49c63852ab6@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Lesung 35\,- € inkl. Getränke
@@ -6861,7 +6908,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270131T110000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:c28b1747-7c9b-4941-a9ef-7a6a4eddc01b@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Sparkassen-Krimitage Tickets Frühstück: 17\,- | Tickets Lesu
@@ -6877,7 +6924,7 @@ BEGIN:VEVENT
 SUMMARY:Krimifrühstück #1 und #2
 DTSTART;TZID=Europe/Berlin:20270131T110000
 DTEND;TZID=Europe/Berlin:20270131T123000
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:f846aaf3-da94-4d36-8f0d-59324c74d2b8@trsdn.github.io
 SEQUENCE:2
 DESCRIPTION:Theaterrestaurant Peiner Festsäle im Kuppelsaal Sonntag\, den
@@ -6900,9 +6947,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270203T080000
 DTEND;TZID=Europe/Berlin:20270203T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:69ea6c71-5f60-4252-84da-05d45e04c59b@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6913,16 +6960,16 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-02-03.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trennung für Feiglinge
 DTSTART;TZID=Europe/Berlin:20270205T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:e92fbc1f-ebea-4d3f-af6b-d28e701c3380@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Clément Michel Burghofbühne Dinslaken 34\,50 
@@ -6981,9 +7028,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270206T080000
 DTEND;TZID=Europe/Berlin:20270206T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:a5e09836-825d-4aa6-ba65-88275f7dba4a@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -6994,16 +7041,16 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-02-06.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Azzuro Due
 DTSTART;TZID=Europe/Berlin:20270206T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:12a465b6-b181-4b62-a100-dc25cd738221@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Italo-Pop-Abenteuer geht weiter Kramer Artists 34\,50 € 
@@ -7057,9 +7104,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270210T080000
 DTEND;TZID=Europe/Berlin:20270210T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:b1d82f9f-710d-4f10-a61c-8fafd9b2cbe4@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -7070,10 +7117,10 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-02-10.php
 END:VEVENT
 BEGIN:VEVENT
@@ -7104,7 +7151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elterndisco
 DTSTART;TZID=Europe/Berlin:20270213T190000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:3170e6e8-c5c7-451b-af74-85c1670327ab@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Wenn Mama und Papa die Tanzfläche übernehmen mit DJ Coolada 
@@ -7215,7 +7262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Froschkönig
 DTSTART;TZID=Europe/Berlin:20270227T143000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:bb65c625-b38e-460c-9ccd-94a1cc4fe320@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:oder versprochen ist versprochen Wolfsburger Figurentheater Co
@@ -7230,7 +7277,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ozzyfied
 DTSTART;TZID=Europe/Berlin:20270227T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:9fbecf1e-2221-44b6-8157-c73c0198576f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ozzy Tribute Eine Hommage an den unsterblichen Fürsten der Fi
@@ -7246,7 +7293,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Enkeltrick
 DTSTART;TZID=Europe/Berlin:20270303T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:17c84495-93ec-49a7-8da9-60eb278db394@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Kriminalkomödie von Frank Piotraschke Bremer Kriminaltheater 
@@ -7303,7 +7350,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirsten Lange
 DTSTART;TZID=Europe/Berlin:20270305T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:a8ced61d-8a99-4cc0-be3f-14b8acfae5e8@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Halbnackte Bauarbeiter Eine freche Komödie nach dem gleichnam
@@ -7387,7 +7434,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anouk
 DTSTART;TZID=Europe/Berlin:20270307T160000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:a1065807-e70f-46e9-9753-ab115dd28ae2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Das Kindermusical Nach den gleichnamigen Kinderbuch-Bestseller
@@ -7404,7 +7451,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A pinch of salt
 DTSTART;TZID=Europe/Berlin:20270309T090000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:7ffb15f7-a9d4-4cc3-9065-8d923e0f4527@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Unterstufe Von Peter Griffith 11\,– € Erwachsene 
@@ -7472,7 +7519,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Light fingers
 DTSTART;TZID=Europe/Berlin:20270309T113000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:9c12c5c4-d54a-42f9-939c-19f6eeaee989@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Mittelstufe Von Peter Griffith 11\,– € Erwachsene
@@ -7516,7 +7563,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mcbeth
 DTSTART;TZID=Europe/Berlin:20270309T140000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:cc847378-b7ea-4d15-89db-350f3b4d63a4@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Für die Oberstufe Neue Adaption des Stücks von William Shake
@@ -7574,7 +7621,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Erhardt & Alexander
 DTSTART;TZID=Europe/Berlin:20270311T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:3055074d-e917-4504-8939-807d31eaa580@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine Show zu Ehren von Heinz Erhardt & Peter Alexander Unverge
@@ -7590,7 +7637,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orgelentdeckertag für Kinder
 DTSTART;TZID=Europe/Berlin:20270313T100000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:cb1b51db-10c0-4c1a-b6a5-2d19e9f111ee@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Einen Tag lang kannst du mit uns die Orgel entdecken. Wir erku
@@ -7629,7 +7676,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kreativwerkstatt Osterbasteln für Kinder
 DTSTART;TZID=Europe/Berlin:20270316T163000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:8b439e81-2bbb-4069-ab72-cf363c05a917@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Am 16. März 2027 wird’s bunt!Von 16:30bis 18:30 Uhr laden w
@@ -7646,9 +7693,9 @@ BEGIN:VEVENT
 SUMMARY:Das Geheimnis des roten Katers
 DTSTART;TZID=Europe/Berlin:20270317T160000
 DTEND;TZID=Europe/Berlin:20270317T170000
-DTSTAMP:20261104T105245Z
+DTSTAMP:20261112T110123Z
 UID:48244303-6cfb-40df-9b8f-8f90a6e37c37@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Forum Peine Mittwoch\, den 17.03.2027 um 16:00 Uhr Das Geheimn
  is des roten Katers Zauberhaftes Abenteuer voller Überraschungen\, frei n
  ach dem Märchen vom Gestiefelten Kater Figurentheater Marmelock Hausdame 
@@ -7665,17 +7712,17 @@ DESCRIPTION:Forum Peine Mittwoch\, den 17.03.2027 um 16:00 Uhr Das Geheimn
   27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine Ermäß
  igung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über das
   Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20261104T105245Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Forum Peine\, Anna-Margret-Janovicz-Platz 1\, 31224 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-03-17-DasGeheimni
  sdesrotenKaters.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Geheimnis des roten Katers
 DTSTART;TZID=Europe/Berlin:20270317T160000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:c9db6979-42d1-4c85-b144-23036e5e5704@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Zauberhaftes Abenteuer voller Überraschungen\, frei nach dem 
@@ -7691,7 +7738,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KIP-Frühjahrsausstellung 2027
 DTSTART;TZID=Europe/Berlin:20270318T180000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:6efacd1b-7835-435d-9735-cf90267486a7@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Vernissage Die Künstlervereinigung KiP - Kunst im Peiner Land
@@ -7707,7 +7754,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mord im Schützenverein
 DTSTART;TZID=Europe/Berlin:20270319T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:9deaba2d-59f5-4136-b6d0-858e118ab6c5@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie mit Musik von David Gieselmann Rheinisches Landesthea
@@ -7811,7 +7858,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K-POP LIVE!
 DTSTART;TZID=Europe/Berlin:20270407T180000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:4cd96964-1136-48f1-bb3c-493794f84155@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Die Hits. Die Moves. Die Show. Das K-Pop-Erlebnis\, auf das al
@@ -7826,7 +7873,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der eingebildete Kranke
 DTSTART;TZID=Europe/Berlin:20270408T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:10cbcf0f-5e89-46f7-b5a8-ac324554ffef@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Komödie von Molière Komödie am Altstadtmarkt\, Braunschweig
@@ -7920,7 +7967,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christoph Reuter
 DTSTART;TZID=Europe/Berlin:20270415T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:a75f96c8-7614-43c0-94c6-06c90cdda910@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Alle sind musikalisch! (Ausser manche) Die Regie führten unte
@@ -7966,7 +8013,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herr Hase und Frau Bär
 DTSTART;TZID=Europe/Berlin:20270417T143000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:ffa42789-3174-4ab5-979d-401c209a8418@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Eine humorvolle Geschichte über eine außergewöhnliche Hausg
@@ -7982,7 +8029,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die Schöne und das Biest - das Musical
 DTSTART;TZID=Europe/Berlin:20270417T150000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:7b33103d-b975-41c8-9371-130f9661d94c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Familienmusical ab 28\,- €
@@ -7997,7 +8044,7 @@ BEGIN:VEVENT
 SUMMARY:Die Schöne und das Biest - das Musical
 DTSTART;TZID=Europe/Berlin:20270417T150000
 DTEND;TZID=Europe/Berlin:20270417T170000
-DTSTAMP:20261111T105350Z
+DTSTAMP:20261112T110123Z
 UID:b7cb92bf-0f91-41b2-b740-f36d759209a9@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Stadttheater Peiner Festsäle Samstag\, 17.04.2027 um 15 Uhr D
@@ -8014,7 +8061,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yes\, we camp!
 DTSTART;TZID=Europe/Berlin:20270420T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:05f295a8-3e9a-4f3a-a231-bcbedca3ed8f@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Ein Nachspiel von René Heinersdorff mit Willi Thomczyck\, Ant
@@ -8093,9 +8140,9 @@ BEGIN:VEVENT
 SUMMARY:Justitia geht schlafen
 DTSTART;TZID=Europe/Berlin:20270430T200000
 DTEND;TZID=Europe/Berlin:20270430T220000
-DTSTAMP:20261107T100254Z
+DTSTAMP:20261112T110123Z
 UID:263d0594-b1ff-456c-872a-fc5737405fd2@trsdn.github.io
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Studio99 im Stadttheater Peiner Festsäle Freitag\, den 30.04.
  2027 um 20:00 Uhr Justitia geht schlafen Briefe aus der Unwirklichkeit von
   Bettina Wilts und Stefan Honrath Eine szenische Lesung über Stalking Pre
@@ -8123,18 +8170,18 @@ DESCRIPTION:Studio99 im Stadttheater Peiner Festsäle Freitag\, den 30.04.
  bis 27 Jahre erhalten gegen Vorlage des entsprechenden Ausweises eine Erm
  äßigung. Rollstuhlfahrer bitte anmelden! Diese Plätze können nur über
   das Servicebüro direkt gebucht werden!
-LAST-MODIFIED:20261107T100254Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Studio 99 im Stadttheater Peiner Festsäle\, Friedrich-Ebert-Plat
  z 12\, 31226 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-04-30-Justitiageh
  tschlafen.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Justitia geht schlafen
 DTSTART;TZID=Europe/Berlin:20270430T200000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:45bdaaa0-334c-4108-93d2-dc57c727441c@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Briefe aus der Unwirklichkeit von Bettina Wilts und Stefan Hon
@@ -8150,7 +8197,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Justitia geht schlafen - Zusatztermin
 DTSTART;TZID=Europe/Berlin:20270502T180000
-DTSTAMP:20261111T105411Z
+DTSTAMP:20261112T110140Z
 UID:52fa5e2a-36dd-435d-97f2-a7d7143e1a54@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Briefe aus der Unwirklichkeit von Bettina Wilts und Stefan Hon
@@ -8245,6 +8292,22 @@ URL:https://www.peine.de/de/veranstaltungen/termine/2027-05-13-HaroldundMa
  ude.php
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Harold und Maude
+DTSTART;TZID=Europe/Berlin:20270513T200000
+DTSTAMP:20261112T110140Z
+UID:ad3a8146-b2ff-4c51-8313-26e796f9b640@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Nach dem Film von Hal Ashby und dem Drehbuch von Colin Higgins
+  Westfälisches Landestheater 34\,50 € | 32\,50 € | 30\,– € | 26\,
+ 50 € Ermäßigung: 50 %
+LAST-MODIFIED:20261112T110140Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2027-05-13-HaroldundMaude
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Treffpunkt: Kiosk
 DTSTART;TZID=Europe/Berlin:20270528T200000
 DTEND;TZID=Europe/Berlin:20270528T223000
@@ -8279,12 +8342,27 @@ URL:https://www.peine.de/de/veranstaltungen/termine/2027-05-28-TreffpunktK
  iosk.php
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Treffpunkt: Kiosk
+DTSTART;TZID=Europe/Berlin:20270528T200000
+DTSTAMP:20261112T110140Z
+UID:4c0e5dbd-f70b-4aa4-8890-f0cca4a59d4e@trsdn.github.io
+SEQUENCE:0
+DESCRIPTION:Lieder und Erlebnisse rund um das Leben Landestheater Detmold 
+ 34\,50 € | 32\,50 € | 30\,– € | 26\,50 € Ermäßigung: 50 %
+LAST-MODIFIED:20261112T110140Z
+LOCATION:Stadttheater Peiner Festsäle
+ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
+STATUS:CONFIRMED
+URL:https://www.kulturring-peine.de/kulturring-peine/terminkalender/index.
+ php?vDetail=2027-05-28-TreffpunktKiosk
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Come together
 DTSTART;TZID=Europe/Berlin:20270604T200000
 DTEND;TZID=Europe/Berlin:20270604T223000
-DTSTAMP:20261104T105245Z
+DTSTAMP:20261112T110123Z
 UID:5ba89dbf-bfae-40db-acc6-f1f2b35ae9ad@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Forum Peine Freitag\, den 04.06.2027 um 20:00 Uhr Come togethe
  r Ein humoristisches Plädoyer von und mit Stephan Schad Ensemble Persona 
  In einer Zeit\, in der gesellschaftliche Diskussionen oft polarisieren und
@@ -8301,17 +8379,17 @@ DESCRIPTION:Forum Peine Freitag\, den 04.06.2027 um 20:00 Uhr Come togethe
  n Vorlage des entsprechenden Ausweises eine Ermäßigung. Rollstuhlfahrer 
  bitte anmelden! Diese Plätze können nur über das Servicebüro direkt ge
  bucht werden!
-LAST-MODIFIED:20261104T105245Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Forum Peine\, Anna-Margret-Janovicz-Platz 1\, 31224 Peine
 ORGANIZER;CN="Kulturring Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/2027-06-04-Cometogethe
  r.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KinderCamp für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20270605T100000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:ddae1224-ad01-4126-b233-15e6cb2421b2@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Packt die Schlafsäcke ein – wir starten ins Kindercamp! Ein
@@ -8373,9 +8451,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20270619T070000
 DTEND;TZID=Europe/Berlin:20270619T130000
-DTSTAMP:20261030T095850Z
+DTSTAMP:20261112T110123Z
 UID:86659aba-995c-43ad-a5ef-2e8e9776e629@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -8386,10 +8464,10 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261030T095850Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-06-19.php
 END:VEVENT
 BEGIN:VEVENT
@@ -8420,7 +8498,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinderkirchenübernachtung für Kinder von 6 bis 12 Jahren
 DTSTART;TZID=Europe/Berlin:20270918T170000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:b545bc9f-1773-493e-bf7d-6e611678d34d@trsdn.github.io
 SEQUENCE:1
 DESCRIPTION:Eine Nacht in der Kirche? Na klar! Bei unserer Kirchenübernac
@@ -8436,7 +8514,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babysitter*innenkurs für Teenager und Jugendliche ab 12 Jahren
 DTSTART;TZID=Europe/Berlin:20271002T100000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:a9d42dff-3ee6-4800-ad99-024a3978f6d7@trsdn.github.io
 SEQUENCE:2
 DESCRIPTION:Was brauchen Kinder in welcher Entwicklungsstufe? Wie kannst d
@@ -8452,7 +8530,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kreativwerkstatt Herbstbasteln für Kinder
 DTSTART;TZID=Europe/Berlin:20271007T163000
-DTSTAMP:20261111T105430Z
+DTSTAMP:20261112T110158Z
 UID:49c48682-06a3-4be9-808a-2d9c237e56e8@trsdn.github.io
 SEQUENCE:0
 DESCRIPTION:Beim Herbstbasteln lassen wir es richtig bunt werden! Gemeinsa
@@ -8469,9 +8547,9 @@ BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20271009T080000
 DTEND;TZID=Europe/Berlin:20271009T130000
-DTSTAMP:20261031T093614Z
+DTSTAMP:20261112T110123Z
 UID:60c115c0-1058-40a4-967e-4ece84fa2f59@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -8482,19 +8560,19 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261031T093614Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-10-10.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wochenmarkt Peine
 DTSTART;TZID=Europe/Berlin:20271013T080000
 DTEND;TZID=Europe/Berlin:20271013T130000
-DTSTAMP:20261031T093614Z
+DTSTAMP:20261112T110123Z
 UID:76d8125a-42c8-4c5a-a902-5abbe072f9c7@trsdn.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem 
  Hagenmarkt in Peine\, jeweils in der Zeit von 7.00 Uhr bis 13.00 Uhr\, sta
  tt. In der Zeit vom 01.10. bis 31.03. beginnt der Wochenmarkt erst um 8.00
@@ -8505,10 +8583,10 @@ DESCRIPTION:Die Wochenmärkte finden jeden Mittwoch und Sonnabend auf dem
  rkthändler angeboten. Hinweise bzw. Informationen über die Markthändler
  \, die dauerhaft auf dem Wochenmarkt vertreten sind\, finden Sie im Bereic
  h " Händlerverzeichnis ".
-LAST-MODIFIED:20261031T093614Z
+LAST-MODIFIED:20261112T110123Z
 LOCATION:Hagenmarkt\, 31224 Peine
 ORGANIZER;CN="Stadt Peine":mailto:noreply@trsdn.github.io
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.peine.de/de/veranstaltungen/termine/wochenmarkt-10-14.php
 END:VEVENT
 END:VCALENDAR
